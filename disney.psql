@@ -5,7 +5,7 @@
 -- Dumped from database version 12.2 (Debian 12.2-2.pgdg100+1)
 -- Dumped by pg_dump version 12.3 (Ubuntu 12.3-1.pgdg20.04+1)
 
--- Started on 2020-05-20 09:02:13 +07
+-- Started on 2020-05-20 09:23:14 +07
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -42,7 +42,7 @@ ALTER TABLE public.director OWNER TO postgres;
 
 CREATE TABLE public.disney_char (
     movie_title character varying(38),
-    release_date character varying(10),
+    release_date date,
     hero character varying(26),
     villian character varying(36),
     song character varying(34)
@@ -58,7 +58,7 @@ ALTER TABLE public.disney_char OWNER TO postgres;
 
 CREATE TABLE public.movie_gross (
     movie_title character varying(40),
-    release_date character varying(10),
+    release_date date,
     genre character varying(19),
     mpaa_rating character varying(9),
     total_gross bigint,
@@ -1792,7 +1792,7 @@ INSERT INTO public.voice_actor VALUES ('Zipper', 'Corey Burton', 'Chip ''n Dale 
 INSERT INTO public.voice_actor VALUES ('Zira', 'Suzanne Pleshette', 'The Lion King II: Simba''s Pride');
 
 
--- Completed on 2020-05-20 09:02:15 +07
+-- Completed on 2020-05-20 09:23:16 +07
 
 --
 -- PostgreSQL database dump complete
