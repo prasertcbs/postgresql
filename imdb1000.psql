@@ -1,0 +1,2698 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 12.2 (Debian 12.2-2.pgdg100+1)
+-- Dumped by pg_dump version 12.2 (Ubuntu 12.2-4)
+
+-- Started on 2020-05-22 17:47:22 +07
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- TOC entry 202 (class 1259 OID 16409)
+-- Name: actors; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.actors (
+    id bigint,
+    first_name character varying(18),
+    last_name character varying(13),
+    gender character varying(1),
+    film_count bigint
+);
+
+
+ALTER TABLE public.actors OWNER TO postgres;
+
+--
+-- TOC entry 204 (class 1259 OID 16415)
+-- Name: directors; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.directors (
+    id bigint,
+    first_name character varying(12),
+    last_name character varying(10)
+);
+
+
+ALTER TABLE public.directors OWNER TO postgres;
+
+--
+-- TOC entry 203 (class 1259 OID 16412)
+-- Name: directors_genres; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.directors_genres (
+    director_id bigint,
+    genre character varying(11),
+    prob double precision
+);
+
+
+ALTER TABLE public.directors_genres OWNER TO postgres;
+
+--
+-- TOC entry 207 (class 1259 OID 16424)
+-- Name: movies; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.movies (
+    id bigint,
+    name character varying(28),
+    year bigint,
+    rank double precision
+);
+
+
+ALTER TABLE public.movies OWNER TO postgres;
+
+--
+-- TOC entry 205 (class 1259 OID 16418)
+-- Name: movies_directors; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.movies_directors (
+    director_id bigint,
+    movie_id bigint
+);
+
+
+ALTER TABLE public.movies_directors OWNER TO postgres;
+
+--
+-- TOC entry 206 (class 1259 OID 16421)
+-- Name: movies_genres; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.movies_genres (
+    movie_id bigint,
+    genre character varying(9)
+);
+
+
+ALTER TABLE public.movies_genres OWNER TO postgres;
+
+--
+-- TOC entry 208 (class 1259 OID 16427)
+-- Name: roles; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.roles (
+    actor_id bigint,
+    movie_id bigint,
+    role character varying(29)
+);
+
+
+ALTER TABLE public.roles OWNER TO postgres;
+
+--
+-- TOC entry 2925 (class 0 OID 16409)
+-- Dependencies: 202
+-- Data for Name: actors; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.actors (id, first_name, last_name, gender, film_count) FROM stdin;
+933	Lewis	Abernathy	M	1
+2547	Andrew	Adamson	M	1
+2700	William	Addy	M	1
+2898	Seth (I)	Adkins	M	1
+2925	Charles (I)	Adler	M	1
+3226	Casey	Affleck	M	1
+4306	Shigekazu	Aida	M	1
+4856	Julliet	Akinyi	M	1
+6005	Henri	Alciatore	M	1
+6990	Dean	Alexandrou	M	1
+7124	Jim	Alfonso	M	1
+7817	Carl (I)	Allen	M	1
+7979	Ivan (I)	Allen	M	1
+8161	Richard (XV)	Allen	M	1
+8409	Anthony	Allison	M	1
+8412	Bill (I)	Allison	M	1
+8426	Frankie J.	Allison	M	1
+9184	Steve	Altes	M	1
+9275	Walter	Altman	M	1
+11489	Dion	Anderson	M	1
+11547	George (IV)	Anderson	M	1
+11590	J. Todd	Anderson	M	1
+11865	Scott G.	Anderson	M	1
+12043	Kris	Andersson	M	1
+12508	David (I)	Andrews	M	2
+12987	Jack (I)	Angel	M	1
+13553	Joey	Ansah	M	1
+14741	Royce D.	Applegate	M	1
+14973	Julian	Arahanga	M	1
+15068	Raul	Aranas	M	1
+15854	Geoffrey	Arend	M	1
+15921	Guillaume (II)	Aretos	M	1
+16669	Alun	Armstrong	M	1
+16791	Neil (I)	Armstrong	M	1
+16844	William (I)	Armstrong	M	1
+17326	Abraham	Aronofsky	M	1
+17433	Alexis	Arquette	M	1
+17438	Richmond	Arquette	M	1
+17946	Michael	Arturo	M	1
+18534	Graham	Ashley	M	1
+18638	Richard (II)	Ashton	M	1
+18826	Edward	Asner	M	1
+19123	David (I)	Aston	M	1
+19873	Rene	Auberjonois	M	1
+20565	Mark (III)	Austin	M	1
+21959	Ryuichiro	Baba	M	1
+22188	James	Babson	M	1
+22262	Mike	Bacarella	M	1
+22489	Joe	Bacino	M	1
+22591	Kevin	Bacon	M	9
+22669	Michael	Badalucco	M	1
+22723	Diedrich	Bader	M	1
+23488	Eion	Bailey	M	1
+24164	Dylan (I)	Baker	M	1
+24298	Kenny (I)	Baker	M	1
+24389	Rick (I)	Baker	M	1
+24660	Matthew	Balaban	M	1
+25103	Christian	Bale	M	1
+25293	Jeremy	Ball	M	1
+25743	Kirk	Baltz	M	1
+26018	John	Bandemer	M	1
+26409	Ian	Bannen	M	1
+28218	Christopher Daniel	Barnes	M	1
+28510	Roy	Barnitt	M	1
+29603	Jason	Barry	M	1
+29686	Thom	Barry	M	1
+30298	Billy	Barty	M	1
+31092	Dean	Batchelor	M	1
+32474	Joe	Bays	M	1
+32648	Scott	Beach	M	1
+32842	Lightning	Bear	M	1
+32884	Kevin (I)	Beard	M	1
+33024	Lou	Beatty Jr.	M	1
+33582	William (II)	Beck	M	1
+33865	Andy	Beckwith	M	1
+35463	Ned	Bellamy	M	1
+35741	Gil	Bellows	M	1
+36005	John	Belushi	M	1
+36390	Nat	Benchley	M	1
+36472	Lawrence	Bender	M	2
+36641	Jay (I)	Benedict	M	2
+37040	David (I)	Benn	M	1
+38306	Jon (I)	Berg	M	1
+38626	Loys T.	Bergeron	M	1
+38779	Jules	Bergman	M	1
+38973	Scott Clark	Beringer	M	1
+39044	Xander	Berkeley	M	2
+39553	Jay	Bernard	M	1
+39860	Steve	Bernie	M	1
+41012	Doug	Beswick	M	1
+41156	Val	Bettin	M	1
+41200	Jack	Betts	M	1
+42278	Michael	Biehn	M	1
+42960	Stephen	Billington	M	1
+43791	John (I)	Bishop	M	2
+43802	Larry	Bishop	M	1
+43842	Stephen (I)	Bishop	M	1
+43899	John	Bisom	M	1
+43926	Richard (II)	Bissell	M	1
+43967	Joel	Bissonnette	M	1
+44737	Abdul	Blackmanwest	M	1
+45134	Geoffrey	Blake	M	1
+45176	Matty	Blake	M	1
+45193	Paul (II)	Blake	M	1
+45243	Don	Blakely	M	1
+46035	Andrew	Blesser	M	1
+46276	Bobby	Block	M	1
+46793	Stuart	Blumberg	M	1
+47366	Ben	Bode	M	1
+47448	Wolfgang	Bodison	M	1
+47548	Bain	Boehlke	M	1
+47858	Hale	Boggs	M	1
+48064	Bruce	Bohne	M	1
+48468	Bill	Bolender	M	2
+48630	Diedrich	Bollman	M	1
+49086	Josh	Bond	M	1
+49108	Rudy	Bond	M	1
+49661	Bruce	Bonnheim	M	1
+49922	Mark	Boone Junior	M	2
+50085	Tim (I)	Booth	M	1
+50561	Eric Bruno	Borgman	M	1
+51588	Morne	Botes	M	1
+52396	Anderson	Bourell	M	1
+52913	David	Bowe	M	2
+52927	Douglass	Bowen Flynn	M	1
+52941	Cameron	Bowen	M	1
+52978	Michael (I)	Bowen	M	1
+53441	Cayden	Boyd	M	1
+54608	Eric	Braeden	M	1
+54620	Zach	Braff	M	1
+54814	Richard	Brake	M	1
+54888	Mark	Bramhall	M	1
+55108	Larry	Brandenburg	M	2
+55174	Marlon	Brando	M	1
+55263	Barry	Brandt	M	1
+55349	Willy (I)	Brandt	M	1
+55702	Chuck	Brauchler	M	1
+55975	Garrett	Brawith	M	1
+56160	Walter	Breaux	M	1
+56369	Charles	Brehm	M	1
+56513	Ewen	Bremner	M	1
+57184	Leonid	Brezhnev	M	1
+57333	I.D.	Brickman	M	1
+57631	Richard	Bright	M	1
+57665	Paul	Brightwell	M	1
+57830	Johnny	Brink	M	1
+58327	J. Paul	Broadhead	M	1
+58481	Stanley	Brock	M	1
+58566	Charley	Broderick	M	1
+58775	Josh	Brolin	M	1
+58871	Paul	Bronk	M	1
+59227	Randy (I)	Brooks	M	1
+59323	Brian	Brophy	M	1
+59824	Clancy	Brown	M	1
+60384	Phil (I)	Brown	M	1
+60612	W. Earl	Brown	M	1
+61441	Jon	Bruno	M	1
+62520	Raymond	Buck	M	1
+62556	Jason	Buckham	M	1
+63432	Kim	Bullard	M	1
+63521	Tom (V)	Bullock	M	1
+63695	Edward	Bunker	M	1
+63813	Cliff	Bura	M	1
+64724	Ted	Burnett	M	1
+64793	Alex	Burns	M	1
+65536	Steve	Buscemi	M	3
+65966	Michael	Butcher	M	1
+66328	Mike	Butters	M	1
+66495	Ezra	Buzzington	M	1
+66776	Chris (I)	Byrne	M	1
+66791	Eddie	Byrne	M	1
+66825	Michael (I)	Byrne	M	1
+67492	James	Caan	M	1
+67493	Scott	Caan	M	1
+67598	Charles	Cabell	M	1
+67599	Earle	Cabell	M	1
+67954	John (I)	Cadenhead	M	1
+68048	Harry	Caesar	M	1
+68424	Michael (I)	Caine	M	1
+68754	Paul	Calderon	M	1
+68858	Philip	Caldwell	M	1
+69186	Roger	Callard	M	1
+69902	Cody	Cameron	M	1
+69940	James (I)	Cameron	M	1
+70137	Hamilton	Camp	M	1
+70282	Bruce (I)	Campbell	M	1
+70588	Sol	Campbell	M	1
+70744	Bruno	Campolo	M	1
+71116	John	Candy	M	2
+71699	Mickey	Cantwell	M	1
+71767	Jason Ninh	Cao	M	1
+72215	Mark	Capri	M	1
+72356	Paul	Carafotes	M	1
+73209	Chris	Carley	M	1
+73473	Francis M.	Carlson	M	1
+73950	Liam	Carney	M	1
+74449	David	Carradine	M	2
+75195	Price	Carson	M	1
+75369	Gary (I)	Carter	M	1
+76228	Nicholas	Cascone	M	1
+76443	Aaron James	Cash	M	1
+76653	Marc	Cass	M	1
+76739	Vincent	Cassel	M	1
+77118	Richard S.	Castellano	M	1
+77617	Fidel (I)	Castro	M	1
+78467	Frank	Cavestani	M	2
+78574	John	Cazale	M	1
+80345	Barry	Chambers	M	1
+81479	John (V)	Chapman	M	1
+81486	Kevin (I)	Chapman	M	1
+81499	Mark Lindsay	Chapman	M	1
+82770	Don	Cheadle	M	1
+82887	Ken	Cheeseman	M	1
+84019	Peter	Cheyenne	M	1
+84199	Sonny	Chiba	M	1
+84795	Jimmy	Chisholm	M	1
+84902	Fred	Chiverton	M	1
+85253	Arnold	Chon	M	1
+85282	Marcus	Chong	M	1
+86167	Tory	Christopher	M	1
+86866	Carl	Ciarfalio	M	1
+86916	Jude	Ciccolella	M	1
+87502	Franco	Citti	M	1
+87969	Eric (I)	Clark	M	1
+88262	Spencer Treat	Clark	M	1
+88326	William Paul	Clark	M	1
+88336	Adam (I)	Clarke	M	1
+89087	Christian	Clemenson	M	1
+89558	George	Clooney	M	2
+90307	Hugo	Codaro	M	1
+91369	Gary (I)	Cole	M	1
+91695	Michael (XIII)	Coleman	M	1
+91835	Daniel	Coli	M	1
+92394	Marty (II)	Collins	M	1
+92556	Frank	Collison	M	1
+92815	Sydney 'Big Dawg'	Colston	M	1
+92907	Vance	Colvig Jr.	M	1
+92931	Steven	Colvin	M	1
+93441	Tim	Condren	M	1
+93623	Jack	Conley	M	1
+93689	John (I)	Connally	M	1
+93883	Brendan	Connolly	M	1
+93916	Michael S.	Connolly	M	1
+94387	Richard	Conte	M	1
+94668	Kevin (I)	Conway	M	1
+95037	Gregory (I)	Cooke	M	1
+95298	Christopher E.	Cooper	M	1
+95420	John Sherman	Cooper	M	1
+95602	Harold E.	Cope Jr.	M	1
+95622	Zachary David	Cope	M	1
+95766	Barry	Copping	M	1
+95789	Carmine	Coppola	M	1
+95799	Gian-Carlo	Coppola	M	1
+96353	Charles	Cork	M	1
+96438	Roger	Corman	M	1
+97090	Salvatore	Corsitto	M	1
+97507	Ralph	Cosham	M	1
+97563	James	Cosmo	M	1
+97566	Tony	Cosmo	M	1
+98021	Kevin	Costner	M	1
+98103	Richard	Cotovsky	M	1
+99156	Brian (I)	Cox	M	1
+99184	Darryl	Cox	M	1
+99325	Sidney	Cox	M	1
+99351	Willard	Cox	M	1
+99401	Joe (I)	Coyle	M	1
+99597	Chris	Cragnotti	M	1
+99685	John D.	Craig	M	1
+99941	Simon (I)	Crane	M	1
+100044	Matt (I)	Craven	M	1
+100230	Thomas (I)	Crawford	M	1
+100257	Robert	Cray	M	1
+101230	Walter	Cronkite	M	2
+101233	David	Cronnelly	M	1
+101557	Trevor	Crouch	M	1
+101879	Tom	Cruise	M	2
+102758	Brett	Cullen	M	1
+102882	Joseph	Culp	M	1
+103007	Jim	Cummings	M	2
+103244	James (I)	Cunningham	M	1
+103411	James	Curatola	M	1
+103548	Phill	Curr	M	1
+103728	Tim (I)	Curry	M	1
+103769	Alfie	Curtis	M	1
+103985	Peter	Cushing	M	1
+105163	Vincent (I)	D'Onofrio	M	1
+106131	Goro	Daimon	M	1
+106703	Sam (I)	Dalton	M	1
+107068	Matt	Damon	M	1
+107285	Benjamin	Dane	M	1
+107524	Joshua	Daniel	M	1
+107609	Anthony	Daniels	M	1
+107687	J.D.	Daniels	M	1
+108006	Cesare	Danova	M	1
+109023	James	Daughton	M	1
+109357	Elwin 'Chopper'	David	M	1
+109823	John (IV)	Davies	M	1
+109892	Robert (V)	Davies	M	1
+110268	Gary Lee	Davis	M	1
+110563	Norman	Davis	M	1
+111129	J.C.	Day	M	1
+112303	Charles	de Gaulle	M	1
+113187	Jesse	De Luna	M	1
+114701	Tim	De Zarn	M	1
+114899	Loren	Dean	M	1
+114951	Robertson	Dean	M	1
+115036	Dalton	Dearborn	M	1
+115652	Mickey	Dee	M	1
+116634	Benicio	Del Toro	M	1
+116901	Michael	Delano	M	1
+116949	Brian	Delate	M	1
+117395	Charlie	Dell	M	1
+117653	Michael	DeLorenzo	M	1
+118247	Martin (I)	Dempsey	M	1
+118282	Jeffrey	DeMunn	M	1
+118428	Robert A.	Denham	M	1
+118548	Tony	Denman	M	1
+118569	Barry	Dennen	M	1
+118681	Peter	Dennis	M	1
+118957	Eugene C.	DePasquale	M	1
+119276	Thomas	Derrah	M	1
+120124	William	Devane	M	1
+121418	Fraser	Diamond	M	1
+121453	Peter (I)	Diamond	M	1
+121475	Warwick	Diamond	M	1
+121758	Leonardo	DiCaprio	M	1
+122803	Paul (I)	Dillon	M	1
+123513	Douglas	Dirkson	M	1
+124607	Steve	Dodd	M	1
+124961	Sean Patrick	Doherty	M	1
+125323	John	Doman	M	1
+125676	Ron	Donachie	M	1
+125700	Liam	Donaghy	M	1
+126086	Ray	Donn	M	1
+126469	Richard	Doone	M	1
+126550	Matt	Doran	M	1
+127373	Al Manuel	Douglas	M	1
+127395	Brad R.	Douglas	M	1
+127498	Jerry (I)	Douglas	M	1
+127499	Jerry (III)	Douglas	M	1
+127583	Sam (I)	Douglas	M	1
+127836	Scott	Dow	M	1
+127881	Barry	Dowden	M	1
+128274	Brian	Doyle-Murray	M	1
+128379	Austin	Drage	M	1
+129545	François	du Bois	M	1
+130410	Todd	Duffey	M	1
+130426	Shay	Duffin	M	1
+130918	John (I)	Dullaghan	M	1
+130922	Allen	Dulles	M	1
+130991	Jebidiah R.	Dumas	M	1
+131649	Kevin (I)	Dunn	M	1
+131774	Martin	Dunne	M	1
+132506	Charles	Durning	M	1
+132963	Robert (I)	Duvall	M	1
+132969	Wayne	Duvall	M	2
+133243	Dale	Dye	M	1
+134352	Martin	East	M	1
+134737	Rick	Eby	M	1
+134784	Freedom	Eche	M	1
+134973	James	Ecklund	M	1
+135144	Steve (III)	Edelman	M	1
+135628	Charles (VI)	Edwards	M	1
+136754	Dwight D.	Eisenhower	M	1
+138172	R. Bruce	Elliott	M	1
+138178	Robert (II)	Elliott	M	1
+138258	Chris (I)	Ellis	M	1
+138312	Greg (II)	Ellis	M	1
+138351	Jonathan D.	Ellis	M	1
+138982	James	Embree	M	1
+140049	Michael	Ensign	M	1
+140494	Ludwig	Erhard	M	1
+141094	Bill	Erwin	M	1
+141251	Georg O.P.	Eschert	M	1
+141692	Pablo (I)	Espinosa	M	1
+141883	Ato	Essandoh	M	1
+142943	Troy	Evans	M	1
+142962	Jonathan	Evans-Jones	M	1
+143022	Wayne A.	Evenson	M	1
+144260	Blain	Fairman	M	1
+144555	Anders (I)	Falk	M	1
+145053	Tim	Faraday	M	1
+145321	Dennis	Farina	M	1
+145529	Lonnie	Farmer	M	1
+145540	Reginald	Farmer	M	1
+145563	John	Farnell	M	1
+146642	Hugh	Feagin	M	1
+146792	John	Fedevich	M	1
+146916	Russ	Fega	M	1
+147343	José	Feliciano	M	1
+148581	Jorge (II)	Fernández	M	1
+149274	Martin	Ferrero	M	1
+149545	John	Ferus	M	1
+150046	Christopher John	Fields	M	2
+151186	John (I)	Finnegan	M	1
+151200	Michael W.	Finnell	M	1
+151331	John C.	Fiore	M	1
+151533	Siegfried	Fischbacher	M	1
+151786	Laurence	Fishburne	M	2
+151893	George (III)	Fisher	M	1
+152175	Mark (I)	Fite	M	1
+152366	Shawn	Fitzgibbon	M	1
+152725	Tommy (I)	Flanagan	M	1
+153139	Jason	Flemyng	M	1
+153207	Edward	Fletcher	M	1
+154245	Shawn	Fogarty	M	1
+154269	Adam	Fogerty	M	1
+154514	Gabriel	Folse	M	1
+154923	Jon	Foo	M	1
+155121	Alan (I)	Ford	M	1
+155223	Harrison (I)	Ford	M	1
+155472	Terry	Forestal	M	1
+155704	Anthony (I)	Forrest	M	1
+155804	Grant	Forsberg	M	1
+155930	Edmund Alan	Forsyth	M	1
+156020	Millford	Fortenberry	M	1
+156523	V.J.	Foster	M	1
+156939	Bernard (I)	Fox	M	1
+157096	Richard (I)	Fox	M	1
+157570	Christopher	Francis	M	1
+157680	Romeo	Francis	M	1
+158111	Robert (IV)	Frank	M	1
+158125	Tony	Frank	M	1
+158347	Scott	Franklin	M	1
+159225	Alfonso	Freeman	M	1
+159290	Issac	Freeman	M	1
+159310	John (III)	Freeman	M	1
+159346	Morgan (I)	Freeman	M	2
+160178	Barry	Friedman	M	1
+161529	Takashi (I)	Fujii	M	1
+162318	Stephen	Furst	M	1
+162721	Thomas	Füri	M	1
+163352	Ted	Gagliano	M	1
+163629	Corrado	Gaipa	M	1
+163807	Michael	Galasso	M	1
+163893	Ed	Gale	M	1
+163948	Johnny	Galecki	M	1
+164729	John William	Galt	M	1
+165472	David (I)	Gant	M	1
+165505	Mark	Gantt	M	1
+165721	Victor	Garber	M	1
+165825	Andy (I)	Garcia	M	1
+166835	Jay	Gardner	M	1
+166901	Salo	Gardner	M	1
+167114	Dave Zee	Garison	M	1
+167468	James (IV)	Garrett	M	1
+167625	Jim (I)	Garrison	M	1
+167973	Quinn	Gasaway	M	1
+168574	James	Gaulke	M	1
+168906	Steve	Gawley	M	1
+169238	Anthony	Geary	M	1
+169408	Robbie	Gee	M	1
+169704	Bruce	Gelb	M	1
+171349	Leo	Geter	M	1
+171524	John	Ghaly	M	1
+171937	Sam	Giancana	M	1
+172359	Donal	Gibson	M	1
+172424	Mel (I)	Gibson	M	1
+172617	Alec	Gifford	M	1
+172669	Werner	Giger	M	1
+172814	Peter	Gil	M	1
+172915	Ed	Gilbert	M	1
+172927	Gary (I)	Gilbert	M	1
+173008	Ron (I)	Gilbert	M	1
+173104	Michael	Gilden	M	1
+173761	Roswell	Gilpatric	M	1
+174206	Tony (I)	Giorgio	M	1
+174382	Michael	Girardin	M	1
+174704	Neil	Giuntoli	M	1
+175000	Gil	Glasgow	M	1
+175268	Brendan	Gleeson	M	1
+175696	Herbert	Glucksman	M	1
+175853	Barry	Gnome	M	1
+176042	Paul (I)	Goddard	M	1
+176421	Rusty	Goffe	M	1
+176918	Erwin	Goldi	M	1
+177746	Matthew	Gonder	M	1
+178678	Matthew Michael	Goodall	M	1
+178682	Taylor	Goodall	M	1
+178720	Dwight	Gooden	M	1
+178761	Cuba	Gooding Jr.	M	1
+178861	John (I)	Goodman	M	1
+180149	Thom	Gossom Jr.	M	1
+180448	Jim	Gough	M	1
+180512	Bill	Gould	M	1
+180540	Elliott	Gould	M	1
+180543	Geoffrey	Gould	M	1
+180650	Anthony	Gounaris	M	1
+181071	Topher	Grace	M	1
+181392	Gerrit	Graham	M	1
+181486	Richard (I)	Graham	M	1
+181512	Stephen (I)	Graham	M	1
+181749	Isaac	Grand	M	1
+182820	Marc	Gray	M	1
+182947	Kenneth	Graymez	M	1
+183405	Ivan	Green	M	1
+183829	Gordon	Greene	M	1
+183894	Peter (I)	Greene	M	1
+184031	Rick	Greenough	M	1
+184173	Kevin Scott	Greer	M	1
+184188	William (II)	Greer	M	1
+184634	Zach	Grenier	M	1
+184670	Googy	Gress	M	1
+184753	Duane	Grey	M	1
+185071	Laurence R.	Griffin	M	1
+185657	Joe Lo	Grippo	M	1
+185823	Robert J.	Groden	M	1
+185836	Max	Grodénchik	M	1
+185960	Andrei	Gromyko	M	1
+186293	Sonny	Grosso	M	1
+186528	Gary	Grubbs	M	1
+186652	Ioan	Gruffudd	M	1
+186688	Greg	Grunberg	M	1
+187811	Christopher	Guest	M	1
+188411	Alec	Guinness	M	1
+188463	Tom	Guiry	M	1
+188640	Sean	Gullette	M	1
+189012	Bob	Gunton	M	2
+189147	Michael	Gurievsky	M	1
+189341	Louis	Guss	M	1
+191424	Buddy	Hackett	M	1
+192018	Paul	Haggar	M	1
+192106	Nik	Hagler	M	1
+192139	Garrick	Hagon	M	1
+192290	Sid	Haig	M	1
+192874	Robert	Haley	M	1
+193175	Jack (V)	Hall	M	1
+193293	Nelson (I)	Hall	M	1
+193682	Todd (I)	Hallowell	M	1
+193699	Eldon G.	Hallum	M	1
+193995	Craig	Hamann	M	1
+194181	Mark (I)	Hamill	M	2
+194465	Robert	Hamlett	M	1
+195126	Ari	Handel	M	1
+195384	Larry	Hankin	M	1
+195428	Tom	Hanks	M	1
+195497	Peter	Hanly	M	1
+195778	Barry (II)	Hansen	M	1
+196459	Nigel	Harbach	M	1
+196754	Reg	Harding	M	1
+197019	Bobby	Hargis	M	1
+197172	John	Harlan	M	1
+197630	James N.	Harrell	M	1
+197798	Alan (III)	Harris	M	1
+197824	Baxter	Harris	M	1
+197929	Ed (I)	Harris	M	1
+198505	Robert F.	Harrison	M	1
+198544	Todd	Harrison	M	1
+199768	Lorenz	Hasler	M	1
+199843	Tamer	Hassan	M	1
+200155	John (I)	Hathaway	M	1
+200269	Yasuhiko	Hattori	M	1
+200331	Ben	Hauck	M	1
+200362	Rutger	Hauer	M	1
+200375	Alan	Haufrect	M	1
+200896	Jakob	Hawkins	M	1
+201013	Phil	Hawn	M	1
+201146	Fumihiro	Hayashi	M	1
+201256	Sterling	Hayden	M	1
+202366	David	Hecht	M	1
+202412	Gary A.	Hecker	M	1
+204119	Don (II)	Henderson	M	1
+204475	Drewe	Henley	M	1
+204493	Christopher	Henn	M	1
+204719	Lance	Henriksen	M	1
+205055	Frank	Henson	M	1
+205106	Andrew J.	Hentz	M	1
+205287	Paul (IV)	Herbert	M	1
+205392	Richard (I)	Herd	M	1
+205567	David (I)	Herman	M	1
+205634	Stanley	Herman	M	1
+205863	Jorge R.	Hernandez	M	1
+206644	Miles	Herter	M	1
+206648	Harold G.	Herthum	M	1
+207426	Stephen	Hibbert	M	1
+208287	Bernard	Hill	M	1
+208323	Clint	Hill	M	1
+209006	Scott	Hinds	M	1
+209729	Scott	Hislop	M	1
+210144	Sid	Hoare	M	1
+210153	Jerome Patrick	Hoban	M	1
+210799	Jimmy	Hoffa	M	1
+210962	Robert (X)	Hoffman	M	1
+211557	Larry (I)	Holden	M	2
+211741	Ryan	Holihan	M	1
+211832	Erik	Holland	M	1
+212283	Ian	Holm	M	1
+212771	David (III)	Holt	M	1
+213555	William	Hootkins	M	1
+213580	J. Edgar	Hoover	M	1
+213646	William	Hope	M	1
+213832	Tim	Hopper	M	1
+214094	Roy	Horn	M	1
+214150	J.R.	Horne	M	1
+214412	Bernard	Horsfall	M	1
+214502	John (II)	Horton	M	1
+214973	Andrew	Houghton	M	1
+215190	Gary	Houston	M	1
+215312	Michael	Hovinga	M	1
+215331	Keith	How	M	1
+215405	Clint	Howard	M	1
+215493	Jeff (VII)	Howard	M	1
+215595	Rance	Howard	M	1
+215640	Tom (II)	Howard	M	1
+215780	Arthur (II)	Howell	M	1
+216347	Xiaohui	Hu	M	1
+216473	Martin	Hub	M	1
+216951	Zach	Hudson	M	1
+217399	Michael (VII)	Hughes	M	1
+217405	Miko	Hughes	M	1
+217663	Tom	Hulce	M	1
+217669	Endre	Hules	M	1
+217950	Hubert H.	Humphrey	M	1
+218133	Bob	Hungerford	M	1
+219643	Jonathan	Hyde	M	1
+220339	Peter	Iacangelo	M	1
+220634	Luis	Icaza	M	1
+221162	Yumi	Ikeda	M	1
+221431	Tommy	Ilsley	M	1
+221889	Angelo	Infanti	M	1
+222947	Ronald	Isaac	M	1
+223383	J.C.	Islander	M	1
+224034	George	Ivey	M	1
+224682	Doug (I)	Jackson	M	1
+224799	Jesse (I)	Jackson	M	1
+224819	John M.	Jackson	M	1
+224828	Joshua	Jackson	M	1
+224852	Kyle Scott	Jackson	M	1
+224998	Ron (I)	Jackson	M	1
+225014	Samuel L.	Jackson	M	2
+226351	Emmett	James	M	1
+226391	Grant (I)	James	M	1
+226488	Lennie	James	M	1
+227732	Gabriel	Jarret	M	1
+227836	Martin	Jarvis	M	1
+228167	Steve	Jay	M	1
+228435	Herb	Jefferson Jr.	M	1
+228721	Eddie	Jemison	M	1
+229140	David (II)	Jensen	M	1
+229667	DeWayne	Jessie	M	1
+230490	Darren	Joel	M	1
+230528	Rudy	Joffroy	M	1
+231223	Chris (IV)	Johnson	M	1
+231719	Lyndon (I)	Johnson	M	1
+232111	William (I)	Johnson	M	1
+232212	J.J.	Johnston	M	1
+232234	Joe (I)	Johnston	M	1
+233082	James Earl	Jones	M	1
+233163	John Randolph	Jones	M	1
+233402	Orlando	Jones	M	1
+233574	Seth Adam	Jones	M	1
+233656	Tommy Lee	Jones	M	1
+233693	Vinnie	Jones	M	1
+234067	Oscar	Jordan	M	1
+234872	John (IX)	Joyce	M	1
+235073	John (III)	Judd	M	1
+235110	Mike (I)	Judge	M	1
+235260	Chuck	Julian	M	1
+240277	Daniel	Kash	M	1
+241342	John (I)	Kavanagh	M	1
+241542	Hiroshi (I)	Kawashima	M	1
+241719	Joe	Kaye	M	1
+241906	John	Kazek	M	1
+242102	Charlie	Kearns	M	1
+242176	Ryan	Keating	M	1
+242646	Michael	Kehoe	M	1
+242760	Harvey	Keitel	M	2
+242845	Warren (I)	Keith	M	1
+242968	J.D.	Kelleher	M	1
+243104	Roy	Kellerman	M	1
+243306	Craig (II)	Kelly	M	1
+243383	George (II)	Kelly	M	1
+243428	Jason (III)	Kelly	M	1
+243490	M.G.	Kelly	M	1
+243553	Phil (I)	Kelly	M	1
+243869	Ken	Kemp	M	1
+243897	Tom (I)	Kemp	M	1
+243963	Victor	Kempster	M	1
+244175	John	Kennedy Jr.	M	1
+244292	John F.	Kennedy	M	1
+244298	Joseph P.	Kennedy	M	1
+244351	Mike (VI)	Kennedy	M	1
+244368	Paul (I)	Kennedy	M	1
+244402	Robert F.	Kennedy	M	1
+244421	T.J.	Kennedy	M	1
+244423	Ted (I)	Kennedy	M	1
+244497	Douglas	Kenney	M	1
+244575	Tony (I)	Kenny	M	1
+244787	Jimmy	Keogh	M	1
+244826	John	Kepley	M	1
+245499	Alan R.	Kessler	M	1
+246659	Nikita	Khrushchev	M	1
+247608	Joon B.	Kim	M	1
+248284	Chris Thomas	King	M	1
+248525	Martin Luther	King	M	1
+248904	Jari (I)	Kinnunen	M	1
+249760	James	Kisicki	M	1
+249940	Kazuki	Kitamura	M	1
+249944	Nobuhiko	Kitamura	M	1
+250001	Colin Michael	Kitchens	M	1
+250025	Nao	Kitman	M	1
+250281	Jack	Klaff	M	1
+251175	Vladimir	Klitschko	M	1
+251351	Jeffrey	Kluger	M	1
+251881	Travis (I)	Knight	M	1
+251891	Wayne (I)	Knight	M	1
+251911	Christopher	Knights	M	1
+253952	Ryo	Kondo	M	1
+254667	Tommy	Kordick	M	1
+255239	Christopher	Kosiciuk	M	1
+256240	Edward (I)	Kowalczyk	M	1
+256402	Mark	Kozelek	M	1
+256972	Charlie	Kranz	M	1
+258441	Scott	Krueger	M	1
+259004	Mark	Kubiak	M	1
+260069	Jun	Kunimura	M	1
+260427	Michael	Kuroiwa	M	1
+260737	Naomi	Kusumi	M	1
+261960	Joe	La Due	M	1
+262141	Charles	La Russa	M	1
+263645	Martin (I)	Laing	M	1
+264162	Phil	LaMarr	M	1
+264716	Jim	Lampley	M	1
+264813	James	Lancaster	M	1
+265558	Anthony	Lang	M	1
+265918	Odin K.	Langford	M	1
+266236	Edward G.	Lansdale	M	1
+266368	Rob	Lanza	M	1
+267122	John	Larroquette	M	1
+267297	William	Larsen	M	1
+268301	John (I)	Laughlin	M	1
+269124	Peter	Lawford	M	1
+269196	Sean	Lawlor	M	1
+269326	Harry (I)	Lawrence	M	1
+269401	Matthew (I)	Lawrence	M	1
+269453	Steve (I)	Lawrence	M	1
+269536	Denis	Lawson	M	1
+270444	Derek	Lea	M	1
+270527	Richard	Leaf	M	1
+271316	Bernard	Ledger	M	1
+271396	Nathaniel	Lee Jr.	M	1
+271849	Jason (I)	Lee	M	1
+272379	Tommy (VI)	Lee	M	1
+272456	Zachary	Lee	M	1
+272557	John	Lees	M	1
+272703	Tim	Leffman	M	1
+272853	David	Legeno	M	2
+272971	Adam	LeGrant	M	1
+273276	Ron	Leibman	M	1
+273506	David	Leitch	M	1
+273819	Curtis	LeMay	M	1
+273956	Jack	Lemmon	M	1
+274282	Thomas (III)	Lennon	M	1
+274881	Richard	LeParmentier	M	1
+274897	Ray	LePere	M	1
+275713	Jared	Leto	M	1
+275761	Al	Lettieri	M	1
+275842	Ken (I)	Leung	M	1
+276083	Jay	Levey	M	1
+276920	Gus	Lewis	M	1
+277029	Lennox	Lewis	M	1
+277250	David	Lewison	M	1
+277813	Brian	Libby	M	1
+278406	Richard	Lifschutz	M	1
+278501	Michael	Lightsey	M	1
+279222	Chandler	Lindauer	M	1
+279903	Van	Ling	M	1
+280303	Jeff	Lipman	M	1
+280383	Andrew	Lipschultz	M	1
+280540	Gaetano	Lisi	M	1
+280561	Laine	Liska	M	1
+280713	John	Lithgow	M	2
+280984	Chia Hui	Liu	M	2
+281238	Ron	Livingston	M	1
+281243	Tyrone R.	Livingston	M	1
+282065	John (II)	Locke	M	1
+282244	Henry Cabot	Lodge	M	1
+282610	Spain	Logue	M	1
+282845	David S.	Lomax	M	1
+283456	Mike	Longman	M	1
+283561	Shep	Lonsdale	M	1
+283663	Dean	Lopata	M	1
+284337	Scotch Ellis	Loring	M	2
+284742	Jonathan	Loughran	M	1
+284829	Todd	Louiso	M	1
+285134	Jim	Lovell	M	1
+285368	Lawrence	Lowe	M	1
+287087	Patrice	Lumumba	M	1
+287224	Morgan	Lund	M	1
+287321	Jacob Neal	Lunders	M	1
+288254	Will	Lyman	M	1
+288312	Don (II)	Lynch	M	1
+288354	John Carroll	Lynch	M	1
+288752	Austin	Lysy	M	1
+288772	K. Todd	Lytle	M	1
+289830	Bernie	Mac	M	1
+289909	James (I)	MacArthur	M	1
+290194	Ryan (I)	MacDonald	M	1
+290329	Frank	Macetta	M	1
+290341	Angus	Macfadyen	M	1
+290708	Angus	MacInnes	M	1
+290848	Kevin Scott	Mack	M	1
+291110	Andrew	Mackin	M	1
+291564	William H.	Macy	M	1
+292028	Michael (I)	Madsen	M	3
+292379	Ken	Magee	M	1
+292742	Augusto	Magoni	M	1
+292815	George	Maguire	M	1
+293066	Kabir	Mahjoori	M	1
+293993	Jun	Maki	M	1
+294667	Joshua	Malina	M	1
+295164	Peter (I)	Maloney	M	1
+295515	Method	Man	M	1
+296048	Alf	Mangan	M	1
+296549	Scott (I)	Mann	M	1
+296907	J.P.	Manoux	M	1
+296955	Clint	Mansell	M	1
+297105	Paul	Mantee	M	1
+297473	William	Mapother	M	1
+297612	Adam	Maras	M	1
+297613	Bob	Maras	M	1
+298555	Noah	Margetts	M	1
+298615	Mark	Margolis	M	1
+298874	Jason	Marin	M	1
+299076	Nicholas	Marino	M	1
+299436	Brian	Markinson	M	1
+299756	Ben	Marley	M	1
+299764	John	Marley	M	1
+299922	Akaji	Maro	M	1
+300405	Kenneth	Mars	M	1
+300498	Charles (II)	Marsh	M	1
+300701	James (I)	Marshall	M	1
+300784	Robert (II)	Marshall	M	1
+301208	B.J.	Martin	M	1
+301244	Brad (I)	Martin	M	1
+301555	John C.	Martin	M	1
+301563	Johnny (I)	Martin	M	1
+301810	Steve (I)	Martin	M	1
+302252	Lou	Martini Jr.	M	1
+302307	Al	Martino	M	1
+302319	John (I)	Martino	M	1
+304444	Owen	Masterson	M	1
+304920	Tim (I)	Matheson	M	1
+304966	John M.	Mathews	M	2
+305678	Walter	Matthau	M	1
+305705	Al	Matthews	M	1
+306573	Brad	Mavis	M	1
+306623	James	Mawhinney	M	1
+306790	Paul (I)	Maxwell	M	1
+306942	Seth Michael	May	M	1
+307200	Peter (II)	Mayhew	M	1
+307236	Jeff (I)	Maynard	M	1
+307547	Stan	Mazin	M	1
+308329	Holt	McCallany	M	1
+308366	Rick (I)	McCallum	M	1
+308540	Eugene (III)	McCarthy	M	1
+308572	Kevin (I)	McCarthy	M	1
+308631	Sean (I)	McCartin	M	1
+308971	John J.	McCloy	M	1
+309010	Marc (I)	McClure	M	1
+309156	John (I)	McConnell	M	1
+309251	J. Patrick	McCormack	M	1
+309501	Paul	McCrane	M	1
+309571	Alex	McCrindle	M	1
+309697	Grant	McCune	M	1
+310030	Mac (I)	McDonald	M	1
+310474	Colin (I)	McFarlane	M	1
+310708	Bruce	McGill	M	1
+310765	John C.	McGinley	M	1
+310769	Sean	McGinley	M	1
+310781	Russ	McGinn	M	1
+310868	Patrick	McGoohan	M	1
+310883	Barry	McGovern	M	1
+310903	Michael (I)	McGovern	M	1
+311597	Tim	McIntyre	M	1
+311663	David (II)	McKay	M	1
+311756	Michael	McKean	M	1
+311828	Mark	McKeel	M	1
+312231	Ray	McKinnon	M	2
+312299	Rod	McKuen	M	1
+312623	Errol	McLendon	M	1
+312773	Liam	McMahon	M	1
+312806	Don (I)	McManus	M	1
+312961	Patrick	McMullen	M	1
+313126	Pat (I)	McNamara	M	1
+313131	Robert (I)	McNamara	M	1
+313569	Michael (I)	McShane	M	1
+313583	Gerard	McSorley	M	1
+313916	Nick	Meaney	M	1
+313930	Randy	Means	M	1
+313969	Dean	Measor	M	1
+314365	Frank	Medrano	M	1
+315810	Larry	Melton	M	1
+316965	Larry	Merchant	M	1
+317829	Jim	Meskimen	M	1
+318099	Mark	Metcalf	M	1
+318673	Eric (II)	Meyers	M	1
+318718	Rusty	Meyers	M	1
+318797	Lou	Meza	M	1
+319724	Patrick	Mickler	M	1
+319795	Clark	Middleton	M	1
+319868	Hikaru	Midorikawa	M	1
+320748	Andy	Milder	M	1
+320846	Mack	Miles	M	1
+320960	Tomas	Milian	M	1
+321300	Chris (III)	Miller	M	1
+321301	Chris (VII)	Miller	M	1
+321383	Dick (I)	Miller	M	1
+321731	Matt (II)	Miller	M	1
+322384	Zeke	Mills	M	1
+322781	Kazuyoshi	Minamimagoe	M	1
+323181	Willie	Minor	M	1
+323403	Evan	Mirand	M	1
+324334	Red (II)	Mitchell	M	1
+325101	Robert (I)	Mobbs	M	1
+325748	John	Moio	M	1
+327340	Lenny	Montana	M	1
+327456	Sal	Monte	M	1
+328248	Jeff	Moon	M	1
+328405	Bennie	Moore	M	1
+330833	Yoshiyuki	Morishita	M	1
+332260	Ryan B.	Moschetti	M	1
+332724	Mohammed	Mossadegh	M	1
+332893	Akira	Motomura	M	1
+334370	Peter	Mullan	M	1
+335034	Jan	Munroe	M	2
+335368	Bill	Murdoch	M	1
+335617	Cillian	Murphy	M	1
+335657	Eddie (I)	Murphy	M	1
+335689	Gerard (II)	Murphy	M	1
+335791	Martin (I)	Murphy	M	1
+335829	Patrick (IV)	Murphy	M	1
+335955	Bill (I)	Murray	M	1
+336279	John	Murtagh	M	1
+336283	James	Murtaugh	M	1
+337097	Mike	Myers	M	1
+338314	Joseph	Nadell	M	1
+338797	Ajay	Naidu	M	2
+338938	Tetsuro	Naka	M	1
+339292	Kanako	Nakazato	M	1
+339994	Akimitsu	Naruyama	M	1
+340538	Geoffrey	Nauffts	M	1
+341012	Larry	Nazimek	M	1
+341134	Edwin	Neal	M	1
+341480	Liam	Neeson	M	1
+341916	Adam (I)	Nelson	M	1
+341985	Christopher Allen	Nelson	M	2
+341991	Clifford	Nelson	M	1
+342248	Sandy (II)	Nelson	M	1
+342280	Tim Blake	Nelson	M	1
+342443	Sean	Nepita	M	1
+342939	Larry	Neumann Jr.	M	1
+343346	Ron (I)	Newell	M	1
+343482	John M.	Newman	M	1
+343502	Mark D.	Newman	M	1
+343714	Wayne	Newton	M	1
+343930	Dinh Diem	Ngo	M	1
+344454	Jack	Nicholson	M	1
+346233	Daniel	Niswander	M	1
+346397	Richard	Nixon	M	1
+346988	Paul L.	Nolan	M	1
+347118	Kunichi	Nomura	M	1
+347754	Lance	Norris	M	1
+347922	Alex	Norton	M	1
+347943	Edward (I)	Norton	M	1
+348858	Danny	Nucci	M	1
+349878	Paul	O'Boyle	M	1
+349905	Patrick (I)	O'Brian	M	1
+349915	Austin	O'Brien	M	1
+349941	Conan	O'Brien	M	1
+350069	Niall	O'Brien	M	1
+350285	Ruary	O'Connell	M	1
+350358	David (I)	O'Connor	M	1
+350741	Conor	O'Farrell	M	1
+350889	David (I)	O'Hara	M	1
+350939	Denis	O'Hare	M	1
+350997	Ed	O'Keefe	M	1
+351075	Jer	O'Leary	M	1
+351253	Mike (II)	O'Neal	M	1
+351274	Stephen	O'Neil Martin	M	1
+352931	Kenji	Ohba	M	1
+353175	Yuji	Okabe	M	1
+353656	Gary	Oldman	M	2
+354484	Bjørn (I)	Olsen	M	1
+354791	Willem	Oltmans	M	1
+356562	Louis	Ortiz	M	1
+356699	Bob	Orwig	M	1
+357320	Ron	Ostrow	M	1
+358426	Kevin	Owers	M	1
+358535	Michael	Ozag	M	1
+358555	Robert	Ozasky	M	1
+358968	Al	Pacino	M	1
+358984	Gene	Pack	M	1
+359448	Oliver	Page	M	1
+359477	T. Bruce	Page	M	1
+359632	Shah Mohammed Reza	Pahlavi	M	1
+360502	Gary (I)	Palmer	M	1
+360793	Lew	Palter	M	1
+361482	Joe	Pantoliano	M	2
+361582	Connor	Paolo	M	1
+\.
+
+
+--
+-- TOC entry 2927 (class 0 OID 16415)
+-- Dependencies: 204
+-- Data for Name: directors; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.directors (id, first_name, last_name) FROM stdin;
+429	Andrew	Adamson
+2931	Darren	Aronofsky
+9247	Zach	Braff
+11652	James (I)	Cameron
+14927	Ron	Clements
+15092	Ethan	Coen
+15093	Joel	Coen
+15901	Francis Ford	Coppola
+15906	Sofia	Coppola
+16816	Cameron	Crowe
+17810	Frank	Darabont
+22104	Clint	Eastwood
+24758	David	Fincher
+28395	Mel (I)	Gibson
+35573	Ron	Howard
+35838	John (I)	Hughes
+37872	Vicky	Jenson
+38746	Mike (I)	Judge
+41975	David	Koepp
+44291	John (I)	Landis
+46315	Jay	Levey
+48115	George	Lucas
+56332	John	Musker
+58201	Christopher	Nolan
+65940	Rob	Reiner
+66849	Guy	Ritchie
+68161	Herbert (I)	Ross
+74758	Steven	Soderbergh
+76524	Oliver (I)	Stone
+78273	Quentin	Tarantino
+82525	Paul (I)	Verhoeven
+83616	Andy	Wachowski
+83617	Larry	Wachowski
+88802	Unknown	Director
+\.
+
+
+--
+-- TOC entry 2926 (class 0 OID 16412)
+-- Dependencies: 203
+-- Data for Name: directors_genres; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.directors_genres (director_id, genre, prob) FROM stdin;
+429	Adventure	0.75
+429	Music	0.25
+429	Fantasy	0.75
+429	Romance	0.5
+429	Family	0.75
+429	Comedy	0.75
+429	Short	0.25
+429	Animation	0.75
+2931	Action	0.428571
+2931	Horror	0.14285699999999998
+2931	Sci-Fi	0.428571
+2931	Adventure	0.14285699999999998
+2931	Fantasy	0.28571399999999997
+2931	Thriller	0.28571399999999997
+2931	Crime	0.28571399999999997
+2931	Comedy	0.14285699999999998
+2931	Drama	0.714286
+9247	Drama	1
+9247	Adventure	0.5
+9247	Comedy	1
+11652	Romance	0.25
+11652	Sci-Fi	0.5
+11652	Documentary	0.25
+11652	Action	0.5
+11652	Drama	0.25
+11652	Adventure	0.166667
+11652	Fantasy	0.08333330000000001
+11652	Short	0.25
+11652	Horror	0.166667
+11652	Thriller	0.416667
+11652	Comedy	0.08333330000000001
+11652	Family	0.08333330000000001
+14927	Musical	0.5
+14927	Sci-Fi	0.166667
+14927	Romance	0.166667
+14927	Mystery	0.166667
+14927	Fantasy	0.333333
+14927	Comedy	0.666667
+14927	Animation	1
+14927	Action	0.166667
+14927	Adventure	0.5
+14927	Family	1
+15092	Comedy	0.545455
+15092	Crime	0.545455
+15092	Fantasy	0.0909091
+15092	Thriller	0.363636
+15092	Adventure	0.0909091
+15092	Romance	0.272727
+15092	Drama	0.454545
+15093	Adventure	0.08333330000000001
+15093	Romance	0.25
+15093	Crime	0.5
+15093	Fantasy	0.08333330000000001
+15093	Comedy	0.583333
+15093	Mystery	0.08333330000000001
+15093	Drama	0.416667
+15093	Thriller	0.416667
+15901	Mystery	0.0689655
+15901	Sci-Fi	0.137931
+15901	Romance	0.103448
+15901	Action	0.0344828
+15901	Fantasy	0.0344828
+15901	Musical	0.0689655
+15901	Music	0.0344828
+15901	Documentary	0.0344828
+15901	Drama	0.689655
+15901	Short	0.0344828
+15901	Comedy	0.20689699999999997
+15901	War	0.0689655
+15901	Adventure	0.0344828
+15901	Crime	0.241379
+15901	Western	0.0344828
+15901	Thriller	0.172414
+15901	Family	0.0344828
+15901	Horror	0.103448
+15906	Short	0.25
+15906	Mystery	0.25
+15906	Comedy	0.25
+15906	Drama	1
+16816	Romance	0.833333
+16816	Sci-Fi	0.166667
+16816	Thriller	0.166667
+16816	Comedy	0.666667
+16816	Music	0.166667
+16816	Mystery	0.166667
+16816	Drama	1
+17810	Fantasy	0.166667
+17810	Sci-Fi	0.166667
+17810	Horror	0.333333
+17810	Drama	0.666667
+17810	Thriller	0.166667
+17810	Romance	0.166667
+17810	Short	0.166667
+22104	Crime	0.307692
+22104	Sci-Fi	0.0384615
+22104	Music	0.07692310000000001
+22104	Thriller	0.42307700000000004
+22104	Western	0.153846
+22104	Comedy	0.19230799999999998
+22104	Drama	0.769231
+22104	Action	0.269231
+22104	Romance	0.153846
+22104	Mystery	0.0384615
+22104	War	0.07692310000000001
+22104	Adventure	0.11538499999999999
+24758	Horror	0.1
+24758	Documentary	0.1
+24758	Short	0.1
+24758	Music	0.4
+24758	Sci-Fi	0.1
+24758	Crime	0.3
+24758	Mystery	0.3
+24758	Drama	0.4
+24758	Action	0.1
+24758	Adventure	0.1
+24758	Romance	0.1
+24758	Thriller	0.5
+28395	War	0.333333
+28395	Drama	1
+28395	Action	0.333333
+35573	Fantasy	0.153846
+35573	Family	0.153846
+35573	Action	0.269231
+35573	Sci-Fi	0.0384615
+35573	Western	0.07692310000000001
+35573	Comedy	0.461538
+35573	Adventure	0.153846
+35573	Romance	0.07692310000000001
+35573	Thriller	0.153846
+35573	Mystery	0.11538499999999999
+35573	Drama	0.576923
+35573	Short	0.07692310000000001
+35838	Romance	0.125
+35838	Comedy	1
+35838	Family	0.125
+35838	Sci-Fi	0.125
+35838	Drama	0.5
+35838	Fantasy	0.125
+37872	Fantasy	0.25
+37872	Music	0.25
+37872	Adventure	0.25
+37872	Drama	0.25
+37872	Comedy	1
+37872	Family	0.75
+37872	Animation	0.75
+37872	Romance	0.5
+37872	Short	0.5
+38746	Short	0.333333
+38746	Comedy	0.8888889999999999
+38746	Adventure	0.22222199999999998
+38746	Animation	0.777778
+38746	Crime	0.11111099999999999
+38746	Sci-Fi	0.11111099999999999
+41975	Action	0.2
+41975	Horror	0.6
+41975	Mystery	0.2
+41975	Drama	0.6
+41975	Thriller	0.8
+41975	Short	0.2
+44291	Western	0.0384615
+44291	Documentary	0.230769
+44291	Family	0.07692310000000001
+44291	Sci-Fi	0.153846
+44291	Musical	0.07692310000000001
+44291	Romance	0.153846
+44291	Music	0.19230799999999998
+44291	Fantasy	0.0384615
+44291	Comedy	0.653846
+44291	Drama	0.0384615
+44291	Short	0.07692310000000001
+44291	Adventure	0.0384615
+44291	Crime	0.0384615
+44291	Horror	0.230769
+44291	Action	0.11538499999999999
+44291	Thriller	0.19230799999999998
+46315	Comedy	1
+46315	Short	0.375
+46315	Animation	0.125
+46315	Music	0.75
+48115	Drama	0.17647100000000002
+48115	Documentary	0.294118
+48115	Short	0.5882350000000001
+48115	Comedy	0.0588235
+48115	Adventure	0.235294
+48115	Fantasy	0.0588235
+48115	Action	0.235294
+48115	Sci-Fi	0.352941
+56332	Sci-Fi	0.166667
+56332	Romance	0.166667
+56332	Animation	1
+56332	Family	1
+56332	Musical	0.5
+56332	Adventure	0.5
+56332	Action	0.166667
+56332	Fantasy	0.333333
+56332	Mystery	0.166667
+56332	Comedy	0.666667
+58201	Action	0.166667
+58201	Mystery	0.333333
+58201	Crime	0.5
+58201	Drama	0.5
+58201	Fantasy	0.166667
+58201	Adventure	0.166667
+58201	Thriller	0.666667
+58201	Short	0.166667
+65940	Comedy	0.642857
+65940	Thriller	0.14285699999999998
+65940	Adventure	0.14285699999999998
+65940	Music	0.07142860000000001
+65940	Romance	0.428571
+65940	Documentary	0.07142860000000001
+65940	Fantasy	0.07142860000000001
+65940	Drama	0.642857
+65940	Family	0.14285699999999998
+66849	Crime	0.714286
+66849	Thriller	0.14285699999999998
+66849	Music	0.14285699999999998
+66849	Drama	0.14285699999999998
+66849	Documentary	0.14285699999999998
+66849	Short	0.428571
+66849	Romance	0.14285699999999998
+66849	Action	0.28571399999999997
+66849	Comedy	0.571429
+68161	Romance	0.2
+68161	Mystery	0.08
+68161	Musical	0.16
+68161	Drama	0.48
+68161	Family	0.04
+68161	Music	0.04
+68161	Comedy	0.6
+68161	Thriller	0.04
+68161	Crime	0.08
+74758	Romance	0.166667
+74758	Documentary	0.055555600000000004
+74758	Action	0.055555600000000004
+74758	Drama	0.722222
+74758	Short	0.055555600000000004
+74758	Comedy	0.333333
+74758	Thriller	0.277778
+74758	Crime	0.333333
+74758	Sci-Fi	0.11111099999999999
+74758	Music	0.055555600000000004
+76524	Music	0.05
+76524	Crime	0.2
+76524	Action	0.2
+76524	Romance	0.05
+76524	Thriller	0.2
+76524	Adventure	0.05
+76524	Short	0.1
+76524	Drama	0.65
+76524	Documentary	0.15
+76524	Horror	0.1
+76524	Mystery	0.05
+76524	War	0.25
+78273	Romance	0.125
+78273	War	0.125
+78273	Action	0.5
+78273	Thriller	0.5
+78273	Mystery	0.125
+78273	Crime	0.5
+78273	Comedy	0.25
+78273	Drama	0.75
+82525	Comedy	0.043478300000000004
+82525	Action	0.173913
+82525	Documentary	0.0869565
+82525	Horror	0.043478300000000004
+82525	War	0.130435
+82525	Mystery	0.043478300000000004
+82525	Short	0.26087
+82525	Thriller	0.304348
+82525	Adventure	0.0869565
+82525	Drama	0.347826
+82525	Sci-Fi	0.173913
+82525	Romance	0.043478300000000004
+82525	Crime	0.0869565
+83616	Crime	0.166667
+83616	Thriller	0.833333
+83616	Action	0.833333
+83616	Animation	0.333333
+83616	Sci-Fi	0.833333
+83617	Animation	0.333333
+83617	Crime	0.166667
+83617	Thriller	0.833333
+83617	Action	0.833333
+83617	Sci-Fi	0.833333
+\.
+
+
+--
+-- TOC entry 2930 (class 0 OID 16424)
+-- Dependencies: 207
+-- Data for Name: movies; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.movies (id, name, year, rank) FROM stdin;
+10920	Aliens	1986	8.2
+17173	Animal House	1978	7.5
+18979	Apollo 13	1995	7.5
+30959	Batman Begins	2005	\N
+46169	Braveheart	1995	8.3
+109093	Fargo	1996	8.2
+111813	Few Good Men, A	1992	7.5
+112290	Fight Club	1999	8.5
+116907	Footloose	1984	5.8
+124110	Garden State	2004	8.3
+130128	Godfather, The	1972	9
+147603	Hollow Man	2000	5.3
+167324	JFK	1991	7.8
+176711	Kill Bill: Vol. 1	2003	8.4
+176712	Kill Bill: Vol. 2	2004	8.2
+192017	Little Mermaid, The	1989	7.3
+194874	Lost in Translation	2003	8
+207992	Matrix, The	1999	8.5
+210511	Memento	2000	8.7
+224842	Mystic River	2003	8.1
+237431	O Brother, Where Art Thou?	2000	7.8
+238072	Ocean's Eleven	2001	7.5
+238695	Office Space	1999	7.6
+254943	Pi	1998	7.5
+256630	Pirates of the Caribbean	2003	\N
+257264	Planes, Trains & Automobiles	1987	7.2
+267038	Pulp Fiction	1994	8.7
+276217	Reservoir Dogs	1992	8.3
+297838	Shawshank Redemption, The	1994	9
+300229	Shrek	2001	8.1
+306032	Snatch.	2000	7.9
+313459	Star Wars	1977	8.8
+314965	Stir of Echoes	1999	7
+333856	Titanic	1997	6.9
+344203	UHF	1989	6.6
+350424	Vanilla Sky	2001	6.9
+\.
+
+
+--
+-- TOC entry 2928 (class 0 OID 16418)
+-- Dependencies: 205
+-- Data for Name: movies_directors; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.movies_directors (director_id, movie_id) FROM stdin;
+429	300229
+2931	254943
+9247	124110
+11652	10920
+11652	333856
+14927	192017
+15092	109093
+15092	237431
+15093	109093
+15093	237431
+15901	130128
+15906	194874
+16816	350424
+17810	297838
+22104	224842
+24758	112290
+28395	46169
+35573	18979
+35838	257264
+37872	300229
+38746	238695
+41975	314965
+44291	17173
+46315	344203
+48115	313459
+56332	192017
+58201	30959
+58201	210511
+65940	111813
+66849	306032
+68161	116907
+74758	238072
+76524	167324
+78273	176711
+78273	176712
+78273	267038
+78273	276217
+82525	147603
+83616	207992
+83617	207992
+88802	256630
+\.
+
+
+--
+-- TOC entry 2929 (class 0 OID 16421)
+-- Dependencies: 206
+-- Data for Name: movies_genres; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.movies_genres (movie_id, genre) FROM stdin;
+10920	Action
+10920	Horror
+10920	Sci-Fi
+10920	Thriller
+17173	Comedy
+18979	Drama
+30959	Action
+30959	Adventure
+30959	Crime
+30959	Fantasy
+30959	Thriller
+46169	Action
+46169	Drama
+46169	War
+109093	Crime
+109093	Drama
+109093	Thriller
+111813	Drama
+111813	Thriller
+112290	Crime
+112290	Drama
+112290	Mystery
+112290	Thriller
+116907	Drama
+116907	Family
+116907	Music
+124110	Comedy
+124110	Drama
+130128	Crime
+130128	Drama
+147603	Horror
+147603	Sci-Fi
+147603	Thriller
+167324	Crime
+167324	Drama
+167324	Mystery
+167324	Thriller
+176711	Action
+176711	Crime
+176711	Thriller
+176712	Action
+176712	Drama
+176712	Romance
+176712	Thriller
+192017	Animation
+192017	Comedy
+192017	Family
+192017	Fantasy
+192017	Musical
+192017	Romance
+194874	Comedy
+194874	Drama
+207992	Action
+207992	Sci-Fi
+207992	Thriller
+210511	Drama
+210511	Mystery
+210511	Thriller
+224842	Crime
+224842	Drama
+224842	Thriller
+237431	Adventure
+237431	Comedy
+237431	Crime
+238072	Comedy
+238072	Crime
+238072	Thriller
+238695	Comedy
+254943	Sci-Fi
+254943	Thriller
+256630	Adventure
+256630	Fantasy
+257264	Comedy
+267038	Crime
+267038	Drama
+276217	Action
+276217	Crime
+276217	Mystery
+276217	Thriller
+297838	Drama
+300229	Adventure
+300229	Animation
+300229	Comedy
+300229	Family
+300229	Fantasy
+300229	Romance
+306032	Comedy
+306032	Crime
+313459	Action
+313459	Adventure
+313459	Fantasy
+313459	Sci-Fi
+314965	Horror
+314965	Mystery
+314965	Thriller
+333856	Drama
+333856	Romance
+344203	Comedy
+350424	Drama
+350424	Mystery
+350424	Romance
+350424	Sci-Fi
+350424	Thriller
+\.
+
+
+--
+-- TOC entry 2931 (class 0 OID 16427)
+-- Dependencies: 208
+-- Data for Name: roles; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.roles (actor_id, movie_id, role) FROM stdin;
+933	333856	Lewis Bodine
+2547	300229	Duloc Mascot
+2700	306032	Tyrone
+2898	333856	Slovakian three-year-old boy
+2925	192017	Additional Voices
+3226	238072	Virgil Malloy
+4306	194874	Mr. Valentine
+4856	194874	Hans
+6005	167324	Maitre D'
+6990	30959	Shadow Warrior
+7124	238072	Police Officer
+7817	267038	Dead Floyd Wilson
+7979	18979	Anchor
+8161	194874	American Businessman #2
+8409	238072	French High Roller
+8412	238072	Guard
+8426	238072	Eddie, the High Roller Pit Bo
+9184	147603	Dad
+9275	18979	Mission Controller
+11489	297838	Haig (head bull)
+11547	167324	Himself (glances at Maxwell T
+11590	109093	Victim in the Field
+11865	333856	Lookout Fredrick Fleet
+12043	333856	Steerage dancer
+12508	18979	Pete Conrad
+12508	112290	Thomas
+12987	192017	Additional Voices
+13553	30959	Shadow Warrior
+14741	237431	Man with Bullhorn
+14973	207992	Apoc
+15068	167324	Angelo
+15854	124110	Karl Benson
+15921	300229	Merry Man
+16669	46169	Mornay
+16791	18979	Himself
+16844	10920	Lydecker
+17326	254943	Man Delivering Suitcase
+17433	267038	Man #4
+17438	112290	Intern
+17946	112290	BMW Salesman
+18534	313459	Gold Five
+18638	333856	Carpenter John Hutchinson
+18826	167324	Guy Bannister
+19123	207992	Rhineheart
+19873	192017	Louis
+20565	313459	Boba Fett (special edition)
+21959	194874	Concierge
+22188	297838	Con
+22262	314965	Train Station Cop #1
+22489	124110	Man Having Sex
+22591	17173	Chip Diller
+22591	18979	Jack Swigert
+22591	111813	Capt. Jack Ross
+22591	116907	Ren McCormack
+22591	147603	Sebastian Caine
+22591	167324	Willie O'Keefe
+22591	224842	Sean Devine
+22591	257264	Taxi racer
+22591	314965	Tom Witzky
+22669	237431	George Babyface" Nelson"
+22723	238695	Lawrence
+23488	112290	Ricky
+24164	257264	Owen
+24298	313459	R2-D2
+24389	313459	Cantina alien
+24660	192017	Atina
+25103	30959	Bruce Wayne/Batman
+25293	207992	Businessman
+25743	276217	Marvin Nash
+26018	109093	Bismarck Cop #2
+26409	46169	The Leper, Robert Bruce Sr.
+28218	192017	Eric
+28510	167324	Irvin F. Dymond
+29603	333856	Tommy Ryan
+29686	18979	Orderly
+30298	344203	Noodles MacIntosh
+31092	306032	Waterboy
+32474	238695	Dom Portwood
+32648	313459	Stormtrooper
+32842	313459	Stormtrooper
+32884	167324	\N
+33024	112290	Cop at Marla's Building
+33582	306032	Neil
+33865	306032	Errol
+35463	297838	Youngblood (guard)
+35741	297838	Tommy Williams, Inmate 46419
+36005	17173	John 'Bluto' Blutarsky
+36390	256630	Townspeople 4
+36472	267038	Long-Hair Yuppie Scum/Zorro""
+36472	276217	Young cop (also radio play ba
+36641	10920	Russ Jorden
+36641	313459	Deak
+37040	167324	Kenny O'Donnell (credited on
+38306	313459	Cantina alien
+38626	167324	Jury Foreman
+38779	18979	Himself - ABC News
+38973	238072	Head Goon
+39044	18979	Henry Hurt
+39044	111813	Capt. Whitaker
+39553	116907	Harvey
+39860	18979	Virgil Grissom
+41012	313459	Cantina alien
+41156	300229	Bishop
+41200	238695	Judge
+42278	10920	Cpl. Dwayne Hicks
+42960	46169	Phillip
+43791	18979	Protester
+43791	116907	Elvis
+43802	176712	Larry Gomez
+43842	17173	Charming guy with guitar
+43899	300229	Merry Man
+43926	167324	HImself (CIA)
+43967	112290	Food Court Maitre'd
+44737	30959	Court Reporter
+45134	18979	GUIDO Gold
+45176	224842	Cop in park
+45193	313459	Greedo
+45243	267038	Wilson's trainer
+46035	224842	Sibling
+46276	300229	Baby Bear
+46793	112290	Car Salesman
+47366	18979	INCO Gold
+47448	111813	Lance Cpl. Harold W. Dawson
+47548	109093	Mr. Mohra
+47858	167324	Himself (Warren Commission)
+48064	109093	Lou
+48468	167324	Prisoner Powell
+48468	297838	Elmo Blatch
+48630	194874	German Hotel Guest
+49086	238695	Initech Security Guard
+49108	130128	Ottilio Cuneo
+49661	17173	B.B.
+49922	30959	\N
+49922	210511	Burt Hadley
+50085	30959	Thug
+50561	224842	Murder scene spectator
+51588	30959	Clubber
+52396	112290	Bruised Bar Patron #1
+52913	111813	Cdr. Gibbs
+52913	344203	Bob
+52927	224842	Cop at barricade
+52941	224842	Young Dave
+52978	176711	Buck
+53441	224842	Michael Boyle
+54608	333856	Col. John Jacob Astor IV
+54620	124110	Andrew Largeman
+54814	30959	Joe Chill
+54888	350424	Sneezy
+55108	109093	Stan Grossman
+55108	297838	Skeet
+55174	130128	Don Vito Corleone
+55263	238072	Technician #1
+55349	167324	Himself (with JFK in Berlin)
+55702	297838	Man missing guard
+55975	256630	Marine
+56160	167324	Vernon Bundy
+56369	167324	Himself (in Zapruder, Muchmor
+56513	306032	Mullet
+57184	167324	Himself (behind Khrushchev)
+57333	167324	Dr. Peters
+57631	130128	Al Neri
+57665	333856	Quartermaster Robert Hitchens
+57830	167324	Roy Truly (credited on Direct
+58327	116907	Mayor Dooley
+58481	344203	Uncle Harvey
+58566	224842	Medical Examiner
+58775	147603	Matthew Kensington
+58871	224842	Detective
+59227	276217	Holdaway
+59323	297838	Parole hearings man (1967)
+59824	297838	Capt. Byron Hadley
+60384	313459	Uncle Owen
+60612	350424	Barman
+61441	18979	Anchor
+62520	167324	HImself (with JFK in Fort Wor
+62556	306032	Gary
+63432	344203	Band: Keyboard
+63521	167324	Pathologist #2
+63695	276217	Mr. Blue
+63813	30959	Shadow Warrior
+64724	313459	Wuher
+64793	124110	Dave
+65536	109093	Carl Showalter
+65536	267038	Buddy Holly
+65536	276217	Mr. Pink
+65966	207992	Cop Who Captures Neo
+66328	333856	Musician/baker
+66495	112290	Inspector Dent
+66776	333856	Stairwell steward
+66791	313459	General Willard
+66825	46169	Smythe
+67492	130128	Santino 'Sonny' Corleone
+67493	238072	Turk Malloy
+67598	167324	Himself (Deputy Director, CIA
+67599	167324	Himself (Dallas mayor)
+67954	344203	Crazy Ernie
+68048	111813	Luther
+68424	30959	Alfred Pennyworth
+68754	267038	Paul
+68858	238072	Man in Casino
+69186	344203	Conan the Librarian
+69902	300229	Pinocchio/Three Pigs
+69940	333856	Cameo appearance (steerage da
+70137	192017	Additional Voices
+70282	109093	Soap Opera Actor
+70588	306032	Bouncer
+70744	333856	Second-class man
+71116	167324	Dean Andrews
+71116	257264	Del Griffith
+71699	306032	Liam
+71767	306032	Charlie
+72215	333856	Steward #4
+72356	112290	Salvator - Winking Bartender
+73209	124110	Gleason Party Drunk
+73473	344203	Blind Man
+73950	46169	Sean
+74449	176711	Bill
+74449	176712	Bill AKA Snake Charmer
+75195	167324	Officer J.D. Tippet
+75369	167324	Bill Williams
+76228	333856	Bobby Buell
+76443	333856	Steerage dancer
+76653	333856	Hold steward #1
+76739	300229	Monsieur Hood
+77118	130128	Pete Clemenza
+77617	167324	Himself
+78467	18979	Reporter
+78467	111813	Agent #1
+78574	130128	Fredo
+80345	167324	Man at firing range
+81479	313459	Drifter (Red 12)
+81486	224842	Val Savage
+81499	333856	Chief Officer Henry T. Wilde
+82770	238072	Basher Tarr
+82887	224842	Dave's friend in bar
+84019	254943	Brad
+84199	176711	Hattori Hanzo
+84795	46169	Faudron
+84902	46169	The Leper's Caretaker
+85253	256630	Jack's crew member
+85282	207992	Tank
+86167	18979	Nasa Technician
+86866	112290	Lou's Body Guard
+86916	297838	Mert (guard)
+87502	130128	Calo
+87969	267038	James Dean
+88262	224842	Silent Ray Harris
+88326	176712	Soda Jerk
+88336	344203	Kid In Audience
+89087	18979	Dr. Chuck
+89558	237431	Everett
+89558	238072	Danny Ocean
+90307	194874	Aerobics Instructor
+91369	238695	Bill Lumbergh
+91695	30959	Patron
+91835	46169	York Captain
+92394	350424	Martini Waiter
+92556	237431	Wash Hogwallop
+92815	112290	Speaker
+92907	344203	Bum
+92931	350424	Himself
+93441	313459	Stormtrooper
+93623	18979	Science Reporter
+93689	167324	Himself
+93883	333856	Scotland Road steward
+93916	18979	Reporter
+94387	130128	Emilio Barzini
+94668	224842	Theo
+95037	333856	Chief Marconi Officer Jack Ph
+95298	167324	Bobby Fischer
+95420	167324	Himself (Warren Commission, b
+95602	297838	Hole guard
+95622	314965	Jake Witzky
+95766	313459	Wioslea
+95789	130128	Piano player in montage scene
+95799	130128	Baptism observer
+96353	306032	Kestral
+96438	18979	Congressman
+97090	130128	Amerigo Bonasera
+97507	256630	Townspeople 3
+97563	46169	Campbell
+97566	276217	Sheriff #3
+98021	167324	Jim Garrison
+98103	314965	Neighborhood Man
+99156	46169	Argyle Wallace
+99184	167324	FBI agent #2 with Hill
+99325	237431	Cox Family
+99351	237431	Cox Family
+99401	238072	Joseph Coyle, Security Office
+99597	333856	Victor Giglio
+99685	297838	Parole hearings ma (1957)
+99941	333856	Fourth Officer Joseph Boxhall
+100044	111813	Lt. Dave Spradling
+100230	18979	Reporter
+100257	17173	Bandmember, Otis Day and the
+101230	18979	Himself
+101230	167324	Himself (interviews JFK, anno
+101233	333856	Crewman
+101557	306032	Doorman
+101879	111813	Lt. Daniel Kaffee
+101879	350424	David Aames
+102758	18979	William 'Bill' Pogue, CAPCOM
+102882	18979	TELMU Gold
+103007	192017	Additional Voices
+103007	300229	Captain of Guards
+103244	306032	Horrible Man
+103411	238072	Baccarat Dealer
+103548	30959	Transit Cop
+103728	192017	Additional Voices
+103769	313459	Dr. Evazan
+103985	313459	Grand Moff Tarkin
+105163	167324	Bill Newman
+106131	176711	Boss Honda
+106703	116907	Mr. Gurntz
+107068	238072	Linus Caldwell
+107285	167324	Cop in Yellow Slicker
+107524	17173	Mothball
+107609	313459	C-3PO
+107687	192017	Additional Voices
+108006	17173	Mayor Carmine DePasto
+109023	17173	Greg Marmalard
+109357	306032	Boxer
+109823	167324	Hobo #2
+109892	313459	Cantina patron
+110268	297838	Rooster
+110563	167324	Col. Reich
+111129	167324	Himself (holds rifle aloft)
+112303	167324	Himself (leads dignitaries at
+113187	238695	Cop at Fire
+114701	112290	Inspector Bird
+114899	18979	John Aaron, EECOM Arthur
+114951	350424	Third Doctor
+115036	167324	Army General
+115652	306032	One Eyed Jack
+116634	306032	Franky Four Fingers
+116901	238072	Frank Walsh
+116949	297838	Dekins (guard)
+117395	112290	Doorman
+117653	111813	Pfc. William T. Santiago
+118247	46169	Drinker #1
+118282	297838	District Attorney (1946)
+118428	313459	Hrchek Kal Fas
+118548	109093	Scotty Lundegaard
+118569	333856	Praying man
+118681	300229	Ogre Hunter
+118957	297838	Mail caller
+119276	224842	Headstone salesman
+120124	147603	Dr. Howard Kramer
+121418	313459	Jawa
+121453	313459	Stormtrooper/Tusken Raider/De
+121475	313459	Jawa
+121758	333856	Jack Dawson
+122803	112290	Irvin
+123513	116907	Burlington Cranston
+124607	207992	Blind Man
+124961	224842	Boston cop
+125323	224842	Driver
+125676	333856	Master at Arms Joseph Bailey
+125700	306032	Pikey Kid #2
+126086	30959	\N
+126469	297838	Convict
+126550	207992	Mouse
+127373	176712	Marty Kitrosser
+127395	224842	Boston cop
+127498	167324	Board Room Man
+127499	237431	Dobro Player
+127583	306032	Rosebud
+127836	224842	Man at bar
+127881	30959	Det. Flass
+128274	167324	Jack Ruby
+128379	306032	Pikey Kid #1
+129545	194874	Sausalito Piano
+130410	238695	Brian, Chotchkie's Waiter
+130426	333856	Pubkeeper
+130918	18979	Reporter
+130922	167324	Himself (Director, CIA)
+130991	17173	Gigantic dude
+131649	314965	Frank McCarthy
+131774	46169	Lord Dolecroft
+132506	237431	Pappy O'Daniel
+132963	130128	Tom Hagen
+132969	18979	LEM Controller White
+132969	237431	Homer Stokes
+133243	167324	Gen. Y
+134352	333856	Lookout Reginald Lee
+134737	17173	Omega
+134784	30959	Policeman
+134973	124110	Bored Actor
+135144	109093	Morning Show Host
+135628	30959	Wayne Enterprises executive
+136754	167324	Himself (farewell address)
+138172	167324	Bolton Ford dealer
+138178	17173	Meaner dude
+138258	18979	Deke Slayton
+138312	333856	Carpathia steward
+138351	30959	Courthouse reporter
+138982	30959	League Of Shadows warrior
+140049	333856	Benjamin Guggenheim
+140494	167324	Himself (behind Haile Selassi
+141094	257264	Man on plane
+141251	194874	German Hotel Guest
+141692	147603	Warehouse Guard
+141883	124110	Titembay
+142943	257264	Trucker
+142962	333856	Wallace Hartley
+143022	109093	Customer
+144260	10920	Doctor
+144555	333856	Olaus Gunderson
+145053	306032	Policeman
+145321	306032	Cousin Abraham 'Avi' Denovitz
+145529	224842	Lab technician
+145540	17173	Meanest dude
+145563	306032	Bricktop's Henchman
+146642	167324	Dr. Rose (credited on Directo
+146792	350424	Silent Ed Vallencourt
+146916	210511	Waiter
+147343	109093	Himself
+148581	167324	Miguel Torres
+149274	257264	Motel clerk
+149545	224842	Pedestrian
+150046	18979	Booster White
+150046	112290	Proprietor of Dry Cleaners
+151186	167324	Judge Haggerty
+151200	237431	Interrogator
+151331	238072	Hotel Security
+151533	238072	Himself
+151786	207992	Morpheus
+151786	224842	Sgt. Whitey Powers
+151893	344203	Thug #4
+152175	112290	Second Man at Auto Shop
+152366	224842	Funeral director
+152725	46169	Morrison
+153139	306032	Darren
+153207	333856	Sixth Officer James Moody
+154245	224842	Murder scene spectator
+154269	306032	Gorgeous George
+154514	238695	Swanson's Patient #2
+154923	30959	Shadow Warrior
+155121	306032	Brick Top Polford
+155223	313459	Han Solo
+155472	333856	Chief Engineer Joseph Bell
+155704	313459	Fixer
+155804	257264	Brand manager
+155930	333856	Steerage dancer
+156020	237431	Pomade Vendor
+156523	297838	Hungry fish con
+156939	333856	Col. Archibald Gracie
+157096	333856	Steward #1
+157570	237431	KKK Member
+157680	333856	Syrian man
+158111	344203	Timid Man
+158125	344203	Teri's Father
+158347	254943	Transit Cop
+159225	297838	Fresh fish con
+159290	237431	Gravedigger
+159310	17173	Man on Street
+159346	30959	Lucius Fox
+159346	297838	Ellis Boyd 'Red' Redding
+160178	344203	Fletcher Cronie #1
+161529	194874	TV Host
+162318	17173	Kent 'Flounder' Dorfman
+162721	333856	Orchestra member
+163352	313459	Stormtrooper with Binoculars
+163629	130128	Don Tommasino
+163807	300229	Peter Pan
+163893	237431	The Little Man
+163948	350424	Peter Brown
+164729	167324	LBJ voice
+165472	46169	Royal Magistrate
+165505	238072	Bartender
+165721	333856	Thomas Andrews
+165825	238072	Terry Benedict
+166835	344203	Promo Announcer
+166901	313459	Cantina patron
+167114	224842	'75 police officer
+167468	333856	Titanic porter
+167625	167324	Chief Justice Earl Warren
+167973	237431	Boy Hogwallop
+168574	109093	State Trooper
+168906	313459	Death Star trooper
+169238	344203	Philo
+169408	306032	Vincent
+169704	167324	Board Room Man
+171349	116907	Rich
+171524	30959	Cop
+171937	167324	Himself (with sunglasses, whi
+172359	46169	Stewart
+172424	46169	William Wallace
+172617	167324	TV newsman #2
+172669	333856	Orchestra member
+172814	256630	Townspeople 2
+172915	192017	Additional Voices
+172927	124110	Young Hollywood Guy
+173008	130128	Usher in bridal party
+173104	267038	Phillip Morris page
+173761	167324	Himself (with LBJ and McNamar
+174206	130128	Bruno Tattaglia
+174382	112290	Detective Walker
+174704	297838	Jigger, Inmate 33105
+175000	167324	Tippet Shooter
+175268	46169	Hamish Campbell
+175696	344203	Gorbachev
+175853	313459	Kabe
+176042	207992	Agent Brown
+176421	313459	Kabe/Jawa/GONK Droid
+176918	306032	Bad Boy Lincoln
+177746	300229	Merry Man
+178678	18979	Stephen Haise
+178682	18979	Fred Haise, Jr.
+178720	30959	Gotham City Police Officer
+178761	111813	Cpl. Carl Hammaker
+178861	237431	Big Dan Teague
+180149	112290	Detective Stern
+180448	167324	Plaza witness #3
+180512	224842	Man in bar
+180540	238072	Reuben Tishkoff
+180543	237431	Head of Mob
+180650	130128	Anthony Vito Corleone
+181071	238072	Himself
+181392	192017	Additional Voices
+181486	333856	Quartermaster George Rowe
+181512	306032	Tommy
+181749	313459	Cantina patron
+182820	207992	Choi
+182947	124110	Busboy
+183405	344203	Earl Ramsey
+183829	297838	Parole hearings man (1947)
+183894	267038	Zed
+184031	17173	Mongol
+184173	314965	Party Goer (featured bit)
+184188	167324	Himself (Secret Service agent
+184634	112290	Richard Chesler
+184670	18979	RETRO White
+184753	167324	Board Room Man
+185071	238072	Sports Book Patron
+185657	130128	Sonny's bodyguard
+185823	167324	Courtroom projectionist
+185836	18979	FIDO Gold
+185960	167324	Himself (behind Khrushchev)
+186293	130128	Cop with Capt. McCluskey outs
+186528	167324	Al Oser
+186652	333856	Fifth Officer Harold Godfrey
+186688	147603	Carter Abbey
+187811	111813	Dr. Stone
+188411	313459	Ben Obi-Wan Kenobi
+188463	224842	Brendan Harris
+188640	254943	Maximillian Cohen
+189012	167324	TV newsman #2
+189012	297838	Warden Samuel Norton
+189147	167324	Russian reporter
+189341	130128	Don Zaluchi (outspoken Don at
+191424	192017	Scuttle
+192018	350424	Frozen Risktaker
+192106	344203	FCC Man
+192139	313459	Red Three (Biggs)
+192290	176712	Jay
+192874	297838	Food-Way manager (1954)
+193175	350424	Bashful
+193293	313459	Stormtrooper (special edition
+193682	18979	Noisy Civilian
+193699	344203	Spatula Husband
+193995	276217	Radio play background voice
+194181	192017	Additional Voices
+194181	313459	Luke Skywalker
+194465	237431	Gravedigger
+195126	254943	Kabbala Scholar
+195384	257264	Doobie
+195428	18979	Jim Lovell
+195497	46169	Edward, Prince of Wales
+195778	344203	Whipped Cream Eater
+196459	207992	Parking Cop
+196754	313459	Stormtrooper
+197019	167324	Himself (Dallas police)
+197172	344203	Promo Announcer
+197630	167324	Sam Holland
+197798	313459	Leia's rebel escort
+197824	167324	White House Man
+197929	18979	Gene Kranz
+198505	350424	Laughing Guy
+198544	350424	Skyscraper Guy
+199768	333856	Orchestra member
+199843	30959	\N
+200155	306032	Bricktop's Barman
+200269	194874	Charlie's Friend
+200331	124110	Sleeping Actor
+200362	30959	Richard Earle
+200375	116907	Coach Roger Dunbar
+200896	124110	Waiter
+201013	112290	Banquet Guest
+201146	194874	Charlie
+201256	130128	Capt. Mark McCluskey
+202366	297838	Bank teller
+202412	147603	Gorilla Vocals
+204119	313459	General Taggi
+204475	313459	Red Leader
+204493	10920	Timmy Jorden
+204719	10920	Bishop
+205055	313459	Stormtrooper
+205106	257264	Bus lover
+205287	333856	Hold steward #2
+205392	257264	Walt
+205567	238695	Michael Bolton
+205634	254943	Moustacheless Man
+205863	238072	FBI Man #1
+206644	224842	Sean's father
+206648	167324	Coroner
+207426	267038	The Gimp
+208287	333856	Capt. Edward J. Smith
+208323	167324	Himself (Secret Service agent
+209006	30959	Shadow Warrior
+209729	333856	Steerage dancer
+210144	306032	Reuben
+210153	267038	Ed Sullivan
+210799	167324	Himself (questioned by RFK)
+210962	256630	Skeleton
+211557	30959	District Attorney Carlton Fin
+211557	210511	Jimmy Grantz
+211741	18979	SIM Tech
+211832	333856	Olaf Dahl
+212283	124110	Gideon Largeman
+212771	237431	Village Idiot
+213555	313459	Red Six (Porkins)
+213580	167324	Himself (with JFK)
+213646	10920	Lt. Gorman
+213832	350424	Man in Blue Coat
+214094	238072	Himself
+214150	237431	Pappy's Staff
+214412	46169	Balliol
+214502	297838	Judge (1946)
+214973	30959	Waiter
+215190	109093	Irate Customer
+215312	30959	Swat team member
+215331	30959	Tramp
+215405	18979	Sy Liebergot, EECOM White
+215493	344203	Donor at Telethon
+215595	18979	Reverend
+215640	167324	Lyndon B. Johnson
+215780	313459	Stormtrooper
+216347	176711	Young 88 (Spanked Boy)
+216473	333856	Slovakian father
+216951	350424	Life Extension security guard
+217399	306032	Gypsy Man
+217405	18979	Jeffrey Lovell
+217663	17173	Larry 'Pinto' Kroger
+217669	18979	Gunther Wendt
+217950	167324	Himself (behind LBJ)
+218133	344203	Sy Greenblum
+219643	333856	J. Bruce Ismay
+220339	112290	Lou
+220634	124110	\N
+221162	194874	Politician's Aide
+221431	313459	Ponda Baba
+221889	130128	Fabrizio
+222947	306032	Referee
+223383	254943	Man Presenting Suitcase
+224034	314965	Security Guard
+224682	167324	FBI Agent at airpot (credited
+224799	167324	Himself (after assassination
+224819	111813	Capt. West
+224828	238072	Himself
+224852	238695	Rob Newhouse, Smykowski's Law
+224998	167324	FBI spokesman
+225014	176712	Rufus
+225014	267038	Jules Winnfield
+226351	333856	First-class steward
+226391	344203	Killer Thug
+226488	306032	Sol
+227732	18979	GNC White
+227836	333856	Sir Cosmo Duff-Gordon
+228167	344203	Band: Bass Guitar
+228435	18979	Reporter
+228721	238072	Livingston Dell
+229140	238072	Eye-in-the-Sky Technician #2
+229667	17173	Otis Day
+230490	256630	Featured British Marine
+230528	333856	'Safe' Bellboy
+231223	254943	Limo Driver
+231719	167324	Himself
+232111	238072	Technician #2
+232212	167324	Joe (mobster with Broussard)
+232234	313459	Death Star trooper
+233082	313459	Darth Vader
+233163	257264	Cab dispatcher
+233402	238695	Steve, Magazine Salesman
+233574	256630	Marine
+233656	167324	Clay Shaw aka Clay Bertrand
+233693	306032	Bullet Tooth Tony
+234067	111813	Steward
+234872	224842	Fight scene
+235073	30959	Narrows Bridge Cop
+235110	238695	Stan, Chotchkie's Manager
+235260	306032	Micheal (Diamond Man)
+240277	10920	Pvt. Spunkmeyer
+241342	46169	Craig
+241542	194874	Bartender, Nightclub
+241719	313459	Solomohal
+241906	30959	\N
+242102	297838	District Attorney (1966)
+242176	350424	SWAT team officer #3
+242646	350424	Chef
+242760	267038	Winston 'The Wolf' Wolfe
+242760	276217	Mr. White/Larry Dimmick
+242845	109093	Reilly Diefenbach
+242968	30959	Narrows Rioter
+243104	167324	Himself (Secret Service agent
+243306	333856	Assistant Marconi Wireless Op
+243383	167324	Jerry Johnson's sidekick (cre
+243428	224842	Young Jimmy
+243490	344203	Promo Announcer
+243553	46169	Farmer
+243869	116907	Jeff
+243897	224842	CSS tech
+243963	167324	Samuel (credited on Director'
+244175	167324	Himself
+244292	167324	Himself in Zapruder film
+244298	167324	Himself (with family)
+244351	167324	Interrogator
+244368	297838	Tom Briggs, Food-Way Manager
+244402	167324	Himself
+244421	167324	Hill interrogator
+244423	167324	Himself (at funeral of JFK)
+244497	17173	Stork
+244575	333856	Deckhand
+244787	46169	Drinker #2
+244826	350424	Dopey
+245499	297838	Laundry Bob
+246659	167324	Himself (with JFK)
+247608	112290	Raymond K. Hessel
+248284	237431	Tommy Johnson
+248525	167324	Himself
+248904	333856	Bjorn Gunderson
+249760	297838	Portland National Bank Manage
+249940	176711	Crazy 88 #2
+249944	194874	Nobu
+250001	313459	Stormtrooper
+250025	194874	Nao
+250281	313459	Red Four (John D.)
+251175	238072	Himself
+251351	18979	Science Reporter
+251881	344203	Billy
+251891	167324	Numa Bertel
+251911	300229	Blind Mouse/Thelonious
+253952	194874	Politician
+254667	238072	Hotel Bellman
+255239	167324	FBI agent at autopsy
+256240	112290	Waiter at Clifton's
+256402	350424	Dude, Fix Your Face Guy
+256972	30959	\N
+258441	167324	Snapper Garrison
+259004	238695	Initech Employee
+260069	176711	Boss Tanaka
+260427	176711	Crazy 88 Fighter
+260737	176711	Boss Matsumoto (anime sequenc
+261960	238072	Billy Tim Denham
+262141	238072	Italian High Roller
+263645	333856	Promenade Deck steward
+264162	267038	Marvin
+264716	238072	Himself
+264813	333856	Father Thomas Byles
+265558	313459	BoShek
+265918	167324	Officer Habighorst
+266236	167324	Himself (with LeMay, McNamara
+266368	112290	Man in Suit
+267122	167324	Jerry Johnson
+267297	167324	Will Fritz
+268301	116907	Woody
+269124	167324	Himself (at funeral of JFK, b
+269196	46169	Malcolm Wallace
+269326	207992	Old Man
+269401	257264	Little Neal
+269453	238072	Himself
+269536	313459	Red Two (Wedge)
+270444	333856	Leading Fireman Fredrick Barr
+270527	46169	Governor of York
+271316	207992	Big Cop
+271396	237431	Ice Boy on The Right (Straw H
+271849	350424	Brian Shelby
+272379	350424	Frozen Vintage Car Man
+272456	350424	Joshua
+272557	10920	Power Loader Operator
+272703	194874	Sausalito Guitar
+272853	30959	\N
+272853	306032	John
+272971	350424	Doc
+273276	124110	Dr. Cohen
+273506	238072	X-Bag Man #1/Security Guard
+273819	167324	Himself (in front of map, and
+273956	167324	Jack Martin
+274282	210511	Doctor
+274881	313459	General Motti
+274897	167324	Zapruder
+275713	112290	Angel Face
+275761	130128	Virgil Sollozzo
+275842	350424	Art Editor
+276083	344203	Gandhi
+276920	30959	Young Bruce Wayne
+277029	238072	Himself
+277250	350424	Sleepy
+277813	297838	Floyd, Inmate
+278406	254943	Kabbala Scholar
+278501	297838	Con
+279222	267038	Young Butch
+279903	333856	Chinese man
+280303	30959	\N
+280383	18979	Launch Director
+280540	257264	New York cab driver
+280561	313459	Muftak/Cantina band member
+280713	116907	Reverend Shaw Moore
+280713	300229	Lord Farquaad of Duloc
+280984	176711	Johnny Mo
+280984	176712	Pai Mei
+281238	238695	Peter Gibbons
+281243	112290	Banquet Speaker
+282065	237431	Mr. French
+282244	167324	Himself (with LBJ)
+282610	167324	FBI agent #1 with Hill
+282845	109093	Man in Hallway
+283456	167324	TV newsman #1
+283561	333856	Steerage band member
+283663	46169	Madbaker/Flagman
+284337	112290	Bruised Bar Patron #2
+284337	350424	L.E. Building Guard
+284742	176711	Trucker
+284829	18979	FAO White
+285134	18979	Iwo-Jima Captain
+285368	111813	Bailiff
+287087	167324	Himself (with white shirt, ha
+287224	297838	Laundry truck driver
+287321	350424	The Writer
+288254	224842	FBI Agent Birden
+288312	333856	Frederick Spedden
+288354	109093	Norm Gunderson
+288752	124110	Waiter
+288772	238695	Rush Hour Driver
+289830	238072	Frank Catton
+289909	167324	David McVey (in film Cry of B
+290194	167324	Board Room Man
+290329	130128	\N
+290341	46169	Robert the Bruce
+290708	313459	Gold Leader
+290848	112290	Passenger Clutching Armrest
+291110	224842	John O'Shea
+291564	109093	Jerry Lundegaard
+292028	176711	Budd
+292028	176712	Budd (Sidewinder)
+292028	276217	Mr. Blonde/Vic Vega
+292379	297838	Ned Grimes, Corrupt Contracto
+292742	124110	Masturbating Dog
+292815	112290	Group Leader
+293066	313459	Jawa
+293993	194874	Suntory Client
+294667	111813	Orderly
+295164	167324	Col. Finck
+295515	124110	Diego
+296048	313459	Takeel
+296549	297838	Glenn Quentin
+296907	238072	Aide-de-Camp
+296955	254943	Photographer
+297105	18979	Reporter
+297473	350424	Clubgoer
+297612	344203	Joel Miller
+297613	344203	Thug #3
+298555	30959	Arkham thug
+298615	254943	Sol Robeson
+298874	192017	Flounder
+299076	30959	Wayne Enterprises Employee
+299436	18979	Pad Rat
+299756	18979	John Young
+299764	130128	Jack Woltz
+299922	176711	Boss Ozawah
+300405	192017	Triton
+300498	344203	Yodeler
+300701	111813	Pfc. Louden Downey
+300784	167324	Warren Commission Attorney
+301208	167324	Himself (Dallas police)
+301244	238072	X-Bag Man #3/Security Guard
+301555	167324	Prison guard
+301563	333856	Rescue boat crewman
+301810	257264	Neal Page
+302252	130128	Boy at wedding
+302307	130128	Johnny Fontane
+302319	130128	Paulie Gatto
+304444	112290	Airport Valet
+304920	17173	Eric 'Otter' Stratton
+304966	18979	Reporter
+304966	111813	Guard #1
+305678	167324	Sen. Long
+305705	10920	Sgt. Apone
+306573	297838	New fish con
+306623	30959	\N
+306790	10920	Van Leuwen
+306942	124110	Peeping Tom
+307200	313459	Chewbacca
+307236	344203	Boy with Books
+307547	333856	Steerage dancer
+308329	112290	The Mechanic
+308366	313459	Stormtrooper (special edition
+308540	167324	Himself (campaigns)
+308572	344203	R.J. Fletcher
+308631	17173	Lucky Boy
+308971	167324	Himself (Warren Commission, b
+309010	18979	Glynn Lunney
+309156	237431	Woolworths Manager
+309251	147603	General Caster
+309501	297838	Trout (guard)
+309571	313459	General Dodonna
+309697	313459	Death Star gunner
+310030	10920	Al Simpson, Colony Officer
+310474	30959	Commissioner Gillian B. Loeb
+310708	17173	Daniel Simpson 'D-Day' Day
+310765	238695	Bob Slydell
+310769	46169	MacClannough
+310781	116907	Herb
+310868	46169	Longshanks, King Edward I
+310883	46169	King's Advisor
+310903	224842	'75 reporter
+311597	167324	Himself (Secret Service agent
+311663	46169	Young Soldier
+311756	257264	State Trooper
+311828	18979	Suit Room Assistant
+312231	18979	Jerry Bostick, FIDO White
+312231	237431	Vernon T. Waldrip
+312299	192017	Additional Voices
+312623	167324	Man with umbrella
+312773	306032	Gypsy Man
+312806	297838	Wiley (guard)
+312961	350424	Himself
+313126	112290	Commissioner Jacobs
+313131	167324	Himself (in Vietnam)
+313569	238695	Dr. Swanson
+313583	46169	Cheltham
+313916	333856	Steward #2
+313930	167324	Gov. Connally - Double
+313969	112290	Robert 'Bob' Paulson
+314365	297838	Fat Ass
+315810	167324	Patrolman Joe Smith
+316965	238072	Himself
+317829	18979	TELMU White
+318099	17173	Doug Neidermeyer
+318673	306032	Avi's Colleague
+318718	238072	Security Officer #1
+318797	314965	Gothic Street Punk
+319724	18979	RETRO Gold
+319795	176712	Ernie
+319868	176711	Pretty Riki (anime sequence)
+320748	18979	GUIDO White
+320846	297838	Tyrell, Inmate
+320960	167324	Leopoldo
+321300	17173	Hardbar
+321301	300229	Geppetto/Magic Mirror
+321383	267038	Monster Joe
+321731	30959	Gotham City Cop
+322384	167324	J.C. Price
+322781	194874	Press Agent
+323181	167324	Bonnie Ray Williams
+323403	112290	Steph
+324334	167324	Sgt. Frank Harkness
+325101	167324	Courtroom Spectator
+325748	257264	Screaming driver
+327340	130128	Luca Brasi
+327456	254943	King Neptune
+328248	313459	Cantina Patron
+328405	112290	Bus Driver with Broken Nose
+330833	176711	Tokyo Business Man
+332260	124110	Teen in Hallway
+332724	167324	Himself (with the Shah)
+332893	194874	Old Man
+334370	46169	Veteran
+335034	111813	Jury Foreman
+335034	350424	Older Editor
+335368	46169	Villager
+335617	30959	Dr. Jonathan Crane/The Scarec
+335657	300229	Donkey
+335689	30959	Judge Faden
+335791	46169	Lord Talmadge
+335829	333856	Steerage band member
+335955	194874	Bob Harris
+336279	46169	Lochlan
+336283	350424	Benny's Owner
+337097	300229	Shrek/Blind Mouse/Narrator
+338314	167324	Dr. McClelland
+338797	238695	Samir Nagheenanajar
+338797	254943	Farroukh
+338938	194874	Stills Photographer
+339292	194874	Make-Up Person
+339994	194874	French Japanese Nightclub Pat
+340538	111813	Lt. Sherby
+341012	314965	Block Party Participant
+341134	167324	Mercer interrogator
+341480	30959	Ducard
+341916	224842	Nick Savage
+341985	176711	The Groom
+341985	176712	Tommy Plympton
+341991	109093	Heavyset Man In Bar
+342248	46169	John Wallace
+342280	237431	Delmar
+342443	333856	Elevator operator
+342939	314965	Lenny
+343346	297838	Elderly hole guard
+343482	167324	Officer with Top Secret docum
+\.
+
+
+-- Completed on 2020-05-22 17:47:25 +07
+
+--
+-- PostgreSQL database dump complete
+--
+
