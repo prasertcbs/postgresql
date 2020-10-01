@@ -1,0 +1,24 @@
+-- Yummi order table (denormalized version)
+-- DROP TABLE public.order_dnz;
+
+CREATE TABLE public.order_dnz
+(
+    orderid int,
+    noguest int,
+    tableno int,
+    intime timestamp without time zone,
+    outtime timestamp without time zone,
+    dine_type varchar,
+    payment varchar,
+    menu varchar,
+    sizeid varchar(1),
+    qty int,
+    price int,
+    cost double precision,
+    isrecommended int,
+    category varchar,
+    customer varchar,
+    gender varchar(1),
+    countryid varchar(2),
+    firstvisitdt timestamp without time zone
+)
