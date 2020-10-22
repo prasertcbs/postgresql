@@ -1,13 +1,14 @@
+drop table if exists movie_ts;
 
 CREATE TABLE movie_ts (
-    title varchar(61),
+    title varchar(100),
     year int,
     rating real,
     revenue_millions real,
-    genre varchar(26),
-    description varchar(421),
-    director varchar(32),
-    actors varchar(77)
+    genre varchar(100),
+    description varchar(500),
+    director varchar(200),
+    actors varchar(200)
 );
 
 
