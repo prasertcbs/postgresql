@@ -9,9 +9,9 @@ CREATE TABLE movie_ts (
     description character varying(500),
     director character varying(200),
     actors character varying(200),
-    genre_a character varying[],
+    genre_a text[],
     genre_j jsonb,
-    actors_a character varying[],
+    actors_a text[],
     actors_j jsonb
 );
 
