@@ -1,0 +1,849 @@
+[
+  {
+    "p_id": "กจ",
+    "info": {
+      "area": 19483.148,
+      "name": {
+        "en": "Kanchanaburi",
+        "th": "กาญจนบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "กทม",
+    "info": {
+      "area": 1568.737,
+      "name": {
+        "en": "Bangkok",
+        "th": "กรุงเทพมหานคร"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "จบ",
+    "info": {
+      "area": 6338,
+      "name": {
+        "en": "Chanthaburi",
+        "th": "จันทบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ฉช",
+    "info": {
+      "area": 5351,
+      "name": {
+        "en": "Chachoengsao",
+        "th": "ฉะเชิงเทรา"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ชน",
+    "info": {
+      "area": 2469.746,
+      "name": {
+        "en": "Chainat",
+        "th": "ชัยนาท"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ชบ",
+    "info": {
+      "area": 4611.829,
+      "name": {
+        "en": "Chonburi",
+        "th": "ชลบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ตร",
+    "info": {
+      "area": 2819,
+      "name": {
+        "en": "Trat",
+        "th": "ตราด"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "นฐ",
+    "info": {
+      "area": 2168.327,
+      "name": {
+        "en": "Nakhon Pathom",
+        "th": "นครปฐม"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "นบ",
+    "info": {
+      "area": 622.303,
+      "name": {
+        "en": "Nonthaburi",
+        "th": "นนทบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "นย",
+    "info": {
+      "area": 2122,
+      "name": {
+        "en": "Nakhon Nayok",
+        "th": "นครนายก"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ปข",
+    "info": {
+      "area": 6367.62,
+      "name": {
+        "en": "Prachuap Khiri Khan",
+        "th": "ประจวบคีรีขันธ์"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ปจ",
+    "info": {
+      "area": 4762.362,
+      "name": {
+        "en": "Prachinburi",
+        "th": "ปราจีนบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ปท",
+    "info": {
+      "area": 1525.856,
+      "name": {
+        "en": "Pathum Thani",
+        "th": "ปทุมธานี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "พบ",
+    "info": {
+      "area": 6225.138,
+      "name": {
+        "en": "Phetchaburi",
+        "th": "เพชรบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "รบ",
+    "info": {
+      "area": 5196.462,
+      "name": {
+        "en": "Ratchaburi",
+        "th": "ราชบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "รย",
+    "info": {
+      "area": 3552,
+      "name": {
+        "en": "Rayong",
+        "th": "ระยอง"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "ลบ",
+    "info": {
+      "area": 6199.753,
+      "name": {
+        "en": "Lopburi",
+        "th": "ลพบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สก",
+    "info": {
+      "area": 7195.436,
+      "name": {
+        "en": "Sa Kaeo",
+        "th": "สระแก้ว"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สค",
+    "info": {
+      "area": 872.347,
+      "name": {
+        "en": "Samut Sakhon",
+        "th": "สมุทรสาคร"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สบ",
+    "info": {
+      "area": 3576.486,
+      "name": {
+        "en": "Saraburi",
+        "th": "สระบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สป",
+    "info": {
+      "area": 1004.092,
+      "name": {
+        "en": "Samut Prakan",
+        "th": "สมุทรปราการ"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สพ",
+    "info": {
+      "area": 5358.008,
+      "name": {
+        "en": "Suphan Buri",
+        "th": "สุพรรณบุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สส",
+    "info": {
+      "area": 416.707,
+      "name": {
+        "en": "Samut Songkhram",
+        "th": "สมุทรสงคราม"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "สห",
+    "info": {
+      "area": 822.478,
+      "name": {
+        "en": "Sing Buri",
+        "th": "สิงห์บุรี"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "อท",
+    "info": {
+      "area": 968.372,
+      "name": {
+        "en": "Ang Thong",
+        "th": "อ่างทอง"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "อย",
+    "info": {
+      "area": 2556.64,
+      "name": {
+        "en": "Phra Nakhon Si Ayutthaya",
+        "th": "พระนครศรีอยุธยา"
+      },
+      "region": "C"
+    }
+  },
+  {
+    "p_id": "กพ",
+    "info": {
+      "area": 8607.49,
+      "name": {
+        "en": "Kamphaeng Phet",
+        "th": "กำแพงเพชร"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "ชม",
+    "info": {
+      "area": 20107.057,
+      "name": {
+        "en": "Chiang Mai",
+        "th": "เชียงใหม่"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "ชร",
+    "info": {
+      "area": 11678.369,
+      "name": {
+        "en": "Chiang Rai",
+        "th": "เชียงราย"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "ตก",
+    "info": {
+      "area": 16406.65,
+      "name": {
+        "en": "Tak",
+        "th": "ตาก"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "นน",
+    "info": {
+      "area": 11472.072,
+      "name": {
+        "en": "Nan",
+        "th": "น่าน"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "นว",
+    "info": {
+      "area": 9597.677,
+      "name": {
+        "en": "Nakhon Sawan",
+        "th": "นครสวรรค์"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "พจ",
+    "info": {
+      "area": 4531.013,
+      "name": {
+        "en": "Phichit",
+        "th": "พิจิตร"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "พช",
+    "info": {
+      "area": 12668.416,
+      "name": {
+        "en": "Phetchabun",
+        "th": "เพชรบูรณ์"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "พย",
+    "info": {
+      "area": 6335.06,
+      "name": {
+        "en": "Phayao",
+        "th": "พะเยา"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "พร",
+    "info": {
+      "area": 6538.598,
+      "name": {
+        "en": "Phrae",
+        "th": "แพร่"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "พล",
+    "info": {
+      "area": 10815.854,
+      "name": {
+        "en": "Phitsanulok",
+        "th": "พิษณุโลก"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "มส",
+    "info": {
+      "area": 12681.259,
+      "name": {
+        "en": "Mae Hong Son",
+        "th": "แม่ฮ่องสอน"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "ลป",
+    "info": {
+      "area": 12533.961,
+      "name": {
+        "en": "Lampang",
+        "th": "ลำปาง"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "ลพ",
+    "info": {
+      "area": 4505.882,
+      "name": {
+        "en": "Lamphun",
+        "th": "ลำพูน"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "สท",
+    "info": {
+      "area": 6596.092,
+      "name": {
+        "en": "Sukhothai",
+        "th": "สุโขทัย"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "อต",
+    "info": {
+      "area": 7838.592,
+      "name": {
+        "en": "Uttaradit",
+        "th": "อุตรดิตถ์"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "อน",
+    "info": {
+      "area": 6730.246,
+      "name": {
+        "en": "Uthai Thani",
+        "th": "อุทัยธานี"
+      },
+      "region": "N"
+    }
+  },
+  {
+    "p_id": "กส",
+    "info": {
+      "area": 6946.746,
+      "name": {
+        "en": "Kalasin",
+        "th": "กาฬสินธุ์"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "ขก",
+    "info": {
+      "area": 10885.991,
+      "name": {
+        "en": "Khon Kaen",
+        "th": "ขอนแก่น"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "ชย",
+    "info": {
+      "area": 12778.287,
+      "name": {
+        "en": "Chaiyaphum",
+        "th": "ชัยภูมิ"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "นค",
+    "info": {
+      "area": 3027.28,
+      "name": {
+        "en": "Nong Khai",
+        "th": "หนองคาย"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "นพ",
+    "info": {
+      "area": 5512.668,
+      "name": {
+        "en": "Nakhon Phanom",
+        "th": "นครพนม"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "นภ",
+    "info": {
+      "area": 3859.086,
+      "name": {
+        "en": "Nong Bua Lamphu",
+        "th": "หนองบัวลำภู"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "นม",
+    "info": {
+      "area": 20493.965,
+      "name": {
+        "en": "Nakhon Ratchasima",
+        "th": "นครราชสีมา"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "บก",
+    "info": {
+      "area": 4305,
+      "name": {
+        "en": "Bueng Kan",
+        "th": "บึงกาฬ"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "บร",
+    "info": {
+      "area": 10322.885,
+      "name": {
+        "en": "Buriram",
+        "th": "บุรีรัมย์"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "มค",
+    "info": {
+      "area": 5291.683,
+      "name": {
+        "en": "Maha Sarakham",
+        "th": "มหาสารคาม"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "มห",
+    "info": {
+      "area": 4339.83,
+      "name": {
+        "en": "Mukdahan",
+        "th": "มุกดาหาร"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "ยส",
+    "info": {
+      "area": 4161.664,
+      "name": {
+        "en": "Yasothon",
+        "th": "ยโสธร"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "รอ",
+    "info": {
+      "area": 8299.449,
+      "name": {
+        "en": "Roi Et",
+        "th": "ร้อยเอ็ด"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "ลย",
+    "info": {
+      "area": 11424.612,
+      "name": {
+        "en": "Loei",
+        "th": "เลย"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "ศก",
+    "info": {
+      "area": 8839.976,
+      "name": {
+        "en": "Sisaket",
+        "th": "ศรีสะเกษ"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "สน",
+    "info": {
+      "area": 9605.764,
+      "name": {
+        "en": "Sakon Nakhon",
+        "th": "สกลนคร"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "สร",
+    "info": {
+      "area": 8124.056,
+      "name": {
+        "en": "Surin",
+        "th": "สุรินทร์"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "อจ",
+    "info": {
+      "area": 3161.248,
+      "name": {
+        "en": "Amnat Charoen",
+        "th": "อำนาจเจริญ"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "อด",
+    "info": {
+      "area": 11730.302,
+      "name": {
+        "en": "Udon Thani",
+        "th": "อุดรธานี"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "อบ",
+    "info": {
+      "area": 16112.65,
+      "name": {
+        "en": "Ubon Ratchathani",
+        "th": "อุบลราชธานี"
+      },
+      "region": "NE"
+    }
+  },
+  {
+    "p_id": "กบ",
+    "info": {
+      "area": 4708.512,
+      "name": {
+        "en": "Krabi",
+        "th": "กระบี่"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "ชพ",
+    "info": {
+      "area": 6010.849,
+      "name": {
+        "en": "Chumphon",
+        "th": "ชุมพร"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "ตง",
+    "info": {
+      "area": 4917.519,
+      "name": {
+        "en": "Trang",
+        "th": "ตรัง"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "นธ",
+    "info": {
+      "area": 4475.43,
+      "name": {
+        "en": "Narathiwat",
+        "th": "นราธิวาส"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "นศ",
+    "info": {
+      "area": 9942.502,
+      "name": {
+        "en": "Nakhon Si Thammarat",
+        "th": "นครศรีธรรมราช"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "ปน",
+    "info": {
+      "area": 1940.356,
+      "name": {
+        "en": "Pattani",
+        "th": "ปัตตานี"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "พง",
+    "info": {
+      "area": 4170.895,
+      "name": {
+        "en": "Phang Nga",
+        "th": "พังงา"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "พท",
+    "info": {
+      "area": 3424.473,
+      "name": {
+        "en": "Phattalung",
+        "th": "พัทลุง"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "ภก",
+    "info": {
+      "area": 543.034,
+      "name": {
+        "en": "Phuket",
+        "th": "ภูเก็ต"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "ยล",
+    "info": {
+      "area": 4521.078,
+      "name": {
+        "en": "Yala",
+        "th": "ยะลา"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "รน",
+    "info": {
+      "area": 3298.045,
+      "name": {
+        "en": "Ranong",
+        "th": "ระนอง"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "สข",
+    "info": {
+      "area": 7393.889,
+      "name": {
+        "en": "Songkhla",
+        "th": "สงขลา"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "สฎ",
+    "info": {
+      "area": 12891.469,
+      "name": {
+        "en": "Surat Thani",
+        "th": "สุราษฎร์ธานี"
+      },
+      "region": "S"
+    }
+  },
+  {
+    "p_id": "สต",
+    "info": {
+      "area": 2478.977,
+      "name": {
+        "en": "Satun",
+        "th": "สตูล"
+      },
+      "region": "S"
+    }
+  }
+]

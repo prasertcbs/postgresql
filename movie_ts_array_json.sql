@@ -1,14 +1,15 @@
+-- for PostgreSQL
 drop table if exists movie_ts;
 
 CREATE TABLE movie_ts (
-    title character varying(100),
+    title varchar(100),
     year integer,
     rating real,
     revenue_millions real,
-    genre character varying(100),
-    description character varying(500),
-    director character varying(200),
-    actors character varying(200),
+    genre varchar(100),
+    description varchar(500),
+    director varchar(200),
+    actors varchar(200),
     genre_a text[],
     genre_j jsonb,
     actors_a text[],
