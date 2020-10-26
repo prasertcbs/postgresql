@@ -1,38 +1,13 @@
--- data source (as of 2020-10-26):
--- 1. https://en.wikipedia.org/wiki/List_of_districts_of_Thailand
--- 2. https://en.wikipedia.org/wiki/List_of_districts_of_Bangkok
-
-drop table if exists amphur;
 
 CREATE TABLE amphur (
-    province_th varchar(50),
+    province_th varchar(50) NOT NULL,
     province_en varchar(50),
     region varchar(50),
-    amphur_th varchar(50),
+    amphur_th varchar(50) NOT NULL,
     amphur_en varchar(50)
 );
 
 
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เกาะลันตา', 'Ko Lanta');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เขาพนม', 'Khao Phanom');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'คลองท่อม', 'Khlong Thom');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'ปลายพระยา', 'Plai Phraya');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เมืองกระบี่', 'Mueang Krabi');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'ลำทับ', 'Lam Thap');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เหนือคลอง', 'Nuea Khlong');
-INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'อ่าวลึก', 'Ao Luek');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองเตย', 'Khlong Toei');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองสาน', 'Khlong San');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองสามวา', 'Khlong Sam Wa');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คันนายาว', 'Khan Na Yao');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'จตุจักร', 'Chatuchak');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'จอมทอง', 'Chom Thong');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดอนเมือง', 'Don Mueang');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดินแดง', 'Din Daeng');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดุสิต', 'Dusit');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ตลิ่งชัน', 'Taling Chan');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ทวีวัฒนา', 'Thawi Watthana');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ทุ่งครุ', 'Thung Khru');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ธนบุรี', 'Thon Buri');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'บางกอกน้อย', 'Bangkok Noi');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'บางกอกใหญ่', 'Bangkok Yai');
@@ -57,7 +32,6 @@ INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok',
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'มีนบุรี', 'Min Buri');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ยานนาวา', 'Yan Nawa');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ราชเทวี', 'Ratchathewi');
-INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ราษฏร์บูรณะ', 'Rat Burana');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ลาดกระบัง', 'Lat Krabang');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ลาดพร้าว', 'Lat Phrao');
 INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'วังทองหลาง', 'Wang Thonglang');
@@ -201,7 +175,6 @@ INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'ปะทิ
 INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'พะโต๊ะ', 'Phato');
 INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'เมืองชุมพร', 'Mueang Chumphon');
 INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'ละแม', 'Lamae');
-INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'สวี', 'Sawi');
 INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'หลังสวน', 'Lang Suan');
 INSERT INTO amphur VALUES ('เชียงราย', 'Chiang Rai', 'North', 'ขุนตาล', 'Khun Tan');
 INSERT INTO amphur VALUES ('เชียงราย', 'Chiang Rai', 'North', 'เชียงของ', 'Chiang Khong');
@@ -253,7 +226,6 @@ INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'เมืองต
 INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'ย่านตาขาว', 'Yan Ta Khao');
 INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'รัษฎา', 'Ratsada');
 INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'วังวิเศษ', 'Wang Wiset');
-INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'สิเกา', 'Sikao');
 INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'ห้วยยอด', 'Huai Yot');
 INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'หาดสำราญ', 'Hat Samran');
 INSERT INTO amphur VALUES ('ตราด', 'Trat', 'East', 'เกาะกูด', 'Ko Kut');
@@ -325,6 +297,7 @@ INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima'
 INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima', 'North-East', 'สีดา', 'Sida');
 INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima', 'North-East', 'สูงเนิน', 'Sung Noen');
 INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima', 'North-East', 'เสิงสาง', 'Soeng Sang');
+INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'โนนคูณ', 'Non Khun');
 INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima', 'North-East', 'หนองบุญมาก', 'Nong Bun Mak');
 INSERT INTO amphur VALUES ('นครราชสีมา', 'Nakhon Ratchasima', 'North-East', 'ห้วยแถลง', 'Huai Thalaeng');
 INSERT INTO amphur VALUES ('นครศรีธรรมราช', 'Nakhon Si Thammarat', 'South', 'ขนอม', 'Khanom');
@@ -515,7 +488,6 @@ INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'บาง
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'บึงนาราง', 'Bueng Na Rang');
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'โพทะเล', 'Pho Thale');
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'โพธิ์ประทับช้าง', 'Pho Prathap Chang');
-INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'เมืองอุทัยธานี', 'Mueang Phichit');
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'วชิรบารมี', 'Wachirabarami');
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'วังทรายพูน', 'Wang Sai Phun');
 INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'สากเหล็ก', 'Sak Lek');
@@ -548,7 +520,6 @@ INSERT INTO amphur VALUES ('เพชรบูรณ์', 'Phetchabun', 'Centre'
 INSERT INTO amphur VALUES ('เพชรบูรณ์', 'Phetchabun', 'Centre', 'หนองไผ่', 'Nong Phai');
 INSERT INTO amphur VALUES ('เพชรบูรณ์', 'Phetchabun', 'Centre', 'หล่มเก่า', 'Lom Kao');
 INSERT INTO amphur VALUES ('เพชรบูรณ์', 'Phetchabun', 'Centre', 'หล่มสัก', 'Lom Sak');
-INSERT INTO amphur VALUES ('แพร่', 'Phrae', 'North', 'เด่นชัย', 'Den Chai');
 INSERT INTO amphur VALUES ('แพร่', 'Phrae', 'North', 'เมืองแพร่', 'Mueang Phrae');
 INSERT INTO amphur VALUES ('แพร่', 'Phrae', 'North', 'ร้องกวาง', 'Rong Kwang');
 INSERT INTO amphur VALUES ('แพร่', 'Phrae', 'North', 'ลอง', 'Long');
@@ -666,7 +637,6 @@ INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'เมือ�
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'เมืองลำปาง', 'Mueang Lampang');
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'แม่ทะ', 'Mae Tha Lampang');
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'แม่เมาะ', 'Mae Mo');
-INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'แม่ริม', 'Mae Phrik');
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'วังเหนือ', 'Wang Nuea');
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'สบปราบ', 'Sop Prap');
 INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'เสริมงาม', 'Soem Ngam');
@@ -696,8 +666,9 @@ INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'กันทรารมย์', 'Kanthararom');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'ขุขันธ์', 'Khukhan');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'ขุนหาญ', 'Khun Han');
+INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'ตาพระยา', 'Ta Phraya');
+INSERT INTO amphur VALUES ('ลำปาง', 'Lampang', 'North', 'แม่พริก', 'Mae Phrik');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'น้ำเกลี้ยง', 'Nam Kliang');
-INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'โนนคูน', 'Non Khun');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'บึงบูรพ์', 'Bueng Bun');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'เบญจลักษ์', 'Benchalak');
 INSERT INTO amphur VALUES ('ศรีสะเกษ', 'Sisaket', 'North-East', 'ปรางค์กู่', 'Prang Ku');
@@ -722,7 +693,6 @@ INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', '
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'เต่างอย', 'Tao Ngoi');
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'นิคมน้ำอูน', 'Nikhom Nam Un');
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'บ้านม่วง', 'Ban Muang');
-INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'พรรณนานิคม', 'Phanna Nikhom');
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'พังโคน', 'Phang Khon');
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'โพนนาแก้ว', 'Phon Na Kaeo');
 INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'ภูพาน', 'Phu Phan');
@@ -770,7 +740,7 @@ INSERT INTO amphur VALUES ('สมุทรสาคร', 'Samut Sakhon', 'Centr
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'เขาฉกรรจ์', 'Khao Chakan');
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'คลองหาด', 'Khlong Hat');
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'โคกสูง', 'Khok Sung');
-INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'ตาพระยา', 'Ta Phraya');
+INSERT INTO amphur VALUES ('สกลนคร', 'Sakon Nakhon', 'North-East', 'พรรณานิคม', 'Phanna Nikhom');
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'เมืองสระแก้ว', 'Mueang Sa Kaeo');
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'วังน้ำเย็น', 'Wang Nam Yen');
 INSERT INTO amphur VALUES ('สระแก้ว', 'Sa Kaeo', 'East', 'วังสมบูรณ์', 'Wang Sombun');
@@ -841,13 +811,13 @@ INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', '�
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'โนนนารายณ์', 'Non Narai');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'บัวเชด', 'Buachet');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'ปราสาท', 'Prasat');
+INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'สนม', 'Sanom');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'พนมดงรัก', 'Phanom Dong Rak');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'เมืองสุรินทร์', 'Mueang Surin');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'รัตนบุรี', 'Rattanaburi');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'ลำดวน', 'Lamduan');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'ศรีณรงค์', 'Si Narong');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'ศีขรภูมิ', 'Sikhoraphum');
-INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'สนม', 'Sanom');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'สังขะ', 'Sangkha');
 INSERT INTO amphur VALUES ('สุรินทร์', 'Surin', 'North-East', 'สำโรงทาบ', 'Samrong Thap');
 INSERT INTO amphur VALUES ('หนองคาย', 'Nong Khai', 'North-East', 'ท่าบ่อ', 'Tha Bo');
@@ -910,9 +880,34 @@ INSERT INTO amphur VALUES ('อุตรดิตถ์', 'Uttaradit', 'North', 
 INSERT INTO amphur VALUES ('อุตรดิตถ์', 'Uttaradit', 'North', 'ลับแล', 'Laplae');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'ทัพทัน', 'Thap Than');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'บ้านไร่', 'Ban Rai');
-INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'เมืองอุทัยธานี', 'Mueang Uthai Thani');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'ลานสัก', 'Lan Sak');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เกาะลันตา', 'Ko Lanta');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เขาพนม', 'Khao Phanom');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'คลองท่อม', 'Khlong Thom');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'ปลายพระยา', 'Plai Phraya');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เมืองกระบี่', 'Mueang Krabi');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'ลำทับ', 'Lam Thap');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'เหนือคลอง', 'Nuea Khlong');
+INSERT INTO amphur VALUES ('กระบี่', 'Krabi', 'South', 'อ่าวลึก', 'Ao Luek');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองเตย', 'Khlong Toei');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองสาน', 'Khlong San');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คลองสามวา', 'Khlong Sam Wa');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'คันนายาว', 'Khan Na Yao');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'จตุจักร', 'Chatuchak');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'จอมทอง', 'Chom Thong');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดอนเมือง', 'Don Mueang');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดินแดง', 'Din Daeng');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ดุสิต', 'Dusit');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ตลิ่งชัน', 'Taling Chan');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ทวีวัฒนา', 'Thawi Watthana');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ทุ่งครุ', 'Thung Khru');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'สว่างอารมณ์', 'Sawang Arom');
+INSERT INTO amphur VALUES ('กรุงเทพมหานคร', 'Bangkok', 'Centre', 'ราษฎร์บูรณะ', 'Rat Burana');
+INSERT INTO amphur VALUES ('พิจิตร', 'Phichit', 'Centre', 'เมืองพิจิตร', 'Mueang Phichit');
+INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'เมืองอุทัยธานี', 'Mueang Uthai Thani');
+INSERT INTO amphur VALUES ('ชุมพร', 'Chumphon', 'South', 'สวี', 'Sawi');
+INSERT INTO amphur VALUES ('ตรัง', 'Trang', 'South', 'สิเกา', 'Sikao');
+INSERT INTO amphur VALUES ('แพร่', 'Phrae', 'North', 'เด่นชัย', 'Den Chai');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'หนองขาหย่าง', 'Nong Khayang');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'หนองฉาง', 'Nong Chang');
 INSERT INTO amphur VALUES ('อุทัยธานี', 'Uthai Thani', 'Centre', 'ห้วยคต', 'Huai Khot');
