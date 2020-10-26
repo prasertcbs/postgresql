@@ -1,0 +1,4253 @@
+[
+  {
+    "p_id": "1",
+    "province_th": "กระบี่",
+    "province_en": "Krabi",
+    "amphur_j": [
+      {
+        "en": "Ko Lanta",
+        "th": "เกาะลันตา"
+      },
+      {
+        "en": "Khao Phanom",
+        "th": "เขาพนม"
+      },
+      {
+        "en": "Khlong Thom",
+        "th": "คลองท่อม"
+      },
+      {
+        "en": "Plai Phraya",
+        "th": "ปลายพระยา"
+      },
+      {
+        "en": "Mueang Krabi",
+        "th": "เมืองกระบี่"
+      },
+      {
+        "en": "Lam Thap",
+        "th": "ลำทับ"
+      },
+      {
+        "en": "Nuea Khlong",
+        "th": "เหนือคลอง"
+      },
+      {
+        "en": "Ao Luek",
+        "th": "อ่าวลึก"
+      }
+    ]
+  },
+  {
+    "p_id": "2",
+    "province_th": "กรุงเทพมหานคร",
+    "province_en": "Bangkok",
+    "amphur_j": [
+      {
+        "en": "Khlong Toei",
+        "th": "คลองเตย"
+      },
+      {
+        "en": "Khlong San",
+        "th": "คลองสาน"
+      },
+      {
+        "en": "Khlong Sam Wa",
+        "th": "คลองสามวา"
+      },
+      {
+        "en": "Khan Na Yao",
+        "th": "คันนายาว"
+      },
+      {
+        "en": "Chatuchak",
+        "th": "จตุจักร"
+      },
+      {
+        "en": "Chom Thong",
+        "th": "จอมทอง"
+      },
+      {
+        "en": "Don Mueang",
+        "th": "ดอนเมือง"
+      },
+      {
+        "en": "Din Daeng",
+        "th": "ดินแดง"
+      },
+      {
+        "en": "Dusit",
+        "th": "ดุสิต"
+      },
+      {
+        "en": "Taling Chan",
+        "th": "ตลิ่งชัน"
+      },
+      {
+        "en": "Thawi Watthana",
+        "th": "ทวีวัฒนา"
+      },
+      {
+        "en": "Thung Khru",
+        "th": "ทุ่งครุ"
+      },
+      {
+        "en": "Thon Buri",
+        "th": "ธนบุรี"
+      },
+      {
+        "en": "Bangkok Noi",
+        "th": "บางกอกน้อย"
+      },
+      {
+        "en": "Bangkok Yai",
+        "th": "บางกอกใหญ่"
+      },
+      {
+        "en": "Bang Kapi",
+        "th": "บางกะปิ"
+      },
+      {
+        "en": "Bang Khun Thian",
+        "th": "บางขุนเทียน"
+      },
+      {
+        "en": "Bang Khen",
+        "th": "บางเขน"
+      },
+      {
+        "en": "Bang Kho Laem",
+        "th": "บางคอแหลม"
+      },
+      {
+        "en": "Bang Khae",
+        "th": "บางแค"
+      },
+      {
+        "en": "Bang Sue",
+        "th": "บางซื่อ"
+      },
+      {
+        "en": "Bang Na",
+        "th": "บางนา"
+      },
+      {
+        "en": "Bang Bon",
+        "th": "บางบอน"
+      },
+      {
+        "en": "Bang Phlat",
+        "th": "บางพลัด"
+      },
+      {
+        "en": "Bang Rak",
+        "th": "บางรัก"
+      },
+      {
+        "en": "Bueng Kum",
+        "th": "บึงกุ่ม"
+      },
+      {
+        "en": "Pathum Wan",
+        "th": "ปทุมวัน"
+      },
+      {
+        "en": "Prawet",
+        "th": "ประเวศ"
+      },
+      {
+        "en": "Pom Prap Sattru Phai",
+        "th": "ป้อมปราบศัตรูพ่าย"
+      },
+      {
+        "en": "Phaya Thai",
+        "th": "พญาไท"
+      },
+      {
+        "en": "Phra Khanong",
+        "th": "พระโขนง"
+      },
+      {
+        "en": "Phra Nakhon",
+        "th": "พระนคร"
+      },
+      {
+        "en": "Phasi Charoen",
+        "th": "ภาษีเจริญ"
+      },
+      {
+        "en": "Min Buri",
+        "th": "มีนบุรี"
+      },
+      {
+        "en": "Yan Nawa",
+        "th": "ยานนาวา"
+      },
+      {
+        "en": "Ratchathewi",
+        "th": "ราชเทวี"
+      },
+      {
+        "en": "Rat Burana",
+        "th": "ราษฏร์บูรณะ"
+      },
+      {
+        "en": "Lat Krabang",
+        "th": "ลาดกระบัง"
+      },
+      {
+        "en": "Lat Phrao",
+        "th": "ลาดพร้าว"
+      },
+      {
+        "en": "Wang Thonglang",
+        "th": "วังทองหลาง"
+      },
+      {
+        "en": "Watthana",
+        "th": "วัฒนา"
+      },
+      {
+        "en": "Suan Luang",
+        "th": "สวนหลวง"
+      },
+      {
+        "en": "Saphan Sung",
+        "th": "สะพานสูง"
+      },
+      {
+        "en": "Samphanthawong",
+        "th": "สัมพันธวงศ์"
+      },
+      {
+        "en": "Sathon",
+        "th": "สาทร"
+      },
+      {
+        "en": "Sai Mai",
+        "th": "สายไหม"
+      },
+      {
+        "en": "Nong Khaem",
+        "th": "หนองแขม"
+      },
+      {
+        "en": "Nong Chok",
+        "th": "หนองจอก"
+      },
+      {
+        "en": "Lak Si",
+        "th": "หลักสี่"
+      },
+      {
+        "en": "Huai Khwang",
+        "th": "ห้วยขวาง"
+      }
+    ]
+  },
+  {
+    "p_id": "3",
+    "province_th": "กาญจนบุรี",
+    "province_en": "Kanchanaburi",
+    "amphur_j": [
+      {
+        "en": "Dan Makham Tia",
+        "th": "ด่านมะขามเตี้ย"
+      },
+      {
+        "en": "Thong Pha Phum",
+        "th": "ทองผาภูมิ"
+      },
+      {
+        "en": "Tha Muang",
+        "th": "ท่าม่วง"
+      },
+      {
+        "en": "Tha Maka",
+        "th": "ท่ามะกา"
+      },
+      {
+        "en": "Sai Yok",
+        "th": "ไทรโยค"
+      },
+      {
+        "en": "Bo Phloi",
+        "th": "บ่อพลอย"
+      },
+      {
+        "en": "Phanom Thuan",
+        "th": "พนมทวน"
+      },
+      {
+        "en": "Mueang Kanchanaburi",
+        "th": "เมืองกาญจนบุรี"
+      },
+      {
+        "en": "Lao Khwan",
+        "th": "เลาขวัญ"
+      },
+      {
+        "en": "Si Sawat",
+        "th": "ศรีสวัสดิ์"
+      },
+      {
+        "en": "Sangkhla Buri",
+        "th": "สังขละบุรี"
+      },
+      {
+        "en": "Nong Prue",
+        "th": "หนองปรือ"
+      },
+      {
+        "en": "Huai Krachao",
+        "th": "ห้วยกระเจา"
+      }
+    ]
+  },
+  {
+    "p_id": "4",
+    "province_th": "กาฬสินธุ์",
+    "province_en": "Kalasin",
+    "amphur_j": [
+      {
+        "en": "Kamalasai",
+        "th": "กมลาไสย"
+      },
+      {
+        "en": "Kuchinarai",
+        "th": "กุฉินารายณ์"
+      },
+      {
+        "en": "Khao Wong",
+        "th": "เขาวง"
+      },
+      {
+        "en": "Kham Muang",
+        "th": "คำม่วง"
+      },
+      {
+        "en": "Khong Chai",
+        "th": "ฆ้องชัย"
+      },
+      {
+        "en": "Don Chan",
+        "th": "ดอนจาน"
+      },
+      {
+        "en": "Tha Khantho",
+        "th": "ท่าคันโท"
+      },
+      {
+        "en": "Na Khu",
+        "th": "นาคู"
+      },
+      {
+        "en": "Na Mon",
+        "th": "นามน"
+      },
+      {
+        "en": "Mueang Kalasin",
+        "th": "เมืองกาฬสินธุ์"
+      },
+      {
+        "en": "Yang Talat",
+        "th": "ยางตลาด"
+      },
+      {
+        "en": "Rong Kham",
+        "th": "ร่องคำ"
+      },
+      {
+        "en": "Somdet",
+        "th": "สมเด็จ"
+      },
+      {
+        "en": "Sahatsakhan",
+        "th": "สหัสขันธ์"
+      },
+      {
+        "en": "Sam Chai",
+        "th": "สามชัย"
+      },
+      {
+        "en": "Nong Kung Si",
+        "th": "หนองกุงศรี"
+      },
+      {
+        "en": "Huai Phueng",
+        "th": "ห้วยผึ้ง"
+      },
+      {
+        "en": "Huai Mek",
+        "th": "ห้วยเม็ก"
+      }
+    ]
+  },
+  {
+    "p_id": "5",
+    "province_th": "กำแพงเพชร",
+    "province_en": "Kamphaeng Phet",
+    "amphur_j": [
+      {
+        "en": "Kosamphi Nakhon",
+        "th": "โกสัมพีนคร"
+      },
+      {
+        "en": "Khanu Woralaksaburi",
+        "th": "ขาณุวรลักษบุรี"
+      },
+      {
+        "en": "Khlong Khlung",
+        "th": "คลองขลุง"
+      },
+      {
+        "en": "Khlong Lan",
+        "th": "คลองลาน"
+      },
+      {
+        "en": "Sai Thong Watthana",
+        "th": "ทรายทองวัฒนา"
+      },
+      {
+        "en": "Sai Ngam",
+        "th": "ไทรงาม"
+      },
+      {
+        "en": "Bueng Samakkhi",
+        "th": "บึงสามัคคี"
+      },
+      {
+        "en": "Pang Sila Thong",
+        "th": "ปางศิลาทอง"
+      },
+      {
+        "en": "Phran Kratai",
+        "th": "พรานกระต่าย"
+      },
+      {
+        "en": "Mueang Kamphaeng Phet",
+        "th": "เมืองกำแพงเพชร"
+      },
+      {
+        "en": "Lan Krabue",
+        "th": "ลานกระบือ"
+      }
+    ]
+  },
+  {
+    "p_id": "6",
+    "province_th": "ขอนแก่น",
+    "province_en": "Khon Kaen",
+    "amphur_j": [
+      {
+        "en": "Kranuan",
+        "th": "กระนวน"
+      },
+      {
+        "en": "Khao Suan Kwang",
+        "th": "เขาสวนกวาง"
+      },
+      {
+        "en": "Khok Pho Chai",
+        "th": "โคกโพธิ์ไชย"
+      },
+      {
+        "en": "Chonnabot",
+        "th": "ชนบท"
+      },
+      {
+        "en": "Chum Phae",
+        "th": "ชุมแพ"
+      },
+      {
+        "en": "Sam Sung",
+        "th": "ซำสูง"
+      },
+      {
+        "en": "Nam Phong",
+        "th": "น้ำพอง"
+      },
+      {
+        "en": "Non Sila",
+        "th": "โนนศิลา"
+      },
+      {
+        "en": "Ban Phai",
+        "th": "บ้านไผ่"
+      },
+      {
+        "en": "Ban Fang",
+        "th": "บ้านฝาง"
+      },
+      {
+        "en": "Ban Haet",
+        "th": "บ้านแฮด"
+      },
+      {
+        "en": "Pueai Noi",
+        "th": "เปือยน้อย"
+      },
+      {
+        "en": "Phra Yuen",
+        "th": "พระยืน"
+      },
+      {
+        "en": "Phon",
+        "th": "พล"
+      },
+      {
+        "en": "Phu Pha Man",
+        "th": "ภูผาม่าน"
+      },
+      {
+        "en": "Phu Wiang",
+        "th": "ภูเวียง"
+      },
+      {
+        "en": "Mancha Khiri",
+        "th": "มัญจาคีรี"
+      },
+      {
+        "en": "Mueang Khon Kaen",
+        "th": "เมืองขอนแก่น"
+      },
+      {
+        "en": "Wiang Kao",
+        "th": "เวียงเก่า"
+      },
+      {
+        "en": "Waeng Noi",
+        "th": "แวงน้อย"
+      },
+      {
+        "en": "Waeng Yai",
+        "th": "แวงใหญ่"
+      },
+      {
+        "en": "Si Chomphu",
+        "th": "สีชมพู"
+      },
+      {
+        "en": "Nong Na Kham",
+        "th": "หนองนาคำ"
+      },
+      {
+        "en": "Nong Ruea",
+        "th": "หนองเรือ"
+      },
+      {
+        "en": "Nong Song Hong",
+        "th": "หนองสองห้อง"
+      },
+      {
+        "en": "Ubolratana",
+        "th": "อุบลรัตน์"
+      }
+    ]
+  },
+  {
+    "p_id": "7",
+    "province_th": "จันทบุรี",
+    "province_en": "Chanthaburi",
+    "amphur_j": [
+      {
+        "en": "Kaeng Hang Maeo",
+        "th": "แก่งหางแมว"
+      },
+      {
+        "en": "Khlung",
+        "th": "ขลุง"
+      },
+      {
+        "en": "Khao Khitchakut",
+        "th": "เขาคิชฌกูฏ"
+      },
+      {
+        "en": "Tha Mai",
+        "th": "ท่าใหม่"
+      },
+      {
+        "en": "Na Yai Am",
+        "th": "นายายอาม"
+      },
+      {
+        "en": "Pong Nam Ron",
+        "th": "โป่งน้ำร้อน"
+      },
+      {
+        "en": "Makham",
+        "th": "มะขาม"
+      },
+      {
+        "en": "Mueang Chanthaburi",
+        "th": "เมืองจันทบุรี"
+      },
+      {
+        "en": "Soi Dao",
+        "th": "สอยดาว"
+      },
+      {
+        "en": "Laem Sing",
+        "th": "แหลมสิงห์"
+      }
+    ]
+  },
+  {
+    "p_id": "8",
+    "province_th": "ฉะเชิงเทรา",
+    "province_en": "Chachoengsao",
+    "amphur_j": [
+      {
+        "en": "Khlong Khuean",
+        "th": "คลองเขื่อน"
+      },
+      {
+        "en": "Tha Takiap",
+        "th": "ท่าตะเกียบ"
+      },
+      {
+        "en": "Bang Khla",
+        "th": "บางคล้า"
+      },
+      {
+        "en": "Bang Nam Priao",
+        "th": "บางน้ำเปรี้ยว"
+      },
+      {
+        "en": "Bang Pakong",
+        "th": "บางปะกง"
+      },
+      {
+        "en": "Ban Pho",
+        "th": "บ้านโพธิ์"
+      },
+      {
+        "en": "Plaeng Yao",
+        "th": "แปลงยาว"
+      },
+      {
+        "en": "Phanom Sarakham",
+        "th": "พนมสารคาม"
+      },
+      {
+        "en": "Mueang Chachoengsao",
+        "th": "เมืองฉะเชิงเทรา"
+      },
+      {
+        "en": "Ratchasan",
+        "th": "ราชสาส์น"
+      },
+      {
+        "en": "Sanam Chai Khet",
+        "th": "สนามชัยเขต"
+      }
+    ]
+  },
+  {
+    "p_id": "9",
+    "province_th": "ชลบุรี",
+    "province_en": "Chonburi",
+    "amphur_j": [
+      {
+        "en": "Ko Chan",
+        "th": "เกาะจันทร์"
+      },
+      {
+        "en": "Ko Sichang",
+        "th": "เกาะสีชัง"
+      },
+      {
+        "en": "Bo Thong",
+        "th": "บ่อทอง"
+      },
+      {
+        "en": "Bang Lamung",
+        "th": "บางละมุง"
+      },
+      {
+        "en": "Ban Bueng",
+        "th": "บ้านบึง"
+      },
+      {
+        "en": "Phanat Nikhom",
+        "th": "พนัสนิคม"
+      },
+      {
+        "en": "Phan Thong",
+        "th": "พานทอง"
+      },
+      {
+        "en": "Mueang Chonburi",
+        "th": "เมืองชลบุรี"
+      },
+      {
+        "en": "Si Racha",
+        "th": "ศรีราชา"
+      },
+      {
+        "en": "Sattahip",
+        "th": "สัตหีบ"
+      },
+      {
+        "en": "Nong Yai",
+        "th": "หนองใหญ่"
+      }
+    ]
+  },
+  {
+    "p_id": "10",
+    "province_th": "ชัยนาท",
+    "province_en": "Chainat",
+    "amphur_j": [
+      {
+        "en": "Noen Kham",
+        "th": "เนินขาม"
+      },
+      {
+        "en": "Manorom",
+        "th": "มโนรมย์"
+      },
+      {
+        "en": "Mueang Chainat",
+        "th": "เมืองชัยนาท"
+      },
+      {
+        "en": "Wat Sing",
+        "th": "วัดสิงห์"
+      },
+      {
+        "en": "Sankhaburi",
+        "th": "สรรคบุรี"
+      },
+      {
+        "en": "Sapphaya",
+        "th": "สรรพยา"
+      },
+      {
+        "en": "Nong Mamong",
+        "th": "หนองมะโมง"
+      },
+      {
+        "en": "Hankha",
+        "th": "หันคา"
+      }
+    ]
+  },
+  {
+    "p_id": "11",
+    "province_th": "ชัยภูมิ",
+    "province_en": "Chaiyaphum",
+    "amphur_j": [
+      {
+        "en": "Kaset Sombun",
+        "th": "เกษตรสมบูรณ์"
+      },
+      {
+        "en": "Kaeng Khro",
+        "th": "แก้งคร้อ"
+      },
+      {
+        "en": "Khon Sawan",
+        "th": "คอนสวรรค์"
+      },
+      {
+        "en": "Khon San",
+        "th": "คอนสาร"
+      },
+      {
+        "en": "Chatturat",
+        "th": "จัตุรัส"
+      },
+      {
+        "en": "Sap Yai",
+        "th": "ซับใหญ่"
+      },
+      {
+        "en": "Thep Sathit",
+        "th": "เทพสถิต"
+      },
+      {
+        "en": "Noen Sa-nga",
+        "th": "เนินสง่า"
+      },
+      {
+        "en": "Ban Khwao",
+        "th": "บ้านเขว้า"
+      },
+      {
+        "en": "Ban Thaen",
+        "th": "บ้านแท่น"
+      },
+      {
+        "en": "Bamnet Narong",
+        "th": "บำเหน็จณรงค์"
+      },
+      {
+        "en": "Phakdi Chumphon",
+        "th": "ภักดีชุมพล"
+      },
+      {
+        "en": "Phu Khiao",
+        "th": "ภูเขียว"
+      },
+      {
+        "en": "Mueang Chaiyaphum",
+        "th": "เมืองชัยภูมิ"
+      },
+      {
+        "en": "Nong Bua Daeng",
+        "th": "หนองบัวแดง"
+      },
+      {
+        "en": "Nong Bua Rawe",
+        "th": "หนองบัวระเหว"
+      }
+    ]
+  },
+  {
+    "p_id": "12",
+    "province_th": "ชุมพร",
+    "province_en": "Chumphon",
+    "amphur_j": [
+      {
+        "en": "Tha Sae",
+        "th": "ท่าแซะ"
+      },
+      {
+        "en": "Thung Tako",
+        "th": "ทุ่งตะโก"
+      },
+      {
+        "en": "Pathio",
+        "th": "ปะทิว"
+      },
+      {
+        "en": "Phato",
+        "th": "พะโต๊ะ"
+      },
+      {
+        "en": "Mueang Chumphon",
+        "th": "เมืองชุมพร"
+      },
+      {
+        "en": "Lamae",
+        "th": "ละแม"
+      },
+      {
+        "en": "Sawi",
+        "th": "สวี"
+      },
+      {
+        "en": "Lang Suan",
+        "th": "หลังสวน"
+      }
+    ]
+  },
+  {
+    "p_id": "13",
+    "province_th": "เชียงราย",
+    "province_en": "Chiang Rai",
+    "amphur_j": [
+      {
+        "en": "Khun Tan",
+        "th": "ขุนตาล"
+      },
+      {
+        "en": "Chiang Khong",
+        "th": "เชียงของ"
+      },
+      {
+        "en": "Chiang Saen",
+        "th": "เชียงแสน"
+      },
+      {
+        "en": "Doi Luang",
+        "th": "ดอยหลวง"
+      },
+      {
+        "en": "Thoeng",
+        "th": "เทิง"
+      },
+      {
+        "en": "Pa Daet",
+        "th": "ป่าแดด"
+      },
+      {
+        "en": "Phaya Mengrai",
+        "th": "พญาเม็งราย"
+      },
+      {
+        "en": "Phan",
+        "th": "พาน"
+      },
+      {
+        "en": "Mueang Chiang Rai",
+        "th": "เมืองเชียงราย"
+      },
+      {
+        "en": "Mae Chan",
+        "th": "แม่จัน"
+      },
+      {
+        "en": "Mae Fa Luang",
+        "th": "แม่ฟ้าหลวง"
+      },
+      {
+        "en": "Mae Lao",
+        "th": "แม่ลาว"
+      },
+      {
+        "en": "Mae Suai",
+        "th": "แม่สรวย"
+      },
+      {
+        "en": "Mae Sai",
+        "th": "แม่สาย"
+      },
+      {
+        "en": "Wiang Kaen",
+        "th": "เวียงแก่น"
+      },
+      {
+        "en": "Wiang Chai",
+        "th": "เวียงชัย"
+      },
+      {
+        "en": "Wiang Chiang Rung",
+        "th": "เวียงเชียงรุ้ง"
+      },
+      {
+        "en": "Wiang Pa Pao",
+        "th": "เวียงป่าเป้า"
+      }
+    ]
+  },
+  {
+    "p_id": "14",
+    "province_th": "เชียงใหม่",
+    "province_en": "Chiang Mai",
+    "amphur_j": [
+      {
+        "en": "Galyani Vadhana",
+        "th": "กัลยาณิวัฒนา"
+      },
+      {
+        "en": "Chom Thong",
+        "th": "จอมทอง"
+      },
+      {
+        "en": "Chiang Dao",
+        "th": "เชียงดาว"
+      },
+      {
+        "en": "Chai Prakan",
+        "th": "ไชยปราการ"
+      },
+      {
+        "en": "Doi Tao",
+        "th": "ดอยเต่า"
+      },
+      {
+        "en": "Doi Saket",
+        "th": "ดอยสะเก็ด"
+      },
+      {
+        "en": "Doi Lo",
+        "th": "ดอยหล่อ"
+      },
+      {
+        "en": "Fang",
+        "th": "ฝาง"
+      },
+      {
+        "en": "Phrao",
+        "th": "พร้าว"
+      },
+      {
+        "en": "Mueang Chiang Mai",
+        "th": "เมืองเชียงใหม่"
+      },
+      {
+        "en": "Mae Chaem",
+        "th": "แม่แจ่ม"
+      },
+      {
+        "en": "Mae Taeng",
+        "th": "แม่แตง"
+      },
+      {
+        "en": "Mae Rim",
+        "th": "แม่ริม"
+      },
+      {
+        "en": "Mae Wang",
+        "th": "แม่วาง"
+      },
+      {
+        "en": "Mae On",
+        "th": "แม่ออน"
+      },
+      {
+        "en": "Mae Ai",
+        "th": "แม่อาย"
+      },
+      {
+        "en": "Wiang Haeng",
+        "th": "เวียงแหง"
+      },
+      {
+        "en": "Samoeng",
+        "th": "สะเมิง"
+      },
+      {
+        "en": "San Kamphaeng",
+        "th": "สันกำแพง"
+      },
+      {
+        "en": "San Sai",
+        "th": "สันทราย"
+      },
+      {
+        "en": "San Pa Tong",
+        "th": "สันป่าตอง"
+      },
+      {
+        "en": "Saraphi",
+        "th": "สารภี"
+      },
+      {
+        "en": "Hang Dong",
+        "th": "หางดง"
+      },
+      {
+        "en": "Omkoi",
+        "th": "อมก๋อย"
+      },
+      {
+        "en": "Hot",
+        "th": "ฮอด"
+      }
+    ]
+  },
+  {
+    "p_id": "15",
+    "province_th": "ตรัง",
+    "province_en": "Trang",
+    "amphur_j": [
+      {
+        "en": "Kantang",
+        "th": "กันตัง"
+      },
+      {
+        "en": "Na Yong",
+        "th": "นาโยง"
+      },
+      {
+        "en": "Palian",
+        "th": "ปะเหลียน"
+      },
+      {
+        "en": "Mueang Trang",
+        "th": "เมืองตรัง"
+      },
+      {
+        "en": "Yan Ta Khao",
+        "th": "ย่านตาขาว"
+      },
+      {
+        "en": "Ratsada",
+        "th": "รัษฎา"
+      },
+      {
+        "en": "Wang Wiset",
+        "th": "วังวิเศษ"
+      },
+      {
+        "en": "Sikao",
+        "th": "สิเกา"
+      },
+      {
+        "en": "Huai Yot",
+        "th": "ห้วยยอด"
+      },
+      {
+        "en": "Hat Samran",
+        "th": "หาดสำราญ"
+      }
+    ]
+  },
+  {
+    "p_id": "16",
+    "province_th": "ตราด",
+    "province_en": "Trat",
+    "amphur_j": [
+      {
+        "en": "Ko Kut",
+        "th": "เกาะกูด"
+      },
+      {
+        "en": "Ko Chang",
+        "th": "เกาะช้าง"
+      },
+      {
+        "en": "Khao Saming",
+        "th": "เขาสมิง"
+      },
+      {
+        "en": "Khlong Yai",
+        "th": "คลองใหญ่"
+      },
+      {
+        "en": "Bo Rai",
+        "th": "บ่อไร่"
+      },
+      {
+        "en": "Mueang Trat",
+        "th": "เมืองตราด"
+      },
+      {
+        "en": "Laem Ngop",
+        "th": "แหลมงอบ"
+      }
+    ]
+  },
+  {
+    "p_id": "17",
+    "province_th": "ตาก",
+    "province_en": "Tak",
+    "amphur_j": [
+      {
+        "en": "Tha Song Yang",
+        "th": "ท่าสองยาง"
+      },
+      {
+        "en": "Ban Tak",
+        "th": "บ้านตาก"
+      },
+      {
+        "en": "Phop Phra",
+        "th": "พบพระ"
+      },
+      {
+        "en": "Mueang Tak",
+        "th": "เมืองตาก"
+      },
+      {
+        "en": "Mae Ramat",
+        "th": "แม่ระมาด"
+      },
+      {
+        "en": "Mae Sot",
+        "th": "แม่สอด"
+      },
+      {
+        "en": "Wang Chao",
+        "th": "วังเจ้า"
+      },
+      {
+        "en": "Sam Ngao",
+        "th": "สามเงา"
+      },
+      {
+        "en": "Umphang",
+        "th": "อุ้มผาง"
+      }
+    ]
+  },
+  {
+    "p_id": "18",
+    "province_th": "นครนายก",
+    "province_en": "Nakhon Nayok",
+    "amphur_j": [
+      {
+        "en": "Ban Na",
+        "th": "บ้านนา"
+      },
+      {
+        "en": "Pak Phli",
+        "th": "ปากพลี"
+      },
+      {
+        "en": "Mueang Nakhon Nayok",
+        "th": "เมืองนครนายก"
+      },
+      {
+        "en": "Ongkharak",
+        "th": "องครักษ์"
+      }
+    ]
+  },
+  {
+    "p_id": "19",
+    "province_th": "นครปฐม",
+    "province_en": "Nakhon Pathom",
+    "amphur_j": [
+      {
+        "en": "Kamphaeng Saen",
+        "th": "กำแพงแสน"
+      },
+      {
+        "en": "Don Tum",
+        "th": "ดอนตูม"
+      },
+      {
+        "en": "Nakhon Chai Si",
+        "th": "นครชัยศรี"
+      },
+      {
+        "en": "Bang Len",
+        "th": "บางเลน"
+      },
+      {
+        "en": "Phutthamonthon",
+        "th": "พุทธมณฑล"
+      },
+      {
+        "en": "Mueang Nakhon Pathom",
+        "th": "เมืองนครปฐม"
+      },
+      {
+        "en": "Sam Phran",
+        "th": "สามพราน"
+      }
+    ]
+  },
+  {
+    "p_id": "20",
+    "province_th": "นครพนม",
+    "province_en": "Nakhon Phanom",
+    "amphur_j": [
+      {
+        "en": "Tha Uthen",
+        "th": "ท่าอุเทน"
+      },
+      {
+        "en": "That Phanom",
+        "th": "ธาตุพนม"
+      },
+      {
+        "en": "Na Kae",
+        "th": "นาแก"
+      },
+      {
+        "en": "Na Thom",
+        "th": "นาทม"
+      },
+      {
+        "en": "Na Wa",
+        "th": "นาหว้า"
+      },
+      {
+        "en": "Ban Phaeng",
+        "th": "บ้านแพง"
+      },
+      {
+        "en": "Pla Pak",
+        "th": "ปลาปาก"
+      },
+      {
+        "en": "Phon Sawan",
+        "th": "โพนสวรรค์"
+      },
+      {
+        "en": "Mueang Nakhon Phanom",
+        "th": "เมืองนครพนม"
+      },
+      {
+        "en": "Renu Nakhon",
+        "th": "เรณูนคร"
+      },
+      {
+        "en": "Wang Yang",
+        "th": "วังยาง"
+      },
+      {
+        "en": "Si Songkhram",
+        "th": "ศรีสงคราม"
+      }
+    ]
+  },
+  {
+    "p_id": "21",
+    "province_th": "นครราชสีมา",
+    "province_en": "Nakhon Ratchasima",
+    "amphur_j": [
+      {
+        "en": "Kaeng Sanam Nang",
+        "th": "แก้งสนามนาง"
+      },
+      {
+        "en": "Kham Thale So",
+        "th": "ขามทะเลสอ"
+      },
+      {
+        "en": "Kham Sakaesaeng",
+        "th": "ขามสะแกแสง"
+      },
+      {
+        "en": "Khong",
+        "th": "คง"
+      },
+      {
+        "en": "Khon Buri",
+        "th": "ครบุรี"
+      },
+      {
+        "en": "Chakkarat",
+        "th": "จักราช"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chum Phuang",
+        "th": "ชุมพวง"
+      },
+      {
+        "en": "Chok Chai",
+        "th": "โชคชัย"
+      },
+      {
+        "en": "Dan Khun Thot",
+        "th": "ด่านขุนทด"
+      },
+      {
+        "en": "Thepharak",
+        "th": "เทพารักษ์"
+      },
+      {
+        "en": "Non Daeng",
+        "th": "โนนแดง"
+      },
+      {
+        "en": "Non Thai",
+        "th": "โนนไทย"
+      },
+      {
+        "en": "Non Sung",
+        "th": "โนนสูง"
+      },
+      {
+        "en": "Bua Lai",
+        "th": "บัวลาย"
+      },
+      {
+        "en": "Bua Yai",
+        "th": "บัวใหญ่"
+      },
+      {
+        "en": "Ban Lueam",
+        "th": "บ้านเหลื่อม"
+      },
+      {
+        "en": "Prathai",
+        "th": "ประทาย"
+      },
+      {
+        "en": "Pak Thong Chai",
+        "th": "ปักธงชัย"
+      },
+      {
+        "en": "Pak Chong",
+        "th": "ปากช่อง"
+      },
+      {
+        "en": "Phra Thong Kham",
+        "th": "พระทองคำ"
+      },
+      {
+        "en": "Phimai",
+        "th": "พิมาย"
+      },
+      {
+        "en": "Mueang Nakhon Ratchasima",
+        "th": "เมืองนครราชสีมา"
+      },
+      {
+        "en": "Mueang Yang",
+        "th": "เมืองยาง"
+      },
+      {
+        "en": "Lam Thamenchai",
+        "th": "ลำทะเมนชัย"
+      },
+      {
+        "en": "Wang Nam Khiao",
+        "th": "วังน้ำเขียว"
+      },
+      {
+        "en": "Sikhio",
+        "th": "สีคิ้ว"
+      },
+      {
+        "en": "Sida",
+        "th": "สีดา"
+      },
+      {
+        "en": "Sung Noen",
+        "th": "สูงเนิน"
+      },
+      {
+        "en": "Soeng Sang",
+        "th": "เสิงสาง"
+      },
+      {
+        "en": "Nong Bun Mak",
+        "th": "หนองบุญมาก"
+      },
+      {
+        "en": "Huai Thalaeng",
+        "th": "ห้วยแถลง"
+      }
+    ]
+  },
+  {
+    "p_id": "22",
+    "province_th": "นครศรีธรรมราช",
+    "province_en": "Nakhon Si Thammarat",
+    "amphur_j": [
+      {
+        "en": "Khanom",
+        "th": "ขนอม"
+      },
+      {
+        "en": "Chulabhorn",
+        "th": "จุฬาภรณ์"
+      },
+      {
+        "en": "Chawang",
+        "th": "ฉวาง"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Cha-uat",
+        "th": "ชะอวด"
+      },
+      {
+        "en": "Chang Klang",
+        "th": "ช้างกลาง"
+      },
+      {
+        "en": "Chian Yai",
+        "th": "เชียรใหญ่"
+      },
+      {
+        "en": "Tham Phannara",
+        "th": "ถ้ำพรรณรา"
+      },
+      {
+        "en": "Tha Sala",
+        "th": "ท่าศาลา"
+      },
+      {
+        "en": "Thung Song",
+        "th": "ทุ่งสง"
+      },
+      {
+        "en": "Thung Yai",
+        "th": "ทุ่งใหญ่"
+      },
+      {
+        "en": "Nopphitam",
+        "th": "นบพิตำ"
+      },
+      {
+        "en": "Na Bon",
+        "th": "นาบอน"
+      },
+      {
+        "en": "Bang Khan",
+        "th": "บางขัน"
+      },
+      {
+        "en": "Pak Phanang",
+        "th": "ปากพนัง"
+      },
+      {
+        "en": "Phrom Khiri",
+        "th": "พรหมคีรี"
+      },
+      {
+        "en": "Phra Phrom",
+        "th": "พระพรหม"
+      },
+      {
+        "en": "Phipun",
+        "th": "พิปูน"
+      },
+      {
+        "en": "Mueang Nakhon Si Thammarat",
+        "th": "เมืองนครศรีธรรมราช"
+      },
+      {
+        "en": "Ron Phibun",
+        "th": "ร่อนพิบูลย์"
+      },
+      {
+        "en": "Lan Saka",
+        "th": "ลานสกา"
+      },
+      {
+        "en": "Sichon",
+        "th": "สิชล"
+      },
+      {
+        "en": "Hua Sai",
+        "th": "หัวไทร"
+      }
+    ]
+  },
+  {
+    "p_id": "23",
+    "province_th": "นครสวรรค์",
+    "province_en": "Nakhon Sawan",
+    "amphur_j": [
+      {
+        "en": "Kao Liao",
+        "th": "เก้าเลี้ยว"
+      },
+      {
+        "en": "Krok Phra",
+        "th": "โกรกพระ"
+      },
+      {
+        "en": "Chum Ta Bong",
+        "th": "ชุมตาบง"
+      },
+      {
+        "en": "Chum Saeng",
+        "th": "ชุมแสง"
+      },
+      {
+        "en": "Tak Fa",
+        "th": "ตากฟ้า"
+      },
+      {
+        "en": "Takhli",
+        "th": "ตาคลี"
+      },
+      {
+        "en": "Tha Tako",
+        "th": "ท่าตะโก"
+      },
+      {
+        "en": "Banphot Phisai",
+        "th": "บรรพตพิสัย"
+      },
+      {
+        "en": "Phayuha Khiri",
+        "th": "พยุหะคีรี"
+      },
+      {
+        "en": "Phaisali",
+        "th": "ไพศาลี"
+      },
+      {
+        "en": "Mueang Nakhon Sawan",
+        "th": "เมืองนครสวรรค์"
+      },
+      {
+        "en": "Mae Poen",
+        "th": "แม่เปิน"
+      },
+      {
+        "en": "Mae Wong",
+        "th": "แม่วงก์"
+      },
+      {
+        "en": "Lat Yao",
+        "th": "ลาดยาว"
+      },
+      {
+        "en": "Nong Bua",
+        "th": "หนองบัว"
+      }
+    ]
+  },
+  {
+    "p_id": "24",
+    "province_th": "นนทบุรี",
+    "province_en": "Nonthaburi",
+    "amphur_j": [
+      {
+        "en": "Sai Noi",
+        "th": "ไทรน้อย"
+      },
+      {
+        "en": "Bang Kruai",
+        "th": "บางกรวย"
+      },
+      {
+        "en": "Bang Bua Thong",
+        "th": "บางบัวทอง"
+      },
+      {
+        "en": "Bang Yai",
+        "th": "บางใหญ่"
+      },
+      {
+        "en": "Pak Kret",
+        "th": "ปากเกร็ด"
+      },
+      {
+        "en": "Mueang Nonthaburi",
+        "th": "เมืองนนทบุรี"
+      }
+    ]
+  },
+  {
+    "p_id": "25",
+    "province_th": "นราธิวาส",
+    "province_en": "Narathiwat",
+    "amphur_j": [
+      {
+        "en": "Chanae",
+        "th": "จะแนะ"
+      },
+      {
+        "en": "Cho-airong",
+        "th": "เจาะไอร้อง"
+      },
+      {
+        "en": "Tak Bai",
+        "th": "ตากใบ"
+      },
+      {
+        "en": "Bacho",
+        "th": "บาเจาะ"
+      },
+      {
+        "en": "Mueang Narathiwat",
+        "th": "เมืองนราธิวาส"
+      },
+      {
+        "en": "Yi-ngo",
+        "th": "ยี่งอ"
+      },
+      {
+        "en": "Ra-ngae",
+        "th": "ระแงะ"
+      },
+      {
+        "en": "Rueso",
+        "th": "รือเสาะ"
+      },
+      {
+        "en": "Waeng",
+        "th": "แว้ง"
+      },
+      {
+        "en": "Si Sakhon",
+        "th": "ศรีสาคร"
+      },
+      {
+        "en": "Sukhirin",
+        "th": "สุคิริน"
+      },
+      {
+        "en": "Su-ngai Kolok",
+        "th": "สุไหงโก-ลก"
+      },
+      {
+        "en": "Su-ngai Padi",
+        "th": "สุไหงปาดี"
+      }
+    ]
+  },
+  {
+    "p_id": "26",
+    "province_th": "น่าน",
+    "province_en": "Nan",
+    "amphur_j": [
+      {
+        "en": "Chaloem Phra Kiat",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chiang Klang",
+        "th": "เชียงกลาง"
+      },
+      {
+        "en": "Tha Wang Pha",
+        "th": "ท่าวังผา"
+      },
+      {
+        "en": "Thung Chang",
+        "th": "ทุ่งช้าง"
+      },
+      {
+        "en": "Na Noi",
+        "th": "นาน้อย"
+      },
+      {
+        "en": "Na Muen",
+        "th": "นาหมื่น"
+      },
+      {
+        "en": "Bo Kluea",
+        "th": "บ่อเกลือ"
+      },
+      {
+        "en": "Ban Luang",
+        "th": "บ้านหลวง"
+      },
+      {
+        "en": "Pua",
+        "th": "ปัว"
+      },
+      {
+        "en": "Phu Phiang",
+        "th": "ภูเพียง"
+      },
+      {
+        "en": "Mueang Nan",
+        "th": "เมืองน่าน"
+      },
+      {
+        "en": "Mae Charim",
+        "th": "แม่จริม"
+      },
+      {
+        "en": "Wiang Sa",
+        "th": "เวียงสา"
+      },
+      {
+        "en": "Song Khwae",
+        "th": "สองแคว"
+      },
+      {
+        "en": "Santi Suk",
+        "th": "สันติสุข"
+      }
+    ]
+  },
+  {
+    "p_id": "27",
+    "province_th": "บึงกาฬ",
+    "province_en": "Bueng Kan",
+    "amphur_j": [
+      {
+        "en": "Seka",
+        "th": "เซกา"
+      },
+      {
+        "en": "So Phisai",
+        "th": "โซ่พิสัย"
+      },
+      {
+        "en": "Bueng Khong Long",
+        "th": "บึงโขงหลง"
+      },
+      {
+        "en": "Bung Khla",
+        "th": "บุ่งคล้า"
+      },
+      {
+        "en": "Pak Khat",
+        "th": "ปากคาด"
+      },
+      {
+        "en": "Phon Charoen",
+        "th": "พรเจริญ"
+      },
+      {
+        "en": "Mueang Bueng Kan",
+        "th": "เมืองบึงกาฬ"
+      },
+      {
+        "en": "Si Wilai",
+        "th": "ศรีวิไล"
+      }
+    ]
+  },
+  {
+    "p_id": "28",
+    "province_th": "บุรีรัมย์",
+    "province_en": "Buriram",
+    "amphur_j": [
+      {
+        "en": "Krasang",
+        "th": "กระสัง"
+      },
+      {
+        "en": "Khu Mueang",
+        "th": "คูเมือง"
+      },
+      {
+        "en": "Khaen Dong",
+        "th": "แคนดง"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chamni",
+        "th": "ชำนิ"
+      },
+      {
+        "en": "Nang Rong",
+        "th": "นางรอง"
+      },
+      {
+        "en": "Na Pho",
+        "th": "นาโพธิ์"
+      },
+      {
+        "en": "Non Din Daeng",
+        "th": "โนนดินแดง"
+      },
+      {
+        "en": "Non Suwan",
+        "th": "โนนสุวรรณ"
+      },
+      {
+        "en": "Ban Kruat",
+        "th": "บ้านกรวด"
+      },
+      {
+        "en": "Ban Dan",
+        "th": "บ้านด่าน"
+      },
+      {
+        "en": "Ban Mai Chaiyaphot",
+        "th": "บ้านใหม่ไชยพจน์"
+      },
+      {
+        "en": "Prakhon Chai",
+        "th": "ประโคนชัย"
+      },
+      {
+        "en": "Pakham",
+        "th": "ปะคำ"
+      },
+      {
+        "en": "Phlapphla Chai",
+        "th": "พลับพลาชัย"
+      },
+      {
+        "en": "Phutthaisong",
+        "th": "พุทไธสง"
+      },
+      {
+        "en": "Mueang Buriram",
+        "th": "เมืองบุรีรัมย์"
+      },
+      {
+        "en": "Lahan Sai",
+        "th": "ละหานทราย"
+      },
+      {
+        "en": "Lam Plai Mat",
+        "th": "ลำปลายมาศ"
+      },
+      {
+        "en": "Satuek",
+        "th": "สตึก"
+      },
+      {
+        "en": "Nong Ki",
+        "th": "หนองกี่"
+      },
+      {
+        "en": "Nong Hong",
+        "th": "หนองหงส์"
+      },
+      {
+        "en": "Huai Rat",
+        "th": "ห้วยราช"
+      }
+    ]
+  },
+  {
+    "p_id": "29",
+    "province_th": "ปทุมธานี",
+    "province_en": "Pathum Thani",
+    "amphur_j": [
+      {
+        "en": "Khlong Luang",
+        "th": "คลองหลวง"
+      },
+      {
+        "en": "Thanyaburi",
+        "th": "ธัญบุรี"
+      },
+      {
+        "en": "Mueang Pathum Thani",
+        "th": "เมืองปทุมธานี"
+      },
+      {
+        "en": "Lat Lum Kaeo",
+        "th": "ลาดหลุมแก้ว"
+      },
+      {
+        "en": "Lam Luk Ka",
+        "th": "ลำลูกกา"
+      },
+      {
+        "en": "Sam Khok",
+        "th": "สามโคก"
+      },
+      {
+        "en": "Nong Suea",
+        "th": "หนองเสือ"
+      }
+    ]
+  },
+  {
+    "p_id": "30",
+    "province_th": "ประจวบคีรีขันธ์",
+    "province_en": "Prachuap Khiri Khan",
+    "amphur_j": [
+      {
+        "en": "Kui Buri",
+        "th": "กุยบุรี"
+      },
+      {
+        "en": "Thap Sakae",
+        "th": "ทับสะแก"
+      },
+      {
+        "en": "Bang Saphan",
+        "th": "บางสะพาน"
+      },
+      {
+        "en": "Bang Saphan Noi",
+        "th": "บางสะพานน้อย"
+      },
+      {
+        "en": "Pran Buri",
+        "th": "ปราณบุรี"
+      },
+      {
+        "en": "Mueang Prachuap Khiri Khan",
+        "th": "เมืองประจวบคีรีขันธ์"
+      },
+      {
+        "en": "Sam Roi Yot",
+        "th": "สามร้อยยอด"
+      },
+      {
+        "en": "Hua Hin",
+        "th": "หัวหิน"
+      }
+    ]
+  },
+  {
+    "p_id": "31",
+    "province_th": "ปราจีนบุรี",
+    "province_en": "Prachin Buri",
+    "amphur_j": [
+      {
+        "en": "Kabin Buri",
+        "th": "กบินทร์บุรี"
+      },
+      {
+        "en": "Na Di",
+        "th": "นาดี"
+      },
+      {
+        "en": "Ban Sang",
+        "th": "บ้านสร้าง"
+      },
+      {
+        "en": "Prachantakham",
+        "th": "ประจันตคาม"
+      },
+      {
+        "en": "Mueang Prachinburi",
+        "th": "เมืองปราจีนบุรี"
+      },
+      {
+        "en": "Si Maha Phot",
+        "th": "ศรีมหาโพธิ"
+      },
+      {
+        "en": "Si Mahosot",
+        "th": "ศรีมโหสถ"
+      }
+    ]
+  },
+  {
+    "p_id": "32",
+    "province_th": "ปัตตานี",
+    "province_en": "Pattani",
+    "amphur_j": [
+      {
+        "en": "Kapho",
+        "th": "กะพ้อ"
+      },
+      {
+        "en": "Khok Pho",
+        "th": "โคกโพธิ์"
+      },
+      {
+        "en": "Thung Yang Daeng",
+        "th": "ทุ่งยางแดง"
+      },
+      {
+        "en": "Panare",
+        "th": "ปะนาเระ"
+      },
+      {
+        "en": "Mayo",
+        "th": "มายอ"
+      },
+      {
+        "en": "Mueang Pattani",
+        "th": "เมืองปัตตานี"
+      },
+      {
+        "en": "Mae Lan",
+        "th": "แม่ลาน"
+      },
+      {
+        "en": "Mai Kaen",
+        "th": "ไม้แก่น"
+      },
+      {
+        "en": "Yarang",
+        "th": "ยะรัง"
+      },
+      {
+        "en": "Yaring",
+        "th": "ยะหริ่ง"
+      },
+      {
+        "en": "Sai Buri",
+        "th": "สายบุรี"
+      },
+      {
+        "en": "Nong Chik",
+        "th": "หนองจิก"
+      }
+    ]
+  },
+  {
+    "p_id": "33",
+    "province_th": "พระนครศรีอยุธยา",
+    "province_en": "Phra Nakhon Si Ayutthaya",
+    "amphur_j": [
+      {
+        "en": "Tha Ruea",
+        "th": "ท่าเรือ"
+      },
+      {
+        "en": "Nakhon Luang",
+        "th": "นครหลวง"
+      },
+      {
+        "en": "Bang Sai 1413",
+        "th": "บางซ้าย"
+      },
+      {
+        "en": "Bang Sai 1404",
+        "th": "บางไทร"
+      },
+      {
+        "en": "Bang Ban",
+        "th": "บางบาล"
+      },
+      {
+        "en": "Bang Pahan",
+        "th": "บางปะหัน"
+      },
+      {
+        "en": "Bang Pa In",
+        "th": "บางปะอิน"
+      },
+      {
+        "en": "Ban Phraek",
+        "th": "บ้านแพรก"
+      },
+      {
+        "en": "Phak Hai",
+        "th": "ผักไห่"
+      },
+      {
+        "en": "Phra Nakhon Si Ayutthaya",
+        "th": "พระนครศรีอยุธยา"
+      },
+      {
+        "en": "Phachi",
+        "th": "ภาชี"
+      },
+      {
+        "en": "Maha Rat",
+        "th": "มหาราช"
+      },
+      {
+        "en": "Lat Bua Luang",
+        "th": "ลาดบัวหลวง"
+      },
+      {
+        "en": "Wang Noi",
+        "th": "วังน้อย"
+      },
+      {
+        "en": "Sena",
+        "th": "เสนา"
+      },
+      {
+        "en": "Uthai",
+        "th": "อุทัย"
+      }
+    ]
+  },
+  {
+    "p_id": "34",
+    "province_th": "พะเยา",
+    "province_en": "Phayao",
+    "amphur_j": [
+      {
+        "en": "Chun",
+        "th": "จุน"
+      },
+      {
+        "en": "Chiang Kham",
+        "th": "เชียงคำ"
+      },
+      {
+        "en": "Chiang Muan",
+        "th": "เชียงม่วน"
+      },
+      {
+        "en": "Dok Khamtai",
+        "th": "ดอกคำใต้"
+      },
+      {
+        "en": "Pong",
+        "th": "ปง"
+      },
+      {
+        "en": "Phu Kamyao",
+        "th": "ภูกามยาว"
+      },
+      {
+        "en": "Phu Sang",
+        "th": "ภูซาง"
+      },
+      {
+        "en": "Mueang Phayao",
+        "th": "เมืองพะเยา"
+      },
+      {
+        "en": "Mae Chai",
+        "th": "แม่ใจ"
+      }
+    ]
+  },
+  {
+    "p_id": "35",
+    "province_th": "พังงา",
+    "province_en": "Phang Nga",
+    "amphur_j": [
+      {
+        "en": "Kapong",
+        "th": "กะปง"
+      },
+      {
+        "en": "Ko Yao",
+        "th": "เกาะยาว"
+      },
+      {
+        "en": "Khura Buri",
+        "th": "คุระบุรี"
+      },
+      {
+        "en": "Takua Thung",
+        "th": "ตะกั่วทุ่ง"
+      },
+      {
+        "en": "Takua Pa",
+        "th": "ตะกั่วป่า"
+      },
+      {
+        "en": "Thap Put",
+        "th": "ทับปุด"
+      },
+      {
+        "en": "Thai Mueang",
+        "th": "ท้ายเหมือง"
+      },
+      {
+        "en": "Mueang Phang Nga",
+        "th": "เมืองพังงา"
+      }
+    ]
+  },
+  {
+    "p_id": "36",
+    "province_th": "พัทลุง",
+    "province_en": "Phatthalung",
+    "amphur_j": [
+      {
+        "en": "Kong Ra",
+        "th": "กงหรา"
+      },
+      {
+        "en": "Khao Chaison",
+        "th": "เขาชัยสน"
+      },
+      {
+        "en": "Khuan Khanun",
+        "th": "ควนขนุน"
+      },
+      {
+        "en": "Tamot",
+        "th": "ตะโหมด"
+      },
+      {
+        "en": "Bang Kaeo",
+        "th": "บางแก้ว"
+      },
+      {
+        "en": "Pak Phayun",
+        "th": "ปากพะยูน"
+      },
+      {
+        "en": "Pa Bon",
+        "th": "ป่าบอน"
+      },
+      {
+        "en": "Pa Phayom",
+        "th": "ป่าพะยอม"
+      },
+      {
+        "en": "Mueang Phatthalung",
+        "th": "เมืองพัทลุง"
+      },
+      {
+        "en": "Srinagarindra",
+        "th": "ศรีนครินทร์"
+      },
+      {
+        "en": "Si Banphot",
+        "th": "ศรีบรรพต"
+      }
+    ]
+  },
+  {
+    "p_id": "37",
+    "province_th": "พิจิตร",
+    "province_en": "Phichit",
+    "amphur_j": [
+      {
+        "en": "Dong Charoen",
+        "th": "ดงเจริญ"
+      },
+      {
+        "en": "Taphan Hin",
+        "th": "ตะพานหิน"
+      },
+      {
+        "en": "Thap Khlo",
+        "th": "ทับคล้อ"
+      },
+      {
+        "en": "Bang Mun Nak",
+        "th": "บางมูลนาก"
+      },
+      {
+        "en": "Bueng Na Rang",
+        "th": "บึงนาราง"
+      },
+      {
+        "en": "Pho Thale",
+        "th": "โพทะเล"
+      },
+      {
+        "en": "Pho Prathap Chang",
+        "th": "โพธิ์ประทับช้าง"
+      },
+      {
+        "en": "Mueang Phichit",
+        "th": "เมืองอุทัยธานี"
+      },
+      {
+        "en": "Wachirabarami",
+        "th": "วชิรบารมี"
+      },
+      {
+        "en": "Wang Sai Phun",
+        "th": "วังทรายพูน"
+      },
+      {
+        "en": "Sak Lek",
+        "th": "สากเหล็ก"
+      },
+      {
+        "en": "Sam Ngam",
+        "th": "สามง่าม"
+      }
+    ]
+  },
+  {
+    "p_id": "38",
+    "province_th": "พิษณุโลก",
+    "province_en": "Phitsanulok",
+    "amphur_j": [
+      {
+        "en": "Chat Trakan",
+        "th": "ชาติตระการ"
+      },
+      {
+        "en": "Nakhon Thai",
+        "th": "นครไทย"
+      },
+      {
+        "en": "Noen Maprang",
+        "th": "เนินมะปราง"
+      },
+      {
+        "en": "Bang Krathum",
+        "th": "บางกระทุ่ม"
+      },
+      {
+        "en": "Bang Rakam",
+        "th": "บางระกำ"
+      },
+      {
+        "en": "Phrom Phiram",
+        "th": "พรหมพิราม"
+      },
+      {
+        "en": "Mueang Phitsanulok",
+        "th": "เมืองพิษณุโลก"
+      },
+      {
+        "en": "Wang Thong",
+        "th": "วังทอง"
+      },
+      {
+        "en": "Wat Bot",
+        "th": "วัดโบสถ์"
+      }
+    ]
+  },
+  {
+    "p_id": "39",
+    "province_th": "เพชรบุรี",
+    "province_en": "Phetchaburi",
+    "amphur_j": [
+      {
+        "en": "Kaeng Krachan",
+        "th": "แก่งกระจาน"
+      },
+      {
+        "en": "Khao Yoi",
+        "th": "เขาย้อย"
+      },
+      {
+        "en": "Cha-am",
+        "th": "ชะอำ"
+      },
+      {
+        "en": "Tha Yang",
+        "th": "ท่ายาง"
+      },
+      {
+        "en": "Ban Lat",
+        "th": "บ้านลาด"
+      },
+      {
+        "en": "Ban Laem",
+        "th": "บ้านแหลม"
+      },
+      {
+        "en": "Mueang Phetchaburi",
+        "th": "เมืองเพชรบุรี"
+      },
+      {
+        "en": "Nong Ya Plong",
+        "th": "หนองหญ้าปล้อง"
+      }
+    ]
+  },
+  {
+    "p_id": "40",
+    "province_th": "เพชรบูรณ์",
+    "province_en": "Phetchabun",
+    "amphur_j": [
+      {
+        "en": "Khao Kho",
+        "th": "เขาค้อ"
+      },
+      {
+        "en": "Chon Daen",
+        "th": "ชนแดน"
+      },
+      {
+        "en": "Nam Nao",
+        "th": "น้ำหนาว"
+      },
+      {
+        "en": "Bueng Sam Phan",
+        "th": "บึงสามพัน"
+      },
+      {
+        "en": "Mueang Phetchabun",
+        "th": "เมืองเพชรบูรณ์"
+      },
+      {
+        "en": "Wang Pong",
+        "th": "วังโป่ง"
+      },
+      {
+        "en": "Wichian Buri",
+        "th": "วิเชียรบุรี"
+      },
+      {
+        "en": "Si Thep",
+        "th": "ศรีเทพ"
+      },
+      {
+        "en": "Nong Phai",
+        "th": "หนองไผ่"
+      },
+      {
+        "en": "Lom Kao",
+        "th": "หล่มเก่า"
+      },
+      {
+        "en": "Lom Sak",
+        "th": "หล่มสัก"
+      }
+    ]
+  },
+  {
+    "p_id": "41",
+    "province_th": "แพร่",
+    "province_en": "Phrae",
+    "amphur_j": [
+      {
+        "en": "Den Chai",
+        "th": "เด่นชัย"
+      },
+      {
+        "en": "Mueang Phrae",
+        "th": "เมืองแพร่"
+      },
+      {
+        "en": "Rong Kwang",
+        "th": "ร้องกวาง"
+      },
+      {
+        "en": "Long",
+        "th": "ลอง"
+      },
+      {
+        "en": "Wang Chin",
+        "th": "วังชิ้น"
+      },
+      {
+        "en": "Song",
+        "th": "สอง"
+      },
+      {
+        "en": "Sung Men",
+        "th": "สูงเม่น"
+      },
+      {
+        "en": "Nong Muang Khai",
+        "th": "หนองม่วงไข่"
+      }
+    ]
+  },
+  {
+    "p_id": "42",
+    "province_th": "ภูเก็ต",
+    "province_en": "Phuket",
+    "amphur_j": [
+      {
+        "en": "Kathu",
+        "th": "กะทู้"
+      },
+      {
+        "en": "Thalang",
+        "th": "ถลาง"
+      },
+      {
+        "en": "Mueang Phuket",
+        "th": "เมืองภูเก็ต"
+      }
+    ]
+  },
+  {
+    "p_id": "43",
+    "province_th": "มหาสารคาม",
+    "province_en": "Maha Sarakham",
+    "amphur_j": [
+      {
+        "en": "Kantharawichai",
+        "th": "กันทรวิชัย"
+      },
+      {
+        "en": "Kut Rang",
+        "th": "กุดรัง"
+      },
+      {
+        "en": "Kae Dam",
+        "th": "แกดำ"
+      },
+      {
+        "en": "Kosum Phisai",
+        "th": "โกสุมพิสัย"
+      },
+      {
+        "en": "Chuen Chom",
+        "th": "ชื่นชม"
+      },
+      {
+        "en": "Chiang Yuen",
+        "th": "เชียงยืน"
+      },
+      {
+        "en": "Na Chueak",
+        "th": "นาเชือก"
+      },
+      {
+        "en": "Na Dun",
+        "th": "นาดูน"
+      },
+      {
+        "en": "Borabue",
+        "th": "บรบือ"
+      },
+      {
+        "en": "Phayakkhaphum Phisai",
+        "th": "พยัคฆภูมิพิสัย"
+      },
+      {
+        "en": "Mueang Maha Sarakham",
+        "th": "เมืองมหาสารคาม"
+      },
+      {
+        "en": "Yang Sisurat",
+        "th": "ยางสีสุราช"
+      },
+      {
+        "en": "Wapi Pathum",
+        "th": "วาปีปทุม"
+      }
+    ]
+  },
+  {
+    "p_id": "44",
+    "province_th": "มุกดาหาร",
+    "province_en": "Mukdahan",
+    "amphur_j": [
+      {
+        "en": "Khamcha-i",
+        "th": "คำชะอี"
+      },
+      {
+        "en": "Dong Luang",
+        "th": "ดงหลวง"
+      },
+      {
+        "en": "Don Tan",
+        "th": "ดอนตาล"
+      },
+      {
+        "en": "Nikhom Kham Soi",
+        "th": "นิคมคำสร้อย"
+      },
+      {
+        "en": "Mueang Mukdahan",
+        "th": "เมืองมุกดาหาร"
+      },
+      {
+        "en": "Nong Sung",
+        "th": "หนองสูง"
+      },
+      {
+        "en": "Wan Yai",
+        "th": "หว้านใหญ่"
+      }
+    ]
+  },
+  {
+    "p_id": "45",
+    "province_th": "แม่ฮ่องสอน",
+    "province_en": "Mae Hong Son",
+    "amphur_j": [
+      {
+        "en": "Khun Yuam",
+        "th": "ขุนยวม"
+      },
+      {
+        "en": "Pang Mapha",
+        "th": "ปางมะผ้า"
+      },
+      {
+        "en": "Pai",
+        "th": "ปาย"
+      },
+      {
+        "en": "Mueang Mae Hong Son",
+        "th": "เมืองแม่ฮ่องสอน"
+      },
+      {
+        "en": "Mae La Noi",
+        "th": "แม่ลาน้อย"
+      },
+      {
+        "en": "Mae Sariang",
+        "th": "แม่สะเรียง"
+      },
+      {
+        "en": "Sop Moei",
+        "th": "สบเมย"
+      }
+    ]
+  },
+  {
+    "p_id": "46",
+    "province_th": "ยโสธร",
+    "province_en": "Yasothon",
+    "amphur_j": [
+      {
+        "en": "Kut Chum",
+        "th": "กุดชุม"
+      },
+      {
+        "en": "Kho Wang",
+        "th": "ค้อวัง"
+      },
+      {
+        "en": "Kham Khuean Kaeo",
+        "th": "คำเขื่อนแก้ว"
+      },
+      {
+        "en": "Sai Mun",
+        "th": "ทรายมูล"
+      },
+      {
+        "en": "Thai Charoen",
+        "th": "ไทยเจริญ"
+      },
+      {
+        "en": "Pa Tio",
+        "th": "ป่าติ้ว"
+      },
+      {
+        "en": "Maha Chana Chai",
+        "th": "มหาชนะชัย"
+      },
+      {
+        "en": "Mueang Yasothon",
+        "th": "เมืองยโสธร"
+      },
+      {
+        "en": "Loeng Nok Tha",
+        "th": "เลิงนกทา"
+      }
+    ]
+  },
+  {
+    "p_id": "47",
+    "province_th": "ยะลา",
+    "province_en": "Yala",
+    "amphur_j": [
+      {
+        "en": "Krong Pinang",
+        "th": "กรงปินัง"
+      },
+      {
+        "en": "Kabang",
+        "th": "กาบัง"
+      },
+      {
+        "en": "Than To",
+        "th": "ธารโต"
+      },
+      {
+        "en": "Bannang Sata",
+        "th": "บันนังสตา"
+      },
+      {
+        "en": "Betong",
+        "th": "เบตง"
+      },
+      {
+        "en": "Mueang Yala",
+        "th": "เมืองยะลา"
+      },
+      {
+        "en": "Yaha",
+        "th": "ยะหา"
+      },
+      {
+        "en": "Raman",
+        "th": "รามัน"
+      }
+    ]
+  },
+  {
+    "p_id": "48",
+    "province_th": "ร้อยเอ็ด",
+    "province_en": "Roi Et",
+    "amphur_j": [
+      {
+        "en": "Kaset Wisai",
+        "th": "เกษตรวิสัย"
+      },
+      {
+        "en": "Chaturaphak Phiman",
+        "th": "จตุรพักตรพิมาน"
+      },
+      {
+        "en": "Changhan",
+        "th": "จังหาร"
+      },
+      {
+        "en": "Chiang Khwan",
+        "th": "เชียงขวัญ"
+      },
+      {
+        "en": "Thung Khao Luang",
+        "th": "ทุ่งเขาหลวง"
+      },
+      {
+        "en": "Thawat Buri",
+        "th": "ธวัชบุรี"
+      },
+      {
+        "en": "Pathum Rat",
+        "th": "ปทุมรัตต์"
+      },
+      {
+        "en": "Phanom Phrai",
+        "th": "พนมไพร"
+      },
+      {
+        "en": "Pho Chai",
+        "th": "โพธิ์ชัย"
+      },
+      {
+        "en": "Phon Sai",
+        "th": "โพนทราย"
+      },
+      {
+        "en": "Phon Thong",
+        "th": "โพนทอง"
+      },
+      {
+        "en": "Moei Wadi",
+        "th": "เมยวดี"
+      },
+      {
+        "en": "Mueang Roi Et",
+        "th": "เมืองร้อยเอ็ด"
+      },
+      {
+        "en": "Mueang Suang",
+        "th": "เมืองสรวง"
+      },
+      {
+        "en": "Si Somdet",
+        "th": "ศรีสมเด็จ"
+      },
+      {
+        "en": "Suwannaphum",
+        "th": "สุวรรณภูมิ"
+      },
+      {
+        "en": "Selaphum",
+        "th": "เสลภูมิ"
+      },
+      {
+        "en": "Nong Phok",
+        "th": "หนองพอก"
+      },
+      {
+        "en": "Nong Hi",
+        "th": "หนองฮี"
+      },
+      {
+        "en": "At Samat",
+        "th": "อาจสามารถ"
+      }
+    ]
+  },
+  {
+    "p_id": "49",
+    "province_th": "ระนอง",
+    "province_en": "Ranong",
+    "amphur_j": [
+      {
+        "en": "Kra Buri",
+        "th": "กระบุรี"
+      },
+      {
+        "en": "Kapoe",
+        "th": "กะเปอร์"
+      },
+      {
+        "en": "Mueang Ranong",
+        "th": "เมืองระนอง"
+      },
+      {
+        "en": "La-un",
+        "th": "ละอุ่น"
+      },
+      {
+        "en": "Suk Samran",
+        "th": "สุขสำราญ"
+      }
+    ]
+  },
+  {
+    "p_id": "50",
+    "province_th": "ระยอง",
+    "province_en": "Rayong",
+    "amphur_j": [
+      {
+        "en": "Klaeng",
+        "th": "แกลง"
+      },
+      {
+        "en": "Khao Chamao",
+        "th": "เขาชะเมา"
+      },
+      {
+        "en": "Nikhom Phatthana",
+        "th": "นิคมพัฒนา"
+      },
+      {
+        "en": "Ban Khai",
+        "th": "บ้านค่าย"
+      },
+      {
+        "en": "Ban Chang",
+        "th": "บ้านฉาง"
+      },
+      {
+        "en": "Pluak Daeng",
+        "th": "ปลวกแดง"
+      },
+      {
+        "en": "Mueang Rayong",
+        "th": "เมืองระยอง"
+      },
+      {
+        "en": "Wang Chan",
+        "th": "วังจันทร์"
+      }
+    ]
+  },
+  {
+    "p_id": "51",
+    "province_th": "ราชบุรี",
+    "province_en": "Ratchaburi",
+    "amphur_j": [
+      {
+        "en": "Chom Bueng",
+        "th": "จอมบึง"
+      },
+      {
+        "en": "Damnoen Saduak",
+        "th": "ดำเนินสะดวก"
+      },
+      {
+        "en": "Bang Phae",
+        "th": "บางแพ"
+      },
+      {
+        "en": "Ban Kha",
+        "th": "บ้านคา"
+      },
+      {
+        "en": "Ban Pong",
+        "th": "บ้านโป่ง"
+      },
+      {
+        "en": "Pak Tho",
+        "th": "ปากท่อ"
+      },
+      {
+        "en": "Photharam",
+        "th": "โพธาราม"
+      },
+      {
+        "en": "Mueang Ratchaburi",
+        "th": "เมืองราชบุรี"
+      },
+      {
+        "en": "Wat Phleng",
+        "th": "วัดเพลง"
+      },
+      {
+        "en": "Suan Phueng",
+        "th": "สวนผึ้ง"
+      }
+    ]
+  },
+  {
+    "p_id": "52",
+    "province_th": "ลพบุรี",
+    "province_en": "Lopburi",
+    "amphur_j": [
+      {
+        "en": "Khok Charoen",
+        "th": "โคกเจริญ"
+      },
+      {
+        "en": "Khok Samrong",
+        "th": "โคกสำโรง"
+      },
+      {
+        "en": "Chai Badan",
+        "th": "ชัยบาดาล"
+      },
+      {
+        "en": "Tha Wung",
+        "th": "ท่าวุ้ง"
+      },
+      {
+        "en": "Tha Luang",
+        "th": "ท่าหลวง"
+      },
+      {
+        "en": "Ban Mi",
+        "th": "บ้านหมี่"
+      },
+      {
+        "en": "Phatthana Nikhom",
+        "th": "พัฒนานิคม"
+      },
+      {
+        "en": "Mueang Lopburi",
+        "th": "เมืองลพบุรี"
+      },
+      {
+        "en": "Lam Sonthi",
+        "th": "ลำสนธิ"
+      },
+      {
+        "en": "Sa Bot",
+        "th": "สระโบสถ์"
+      },
+      {
+        "en": "Nong Muang",
+        "th": "หนองม่วง"
+      }
+    ]
+  },
+  {
+    "p_id": "53",
+    "province_th": "ลำปาง",
+    "province_en": "Lampang",
+    "amphur_j": [
+      {
+        "en": "Ko Kha",
+        "th": "เกาะคา"
+      },
+      {
+        "en": "Ngao",
+        "th": "งาว"
+      },
+      {
+        "en": "Chae Hom",
+        "th": "แจ้ห่ม"
+      },
+      {
+        "en": "Thoen",
+        "th": "เถิน"
+      },
+      {
+        "en": "Mueang Pan",
+        "th": "เมืองปาน"
+      },
+      {
+        "en": "Mueang Lampang",
+        "th": "เมืองลำปาง"
+      },
+      {
+        "en": "Mae Tha Lampang",
+        "th": "แม่ทะ"
+      },
+      {
+        "en": "Mae Mo",
+        "th": "แม่เมาะ"
+      },
+      {
+        "en": "Mae Phrik",
+        "th": "แม่ริม"
+      },
+      {
+        "en": "Wang Nuea",
+        "th": "วังเหนือ"
+      },
+      {
+        "en": "Sop Prap",
+        "th": "สบปราบ"
+      },
+      {
+        "en": "Soem Ngam",
+        "th": "เสริมงาม"
+      },
+      {
+        "en": "Hang Chat",
+        "th": "ห้างฉัตร"
+      }
+    ]
+  },
+  {
+    "p_id": "54",
+    "province_th": "ลำพูน",
+    "province_en": "Lamphun",
+    "amphur_j": [
+      {
+        "en": "Pa Sang",
+        "th": "ป่าซาง"
+      },
+      {
+        "en": "Thung Hua Chang",
+        "th": "ทุ่งหัวช้าง"
+      },
+      {
+        "en": "Ban Thi",
+        "th": "บ้านธิ"
+      },
+      {
+        "en": "Ban Hong",
+        "th": "บ้านโฮ่ง"
+      },
+      {
+        "en": "Mueang Lamphun",
+        "th": "เมืองลำพูน"
+      },
+      {
+        "en": "Mae Tha, Lamphun",
+        "th": "แม่ทา"
+      },
+      {
+        "en": "Li",
+        "th": "ลี้"
+      },
+      {
+        "en": "Wiang Nong Long",
+        "th": "เวียงหนองล่อง"
+      }
+    ]
+  },
+  {
+    "p_id": "55",
+    "province_th": "เลย",
+    "province_en": "Loei",
+    "amphur_j": [
+      {
+        "en": "Chiang Khan",
+        "th": "เชียงคาน"
+      },
+      {
+        "en": "Dan Sai",
+        "th": "ด่านซ้าย"
+      },
+      {
+        "en": "Tha Li",
+        "th": "ท่าลี่"
+      },
+      {
+        "en": "Na Duang",
+        "th": "นาด้วง"
+      },
+      {
+        "en": "Na Haeo",
+        "th": "นาแห้ว"
+      },
+      {
+        "en": "Pak Chom",
+        "th": "ปากชม"
+      },
+      {
+        "en": "Pha Khao",
+        "th": "ผาขาว"
+      },
+      {
+        "en": "Phu Kradueng",
+        "th": "ภูกระดึง"
+      },
+      {
+        "en": "Phu Ruea",
+        "th": "ภูเรือ"
+      },
+      {
+        "en": "Phu Luang",
+        "th": "ภูหลวง"
+      },
+      {
+        "en": "Mueang Loei",
+        "th": "เมืองเลย"
+      },
+      {
+        "en": "Wang Saphung",
+        "th": "วังสะพุง"
+      },
+      {
+        "en": "Nong Hin",
+        "th": "หนองหิน"
+      },
+      {
+        "en": "Erawan",
+        "th": "เอราวัณ"
+      }
+    ]
+  },
+  {
+    "p_id": "56",
+    "province_th": "ศรีสะเกษ",
+    "province_en": "Sisaket",
+    "amphur_j": [
+      {
+        "en": "Kantharalak",
+        "th": "กันทรลักษ์"
+      },
+      {
+        "en": "Kanthararom",
+        "th": "กันทรารมย์"
+      },
+      {
+        "en": "Khukhan",
+        "th": "ขุขันธ์"
+      },
+      {
+        "en": "Khun Han",
+        "th": "ขุนหาญ"
+      },
+      {
+        "en": "Nam Kliang",
+        "th": "น้ำเกลี้ยง"
+      },
+      {
+        "en": "Non Khun",
+        "th": "โนนคูน"
+      },
+      {
+        "en": "Bueng Bun",
+        "th": "บึงบูรพ์"
+      },
+      {
+        "en": "Benchalak",
+        "th": "เบญจลักษ์"
+      },
+      {
+        "en": "Prang Ku",
+        "th": "ปรางค์กู่"
+      },
+      {
+        "en": "Phayu",
+        "th": "พยุห์"
+      },
+      {
+        "en": "Pho Si Suwan",
+        "th": "โพธิ์ศรีสุวรรณ"
+      },
+      {
+        "en": "Phrai Bueng",
+        "th": "ไพรบึง"
+      },
+      {
+        "en": "Phu Sing",
+        "th": "ภูสิงห์"
+      },
+      {
+        "en": "Mueang Chan",
+        "th": "เมืองจันทร์"
+      },
+      {
+        "en": "Mueang Sisaket",
+        "th": "เมืองศรีสะเกษ"
+      },
+      {
+        "en": "Yang Chum Noi",
+        "th": "ยางชุมน้อย"
+      },
+      {
+        "en": "Rasi Salai",
+        "th": "ราษีไศล"
+      },
+      {
+        "en": "Wang Hin",
+        "th": "วังหิน"
+      },
+      {
+        "en": "Si Rattana",
+        "th": "ศรีรัตนะ"
+      },
+      {
+        "en": "Sila Lat",
+        "th": "ศิลาลาด"
+      },
+      {
+        "en": "Huai Thap Than",
+        "th": "ห้วยทับทัน"
+      },
+      {
+        "en": "Uthumphon Phisai",
+        "th": "อุทุมพรพิสัย"
+      }
+    ]
+  },
+  {
+    "p_id": "57",
+    "province_th": "สกลนคร",
+    "province_en": "Sakon Nakhon",
+    "amphur_j": [
+      {
+        "en": "Kut Bak",
+        "th": "กุดบาก"
+      },
+      {
+        "en": "Kusuman",
+        "th": "กุสุมาลย์"
+      },
+      {
+        "en": "Kham Ta Kla",
+        "th": "คำตากล้า"
+      },
+      {
+        "en": "Khok Si Suphan",
+        "th": "โคกศรีสุพรรณ"
+      },
+      {
+        "en": "Charoen Sin",
+        "th": "เจริญศิลป์"
+      },
+      {
+        "en": "Tao Ngoi",
+        "th": "เต่างอย"
+      },
+      {
+        "en": "Nikhom Nam Un",
+        "th": "นิคมน้ำอูน"
+      },
+      {
+        "en": "Ban Muang",
+        "th": "บ้านม่วง"
+      },
+      {
+        "en": "Phanna Nikhom",
+        "th": "พรรณนานิคม"
+      },
+      {
+        "en": "Phang Khon",
+        "th": "พังโคน"
+      },
+      {
+        "en": "Phon Na Kaeo",
+        "th": "โพนนาแก้ว"
+      },
+      {
+        "en": "Phu Phan",
+        "th": "ภูพาน"
+      },
+      {
+        "en": "Mueang Sakon Nakhon",
+        "th": "เมืองสกลนคร"
+      },
+      {
+        "en": "Wanon Niwat",
+        "th": "วานรนิวาส"
+      },
+      {
+        "en": "Waritchaphum",
+        "th": "วาริชภูมิ"
+      },
+      {
+        "en": "Sawang Daen Din",
+        "th": "สว่างแดนดิน"
+      },
+      {
+        "en": "Song Dao",
+        "th": "ส่องดาว"
+      },
+      {
+        "en": "Akat Amnuai",
+        "th": "อากาศอำนวย"
+      }
+    ]
+  },
+  {
+    "p_id": "58",
+    "province_th": "สงขลา",
+    "province_en": "Songkhla",
+    "amphur_j": [
+      {
+        "en": "Krasae Sin",
+        "th": "กระแสสินธุ์"
+      },
+      {
+        "en": "Khlong Hoi Khong",
+        "th": "คลองหอยโข่ง"
+      },
+      {
+        "en": "Khuan Niang",
+        "th": "ควนเนียง"
+      },
+      {
+        "en": "Chana",
+        "th": "จะนะ"
+      },
+      {
+        "en": "Thepha",
+        "th": "เทพา"
+      },
+      {
+        "en": "Na Thawi",
+        "th": "นาทวี"
+      },
+      {
+        "en": "Na Mom",
+        "th": "นาหม่อม"
+      },
+      {
+        "en": "Bang Klam",
+        "th": "บางกล่ำ"
+      },
+      {
+        "en": "Mueang Songkhla",
+        "th": "เมืองสงขลา"
+      },
+      {
+        "en": "Ranot",
+        "th": "ระโนด"
+      },
+      {
+        "en": "Rattaphum",
+        "th": "รัตภูมิ"
+      },
+      {
+        "en": "Sathing Phra",
+        "th": "สทิงพระ"
+      },
+      {
+        "en": "Sadao",
+        "th": "สะเดา"
+      },
+      {
+        "en": "Saba Yoi",
+        "th": "สะบ้าย้อย"
+      },
+      {
+        "en": "Singhanakhon",
+        "th": "สิงหนคร"
+      },
+      {
+        "en": "Hat Yai",
+        "th": "หาดใหญ่"
+      }
+    ]
+  },
+  {
+    "p_id": "59",
+    "province_th": "สตูล",
+    "province_en": "Satun",
+    "amphur_j": [
+      {
+        "en": "Khuan Kalong",
+        "th": "ควนกาหลง"
+      },
+      {
+        "en": "Khuan Don",
+        "th": "ควนโดน"
+      },
+      {
+        "en": "Tha Phae",
+        "th": "ท่าแพ"
+      },
+      {
+        "en": "Thung Wa",
+        "th": "ทุ่งหว้า"
+      },
+      {
+        "en": "Manang",
+        "th": "มะนัง"
+      },
+      {
+        "en": "Mueang Satun",
+        "th": "เมืองสตูล"
+      },
+      {
+        "en": "La-ngu",
+        "th": "ละงู"
+      }
+    ]
+  },
+  {
+    "p_id": "60",
+    "province_th": "สมุทรปราการ",
+    "province_en": "Samut Prakan",
+    "amphur_j": [
+      {
+        "en": "Bang Bo",
+        "th": "บางบ่อ"
+      },
+      {
+        "en": "Bang Phli",
+        "th": "บางพลี"
+      },
+      {
+        "en": "Bang Sao Thong",
+        "th": "บางเสาธง"
+      },
+      {
+        "en": "Phra Pradaeng",
+        "th": "พระประแดง"
+      },
+      {
+        "en": "Phra Samut Chedi",
+        "th": "พระสมุทรเจดีย์"
+      },
+      {
+        "en": "Mueang Samut Prakan",
+        "th": "เมืองสมุทรปราการ"
+      }
+    ]
+  },
+  {
+    "p_id": "61",
+    "province_th": "สมุทรสงคราม",
+    "province_en": "Samut Songkhram",
+    "amphur_j": [
+      {
+        "en": "Bang Khonthi",
+        "th": "บางคนที"
+      },
+      {
+        "en": "Mueang Samut Songkhram",
+        "th": "เมืองสมุทรสงคราม"
+      },
+      {
+        "en": "Amphawa",
+        "th": "อัมพวา"
+      }
+    ]
+  },
+  {
+    "p_id": "62",
+    "province_th": "สมุทรสาคร",
+    "province_en": "Samut Sakhon",
+    "amphur_j": [
+      {
+        "en": "Krathum Baen",
+        "th": "กระทุ่มแบน"
+      },
+      {
+        "en": "Ban Phaeo",
+        "th": "บ้านแพ้ว"
+      },
+      {
+        "en": "Mueang Samut Sakhon",
+        "th": "เมืองสมุทรสาคร"
+      }
+    ]
+  },
+  {
+    "p_id": "63",
+    "province_th": "สระแก้ว",
+    "province_en": "Sa Kaeo",
+    "amphur_j": [
+      {
+        "en": "Khao Chakan",
+        "th": "เขาฉกรรจ์"
+      },
+      {
+        "en": "Khlong Hat",
+        "th": "คลองหาด"
+      },
+      {
+        "en": "Khok Sung",
+        "th": "โคกสูง"
+      },
+      {
+        "en": "Ta Phraya",
+        "th": "ตาพระยา"
+      },
+      {
+        "en": "Mueang Sa Kaeo",
+        "th": "เมืองสระแก้ว"
+      },
+      {
+        "en": "Wang Nam Yen",
+        "th": "วังน้ำเย็น"
+      },
+      {
+        "en": "Wang Sombun",
+        "th": "วังสมบูรณ์"
+      },
+      {
+        "en": "Watthana Nakhon",
+        "th": "วัฒนานคร"
+      },
+      {
+        "en": "Aranyaprathet",
+        "th": "อรัญประเทศ"
+      }
+    ]
+  },
+  {
+    "p_id": "64",
+    "province_th": "สระบุรี",
+    "province_en": "Saraburi",
+    "amphur_j": [
+      {
+        "en": "Kaeng Khoi",
+        "th": "แก่งคอย"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Don Phut",
+        "th": "ดอนพุด"
+      },
+      {
+        "en": "Ban Mo",
+        "th": "บ้านหมอ"
+      },
+      {
+        "en": "Phra Phutthabat",
+        "th": "พระพุทธบาท"
+      },
+      {
+        "en": "Muak Lek",
+        "th": "มวกเหล็ก"
+      },
+      {
+        "en": "Mueang Saraburi",
+        "th": "เมืองสระบุรี"
+      },
+      {
+        "en": "Wang Muang",
+        "th": "วังม่วง"
+      },
+      {
+        "en": "Wihan Daeng",
+        "th": "วิหารแดง"
+      },
+      {
+        "en": "Sao Hai",
+        "th": "เสาไห้"
+      },
+      {
+        "en": "Nong Khae",
+        "th": "หนองแค"
+      },
+      {
+        "en": "Nong Saeng",
+        "th": "หนองแซง"
+      },
+      {
+        "en": "Nong Don",
+        "th": "หนองโดน"
+      }
+    ]
+  },
+  {
+    "p_id": "65",
+    "province_th": "สิงห์บุรี",
+    "province_en": "Sing Buri",
+    "amphur_j": [
+      {
+        "en": "Khai Bang Rachan",
+        "th": "ค่ายบางระจัน"
+      },
+      {
+        "en": "Tha Chang",
+        "th": "ท่าช้าง"
+      },
+      {
+        "en": "Bang Rachan",
+        "th": "บางระจัน"
+      },
+      {
+        "en": "Phrom Buri",
+        "th": "พรหมบุรี"
+      },
+      {
+        "en": "Mueang Sing Buri",
+        "th": "เมืองสิงห์บุรี"
+      },
+      {
+        "en": "In Buri",
+        "th": "อินทร์บุรี"
+      }
+    ]
+  },
+  {
+    "p_id": "66",
+    "province_th": "สุโขทัย",
+    "province_en": "Sukhothai",
+    "amphur_j": [
+      {
+        "en": "Kong Krailat",
+        "th": "กงไกรลาศ"
+      },
+      {
+        "en": "Khiri Mat",
+        "th": "คีรีมาศ"
+      },
+      {
+        "en": "Thung Saliam",
+        "th": "ทุ่งเสลี่ยม"
+      },
+      {
+        "en": "Ban Dan Lan Hoi",
+        "th": "บ้านด่านลานหอย"
+      },
+      {
+        "en": "Mueang Sukhothai",
+        "th": "เมืองสุโขทัย"
+      },
+      {
+        "en": "Si Nakhon",
+        "th": "ศรีนคร"
+      },
+      {
+        "en": "Si Satchanalai",
+        "th": "ศรีสัชนาลัย"
+      },
+      {
+        "en": "Si Samrong",
+        "th": "ศรีสำโรง"
+      },
+      {
+        "en": "Sawankhalok",
+        "th": "สวรรคโลก"
+      }
+    ]
+  },
+  {
+    "p_id": "67",
+    "province_th": "สุพรรณบุรี",
+    "province_en": "Suphan Buri",
+    "amphur_j": [
+      {
+        "en": "Don Chedi",
+        "th": "ดอนเจดีย์"
+      },
+      {
+        "en": "Dan Chang",
+        "th": "ด่านช้าง"
+      },
+      {
+        "en": "Doem Bang Nang Buat",
+        "th": "เดิมบางนางบวช"
+      },
+      {
+        "en": "Bang Pla Ma",
+        "th": "บางปลาม้า"
+      },
+      {
+        "en": "Mueang Suphanburi",
+        "th": "เมืองสุพรรณบุรี"
+      },
+      {
+        "en": "Si Prachan",
+        "th": "ศรีประจันต์"
+      },
+      {
+        "en": "Song Phi Nong",
+        "th": "สองพี่น้อง"
+      },
+      {
+        "en": "Sam Chuk",
+        "th": "สามชุก"
+      },
+      {
+        "en": "Nong Ya Sai",
+        "th": "หนองหญ้าไซ"
+      },
+      {
+        "en": "U Thong",
+        "th": "อู่ทอง"
+      }
+    ]
+  },
+  {
+    "p_id": "68",
+    "province_th": "สุราษฎร์ธานี",
+    "province_en": "Surat Thani",
+    "amphur_j": [
+      {
+        "en": "Kanchanadit",
+        "th": "กาญจนดิษฐ์"
+      },
+      {
+        "en": "Ko Pha-ngan",
+        "th": "เกาะพะงัน"
+      },
+      {
+        "en": "Ko Samui",
+        "th": "เกาะสมุย"
+      },
+      {
+        "en": "Khiri Rat Nikhom",
+        "th": "คีรีรัฐนิคม"
+      },
+      {
+        "en": "Khian Sa",
+        "th": "เคียนซา"
+      },
+      {
+        "en": "Chai Buri",
+        "th": "ชัยบุรี"
+      },
+      {
+        "en": "Chaiya",
+        "th": "ไชยา"
+      },
+      {
+        "en": "Don Sak",
+        "th": "ดอนสัก"
+      },
+      {
+        "en": "Tha Chang",
+        "th": "ท่าฉาง"
+      },
+      {
+        "en": "Tha Chana",
+        "th": "ท่าชนะ"
+      },
+      {
+        "en": "Ban Ta Khun",
+        "th": "บ้านตาขุน"
+      },
+      {
+        "en": "Ban Na Doem",
+        "th": "บ้านนาเดิม"
+      },
+      {
+        "en": "Ban Na San",
+        "th": "บ้านนาสาร"
+      },
+      {
+        "en": "Phanom",
+        "th": "พนม"
+      },
+      {
+        "en": "Phrasaeng",
+        "th": "พระแสง"
+      },
+      {
+        "en": "Phunphin",
+        "th": "พุนพิน"
+      },
+      {
+        "en": "Mueang Surat Thani",
+        "th": "เมืองสุราษฎร์ธานี"
+      },
+      {
+        "en": "Vibhavadi",
+        "th": "วิภาวดี"
+      },
+      {
+        "en": "Wiang Sa",
+        "th": "เวียงสระ"
+      }
+    ]
+  },
+  {
+    "p_id": "69",
+    "province_th": "สุรินทร์",
+    "province_en": "Surin",
+    "amphur_j": [
+      {
+        "en": "Kap Choeng",
+        "th": "กาบเชิง"
+      },
+      {
+        "en": "Khwao Sinarin",
+        "th": "เขวาสินรินทร์"
+      },
+      {
+        "en": "Chom Phra",
+        "th": "จอมพระ"
+      },
+      {
+        "en": "Chumphon Buri",
+        "th": "ชุมพลบุรี"
+      },
+      {
+        "en": "Tha Tum",
+        "th": "ท่าตูม"
+      },
+      {
+        "en": "Non Narai",
+        "th": "โนนนารายณ์"
+      },
+      {
+        "en": "Buachet",
+        "th": "บัวเชด"
+      },
+      {
+        "en": "Prasat",
+        "th": "ปราสาท"
+      },
+      {
+        "en": "Phanom Dong Rak",
+        "th": "พนมดงรัก"
+      },
+      {
+        "en": "Mueang Surin",
+        "th": "เมืองสุรินทร์"
+      },
+      {
+        "en": "Rattanaburi",
+        "th": "รัตนบุรี"
+      },
+      {
+        "en": "Lamduan",
+        "th": "ลำดวน"
+      },
+      {
+        "en": "Si Narong",
+        "th": "ศรีณรงค์"
+      },
+      {
+        "en": "Sikhoraphum",
+        "th": "ศีขรภูมิ"
+      },
+      {
+        "en": "Sanom",
+        "th": "สนม"
+      },
+      {
+        "en": "Sangkha",
+        "th": "สังขะ"
+      },
+      {
+        "en": "Samrong Thap",
+        "th": "สำโรงทาบ"
+      }
+    ]
+  },
+  {
+    "p_id": "70",
+    "province_th": "หนองคาย",
+    "province_en": "Nong Khai",
+    "amphur_j": [
+      {
+        "en": "Tha Bo",
+        "th": "ท่าบ่อ"
+      },
+      {
+        "en": "Fao Rai",
+        "th": "เฝ้าไร่"
+      },
+      {
+        "en": "Pho Tak",
+        "th": "โพธิ์ตาก"
+      },
+      {
+        "en": "Phon Phisai",
+        "th": "โพนพิสัย"
+      },
+      {
+        "en": "Mueang Nong Khai",
+        "th": "เมืองหนองคาย"
+      },
+      {
+        "en": "Rattanawapi",
+        "th": "รัตนวาปี"
+      },
+      {
+        "en": "Si Chiang Mai",
+        "th": "ศรีเชียงใหม่"
+      },
+      {
+        "en": "Sakhrai",
+        "th": "สระใคร"
+      },
+      {
+        "en": "Sangkhom",
+        "th": "สังคม"
+      }
+    ]
+  },
+  {
+    "p_id": "71",
+    "province_th": "หนองบัวลำภู",
+    "province_en": "Nong Bua Lamphu",
+    "amphur_j": [
+      {
+        "en": "Na Klang",
+        "th": "นากลาง"
+      },
+      {
+        "en": "Na Wang",
+        "th": "นาวัง"
+      },
+      {
+        "en": "Non Sang",
+        "th": "โนนสัง"
+      },
+      {
+        "en": "Mueang Nongbua Lamphu",
+        "th": "เมืองหนองบัวลำภู"
+      },
+      {
+        "en": "Si Bun Rueang",
+        "th": "ศรีบุญเรือง"
+      },
+      {
+        "en": "Suwannakhuha",
+        "th": "สุวรรณคูหา"
+      }
+    ]
+  },
+  {
+    "p_id": "72",
+    "province_th": "อ่างทอง",
+    "province_en": "Ang Thong",
+    "amphur_j": [
+      {
+        "en": "Chaiyo",
+        "th": "ไชโย"
+      },
+      {
+        "en": "Pa Mok",
+        "th": "ป่าโมก"
+      },
+      {
+        "en": "Pho Thong",
+        "th": "โพธิ์ทอง"
+      },
+      {
+        "en": "Mueang Ang Thong",
+        "th": "เมืองอ่างทอง"
+      },
+      {
+        "en": "Wiset Chai Chan",
+        "th": "วิเศษชัยชาญ"
+      },
+      {
+        "en": "Samko",
+        "th": "สามโก้"
+      },
+      {
+        "en": "Sawaeng Ha",
+        "th": "แสวงหา"
+      }
+    ]
+  },
+  {
+    "p_id": "73",
+    "province_th": "อำนาจเจริญ",
+    "province_en": "Amnat Charoen",
+    "amphur_j": [
+      {
+        "en": "Chanuman",
+        "th": "ชานุมาน"
+      },
+      {
+        "en": "Pathum Ratchawongsa",
+        "th": "ปทุมราชวงศา"
+      },
+      {
+        "en": "Phana",
+        "th": "พนา"
+      },
+      {
+        "en": "Mueang Amnat Charoen",
+        "th": "เมืองอำนาจเจริญ"
+      },
+      {
+        "en": "Lue Amnat",
+        "th": "ลืออำนาจ"
+      },
+      {
+        "en": "Senangkhanikhom",
+        "th": "เสนางคนิคม"
+      },
+      {
+        "en": "Hua Taphan",
+        "th": "หัวตะพาน"
+      }
+    ]
+  },
+  {
+    "p_id": "74",
+    "province_th": "อุดรธานี",
+    "province_en": "Udon Thani",
+    "amphur_j": [
+      {
+        "en": "Kut Chap",
+        "th": "กุดจับ"
+      },
+      {
+        "en": "Kumphawapi",
+        "th": "กุมภวาปี"
+      },
+      {
+        "en": "Ku Kaeo",
+        "th": "กู่แก้ว"
+      },
+      {
+        "en": "Chai Wan",
+        "th": "ไชยวาน"
+      },
+      {
+        "en": "Thung Fon",
+        "th": "ทุ่งฝน"
+      },
+      {
+        "en": "Na Yung",
+        "th": "นายูง"
+      },
+      {
+        "en": "Nam Som",
+        "th": "น้ำโสม"
+      },
+      {
+        "en": "Non Sa-at",
+        "th": "โนนสะอาด"
+      },
+      {
+        "en": "Ban Dung",
+        "th": "บ้านดุง"
+      },
+      {
+        "en": "Ban Phue",
+        "th": "บ้านผือ"
+      },
+      {
+        "en": "Prachaksinlapakhom",
+        "th": "ประจักษ์ศิลปาคม"
+      },
+      {
+        "en": "Phibun Rak",
+        "th": "พิบูลย์รักษ์"
+      },
+      {
+        "en": "Phen",
+        "th": "เพ็ญ"
+      },
+      {
+        "en": "Mueang Udon Thani",
+        "th": "เมืองอุดรธานี"
+      },
+      {
+        "en": "Wang Sam Mo",
+        "th": "วังสามหมอ"
+      },
+      {
+        "en": "Si That",
+        "th": "ศรีธาตุ"
+      },
+      {
+        "en": "Sang Khom",
+        "th": "สร้างคอม"
+      },
+      {
+        "en": "Nong Wua So",
+        "th": "หนองวัวซอ"
+      },
+      {
+        "en": "Nong Saeng",
+        "th": "หนองแสง"
+      },
+      {
+        "en": "Nong Han",
+        "th": "หนองหาน"
+      }
+    ]
+  },
+  {
+    "p_id": "75",
+    "province_th": "อุตรดิตถ์",
+    "province_en": "Uttaradit",
+    "amphur_j": [
+      {
+        "en": "Tron",
+        "th": "ตรอน"
+      },
+      {
+        "en": "Thong Saen Khan",
+        "th": "ทองแสนขัน"
+      },
+      {
+        "en": "Tha Pla",
+        "th": "ท่าปลา"
+      },
+      {
+        "en": "Nam Pat",
+        "th": "น้ำปาด"
+      },
+      {
+        "en": "Ban Khok",
+        "th": "บ้านโคก"
+      },
+      {
+        "en": "Phichai",
+        "th": "พิชัย"
+      },
+      {
+        "en": "Fak Tha",
+        "th": "ฟากท่า"
+      },
+      {
+        "en": "Mueang Uttaradit",
+        "th": "เมืองอุตรดิตถ์"
+      },
+      {
+        "en": "Laplae",
+        "th": "ลับแล"
+      }
+    ]
+  },
+  {
+    "p_id": "76",
+    "province_th": "อุทัยธานี",
+    "province_en": "Uthai Thani",
+    "amphur_j": [
+      {
+        "en": "Thap Than",
+        "th": "ทัพทัน"
+      },
+      {
+        "en": "Ban Rai",
+        "th": "บ้านไร่"
+      },
+      {
+        "en": "Mueang Uthai Thani",
+        "th": "เมืองอุทัยธานี"
+      },
+      {
+        "en": "Lan Sak",
+        "th": "ลานสัก"
+      },
+      {
+        "en": "Sawang Arom",
+        "th": "สว่างอารมณ์"
+      },
+      {
+        "en": "Nong Khayang",
+        "th": "หนองขาหย่าง"
+      },
+      {
+        "en": "Nong Chang",
+        "th": "หนองฉาง"
+      },
+      {
+        "en": "Huai Khot",
+        "th": "ห้วยคต"
+      }
+    ]
+  },
+  {
+    "p_id": "77",
+    "province_th": "อุบลราชธานี",
+    "province_en": "Ubon Ratchathani",
+    "amphur_j": [
+      {
+        "en": "Kut Khaopun",
+        "th": "กุดข้าวปุ้น"
+      },
+      {
+        "en": "Khemarat",
+        "th": "เขมราฐ"
+      },
+      {
+        "en": "Khueang Nai",
+        "th": "เขื่องใน"
+      },
+      {
+        "en": "Khong Chiam",
+        "th": "โขงเจียม"
+      },
+      {
+        "en": "Don Mot Daeng",
+        "th": "ดอนมดแดง"
+      },
+      {
+        "en": "Det Udom",
+        "th": "เดชอุดม"
+      },
+      {
+        "en": "Trakan Phuet Phon",
+        "th": "ตระการพืชผล"
+      },
+      {
+        "en": "Tan Sum",
+        "th": "ตาลสุม"
+      },
+      {
+        "en": "Thung Si Udom",
+        "th": "ทุ่งศรีอุดม"
+      },
+      {
+        "en": "Na Chaluai",
+        "th": "นาจะหลวย"
+      },
+      {
+        "en": "Na Tan",
+        "th": "นาตาล"
+      },
+      {
+        "en": "Na Yia",
+        "th": "นาเยีย"
+      },
+      {
+        "en": "Nam Khun",
+        "th": "น้ำขุ่น"
+      },
+      {
+        "en": "Nam Yuen",
+        "th": "น้ำยืน"
+      },
+      {
+        "en": "Buntharik",
+        "th": "บุณฑริก"
+      },
+      {
+        "en": "Phibun Mangsahan",
+        "th": "พิบูลมังสาหาร"
+      },
+      {
+        "en": "Pho Sai",
+        "th": "โพธิ์ไทร"
+      },
+      {
+        "en": "Muang Sam Sip",
+        "th": "ม่วงสามสิบ"
+      },
+      {
+        "en": "Mueang Ubon Ratchathani",
+        "th": "เมืองอุบลราชธานี"
+      },
+      {
+        "en": "Warin Chamrap",
+        "th": "วารินชำราบ"
+      },
+      {
+        "en": "Si Mueang Mai",
+        "th": "ศรีเมืองใหม่"
+      },
+      {
+        "en": "Sawang Wirawong",
+        "th": "สว่างวีระวงศ์"
+      },
+      {
+        "en": "Samrong",
+        "th": "สำโรง"
+      },
+      {
+        "en": "Sirindhorn",
+        "th": "สิรินธร"
+      },
+      {
+        "en": "Lao Suea Kok",
+        "th": "เหล่าเสือโก้ก"
+      }
+    ]
+  }
+]
