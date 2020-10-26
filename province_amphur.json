@@ -1,0 +1,5258 @@
+[
+  {
+    "province_id": "810000",
+    "province_th": "กระบี่",
+    "province_en": "Krabi",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Ko Lanta",
+        "id": "810300",
+        "th": "เกาะลันตา"
+      },
+      {
+        "en": "Khao Phanom",
+        "id": "810200",
+        "th": "เขาพนม"
+      },
+      {
+        "en": "Khlong Thom",
+        "id": "810400",
+        "th": "คลองท่อม"
+      },
+      {
+        "en": "Plai Phraya",
+        "id": "810600",
+        "th": "ปลายพระยา"
+      },
+      {
+        "en": "Mueang Krabi",
+        "id": "810100",
+        "th": "เมืองกระบี่"
+      },
+      {
+        "en": "Lam Thap",
+        "id": "810700",
+        "th": "ลำทับ"
+      },
+      {
+        "en": "Nuea Khlong",
+        "id": "810800",
+        "th": "เหนือคลอง"
+      },
+      {
+        "en": "Ao Luek",
+        "id": "810500",
+        "th": "อ่าวลึก"
+      }
+    ]
+  },
+  {
+    "province_id": "100000",
+    "province_th": "กรุงเทพมหานคร",
+    "province_en": "Bangkok",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Thon Buri",
+        "id": "101500",
+        "th": "ธนบุรี"
+      },
+      {
+        "en": "Bangkok Noi",
+        "id": "102000",
+        "th": "บางกอกน้อย"
+      },
+      {
+        "en": "Bangkok Yai",
+        "id": "101600",
+        "th": "บางกอกใหญ่"
+      },
+      {
+        "en": "Bang Kapi",
+        "id": "100600",
+        "th": "บางกะปิ"
+      },
+      {
+        "en": "Bang Khun Thian",
+        "id": "102100",
+        "th": "บางขุนเทียน"
+      },
+      {
+        "en": "Bang Khen",
+        "id": "100500",
+        "th": "บางเขน"
+      },
+      {
+        "en": "Bang Kho Laem",
+        "id": "103100",
+        "th": "บางคอแหลม"
+      },
+      {
+        "en": "Bang Khae",
+        "id": "104000",
+        "th": "บางแค"
+      },
+      {
+        "en": "Bang Sue",
+        "id": "102900",
+        "th": "บางซื่อ"
+      },
+      {
+        "en": "Bang Na",
+        "id": "104700",
+        "th": "บางนา"
+      },
+      {
+        "en": "Bang Bon",
+        "id": "105000",
+        "th": "บางบอน"
+      },
+      {
+        "en": "Bang Phlat",
+        "id": "102500",
+        "th": "บางพลัด"
+      },
+      {
+        "en": "Bang Rak",
+        "id": "100400",
+        "th": "บางรัก"
+      },
+      {
+        "en": "Bueng Kum",
+        "id": "102700",
+        "th": "บึงกุ่ม"
+      },
+      {
+        "en": "Pathum Wan",
+        "id": "100700",
+        "th": "ปทุมวัน"
+      },
+      {
+        "en": "Prawet",
+        "id": "103200",
+        "th": "ประเวศ"
+      },
+      {
+        "en": "Pom Prap Sattru Phai",
+        "id": "100800",
+        "th": "ป้อมปราบศัตรูพ่าย"
+      },
+      {
+        "en": "Phaya Thai",
+        "id": "101400",
+        "th": "พญาไท"
+      },
+      {
+        "en": "Phra Khanong",
+        "id": "100900",
+        "th": "พระโขนง"
+      },
+      {
+        "en": "Phra Nakhon",
+        "id": "100100",
+        "th": "พระนคร"
+      },
+      {
+        "en": "Phasi Charoen",
+        "id": "102200",
+        "th": "ภาษีเจริญ"
+      },
+      {
+        "en": "Min Buri",
+        "id": "101000",
+        "th": "มีนบุรี"
+      },
+      {
+        "en": "Yan Nawa",
+        "id": "101200",
+        "th": "ยานนาวา"
+      },
+      {
+        "en": "Ratchathewi",
+        "id": "103700",
+        "th": "ราชเทวี"
+      },
+      {
+        "en": "Lat Krabang",
+        "id": "101100",
+        "th": "ลาดกระบัง"
+      },
+      {
+        "en": "Lat Phrao",
+        "id": "103800",
+        "th": "ลาดพร้าว"
+      },
+      {
+        "en": "Wang Thonglang",
+        "id": "104500",
+        "th": "วังทองหลาง"
+      },
+      {
+        "en": "Watthana",
+        "id": "103900",
+        "th": "วัฒนา"
+      },
+      {
+        "en": "Suan Luang",
+        "id": "103400",
+        "th": "สวนหลวง"
+      },
+      {
+        "en": "Saphan Sung",
+        "id": "104400",
+        "th": "สะพานสูง"
+      },
+      {
+        "en": "Samphanthawong",
+        "id": "101300",
+        "th": "สัมพันธวงศ์"
+      },
+      {
+        "en": "Sathon",
+        "id": "102800",
+        "th": "สาทร"
+      },
+      {
+        "en": "Sai Mai",
+        "id": "104200",
+        "th": "สายไหม"
+      },
+      {
+        "en": "Nong Khaem",
+        "id": "102300",
+        "th": "หนองแขม"
+      },
+      {
+        "en": "Nong Chok",
+        "id": "100300",
+        "th": "หนองจอก"
+      },
+      {
+        "en": "Lak Si",
+        "id": "104100",
+        "th": "หลักสี่"
+      },
+      {
+        "en": "Huai Khwang",
+        "id": "101700",
+        "th": "ห้วยขวาง"
+      },
+      {
+        "en": "Khlong Toei",
+        "id": "103300",
+        "th": "คลองเตย"
+      },
+      {
+        "en": "Khlong San",
+        "id": "101800",
+        "th": "คลองสาน"
+      },
+      {
+        "en": "Khlong Sam Wa",
+        "id": "104600",
+        "th": "คลองสามวา"
+      },
+      {
+        "en": "Khan Na Yao",
+        "id": "104300",
+        "th": "คันนายาว"
+      },
+      {
+        "en": "Chatuchak",
+        "id": "103000",
+        "th": "จตุจักร"
+      },
+      {
+        "en": "Chom Thong",
+        "id": "103500",
+        "th": "จอมทอง"
+      },
+      {
+        "en": "Don Mueang",
+        "id": "103600",
+        "th": "ดอนเมือง"
+      },
+      {
+        "en": "Din Daeng",
+        "id": "102600",
+        "th": "ดินแดง"
+      },
+      {
+        "en": "Dusit",
+        "id": "100200",
+        "th": "ดุสิต"
+      },
+      {
+        "en": "Taling Chan",
+        "id": "101900",
+        "th": "ตลิ่งชัน"
+      },
+      {
+        "en": "Thawi Watthana",
+        "id": "104800",
+        "th": "ทวีวัฒนา"
+      },
+      {
+        "en": "Thung Khru",
+        "id": "104900",
+        "th": "ทุ่งครุ"
+      },
+      {
+        "en": "Rat Burana",
+        "id": "102400",
+        "th": "ราษฎร์บูรณะ"
+      }
+    ]
+  },
+  {
+    "province_id": "710000",
+    "province_th": "กาญจนบุรี",
+    "province_en": "Kanchanaburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Dan Makham Tia",
+        "id": "711100",
+        "th": "ด่านมะขามเตี้ย"
+      },
+      {
+        "en": "Thong Pha Phum",
+        "id": "710700",
+        "th": "ทองผาภูมิ"
+      },
+      {
+        "en": "Tha Muang",
+        "id": "710600",
+        "th": "ท่าม่วง"
+      },
+      {
+        "en": "Tha Maka",
+        "id": "710500",
+        "th": "ท่ามะกา"
+      },
+      {
+        "en": "Sai Yok",
+        "id": "710200",
+        "th": "ไทรโยค"
+      },
+      {
+        "en": "Bo Phloi",
+        "id": "710300",
+        "th": "บ่อพลอย"
+      },
+      {
+        "en": "Phanom Thuan",
+        "id": "710900",
+        "th": "พนมทวน"
+      },
+      {
+        "en": "Mueang Kanchanaburi",
+        "id": "710100",
+        "th": "เมืองกาญจนบุรี"
+      },
+      {
+        "en": "Lao Khwan",
+        "id": "711000",
+        "th": "เลาขวัญ"
+      },
+      {
+        "en": "Si Sawat",
+        "id": "710400",
+        "th": "ศรีสวัสดิ์"
+      },
+      {
+        "en": "Sangkhla Buri",
+        "id": "710800",
+        "th": "สังขละบุรี"
+      },
+      {
+        "en": "Nong Prue",
+        "id": "711200",
+        "th": "หนองปรือ"
+      },
+      {
+        "en": "Huai Krachao",
+        "id": "711300",
+        "th": "ห้วยกระเจา"
+      }
+    ]
+  },
+  {
+    "province_id": "460000",
+    "province_th": "กาฬสินธุ์",
+    "province_en": "Kalasin",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kamalasai",
+        "id": "460300",
+        "th": "กมลาไสย"
+      },
+      {
+        "en": "Kuchinarai",
+        "id": "460500",
+        "th": "กุฉินารายณ์"
+      },
+      {
+        "en": "Khao Wong",
+        "id": "460600",
+        "th": "เขาวง"
+      },
+      {
+        "en": "Kham Muang",
+        "id": "461000",
+        "th": "คำม่วง"
+      },
+      {
+        "en": "Khong Chai",
+        "id": "461800",
+        "th": "ฆ้องชัย"
+      },
+      {
+        "en": "Don Chan",
+        "id": "461700",
+        "th": "ดอนจาน"
+      },
+      {
+        "en": "Tha Khantho",
+        "id": "461100",
+        "th": "ท่าคันโท"
+      },
+      {
+        "en": "Na Khu",
+        "id": "461600",
+        "th": "นาคู"
+      },
+      {
+        "en": "Na Mon",
+        "id": "460200",
+        "th": "นามน"
+      },
+      {
+        "en": "Mueang Kalasin",
+        "id": "460100",
+        "th": "เมืองกาฬสินธุ์"
+      },
+      {
+        "en": "Yang Talat",
+        "id": "460700",
+        "th": "ยางตลาด"
+      },
+      {
+        "en": "Rong Kham",
+        "id": "460400",
+        "th": "ร่องคำ"
+      },
+      {
+        "en": "Somdet",
+        "id": "461300",
+        "th": "สมเด็จ"
+      },
+      {
+        "en": "Sahatsakhan",
+        "id": "460900",
+        "th": "สหัสขันธ์"
+      },
+      {
+        "en": "Sam Chai",
+        "id": "461500",
+        "th": "สามชัย"
+      },
+      {
+        "en": "Nong Kung Si",
+        "id": "461200",
+        "th": "หนองกุงศรี"
+      },
+      {
+        "en": "Huai Phueng",
+        "id": "461400",
+        "th": "ห้วยผึ้ง"
+      },
+      {
+        "en": "Huai Mek",
+        "id": "460800",
+        "th": "ห้วยเม็ก"
+      }
+    ]
+  },
+  {
+    "province_id": "620000",
+    "province_th": "กำแพงเพชร",
+    "province_en": "Kamphaeng Phet",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Kosamphi Nakhon",
+        "id": "621100",
+        "th": "โกสัมพีนคร"
+      },
+      {
+        "en": "Khanu Woralaksaburi",
+        "id": "620400",
+        "th": "ขาณุวรลักษบุรี"
+      },
+      {
+        "en": "Khlong Khlung",
+        "id": "620500",
+        "th": "คลองขลุง"
+      },
+      {
+        "en": "Khlong Lan",
+        "id": "620300",
+        "th": "คลองลาน"
+      },
+      {
+        "en": "Sai Thong Watthana",
+        "id": "620800",
+        "th": "ทรายทองวัฒนา"
+      },
+      {
+        "en": "Sai Ngam",
+        "id": "620200",
+        "th": "ไทรงาม"
+      },
+      {
+        "en": "Bueng Samakkhi",
+        "id": "621000",
+        "th": "บึงสามัคคี"
+      },
+      {
+        "en": "Pang Sila Thong",
+        "id": "620900",
+        "th": "ปางศิลาทอง"
+      },
+      {
+        "en": "Phran Kratai",
+        "id": "620600",
+        "th": "พรานกระต่าย"
+      },
+      {
+        "en": "Mueang Kamphaeng Phet",
+        "id": "620100",
+        "th": "เมืองกำแพงเพชร"
+      },
+      {
+        "en": "Lan Krabue",
+        "id": "620700",
+        "th": "ลานกระบือ"
+      }
+    ]
+  },
+  {
+    "province_id": "400000",
+    "province_th": "ขอนแก่น",
+    "province_en": "Khon Kaen",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kranuan",
+        "id": "400900",
+        "th": "กระนวน"
+      },
+      {
+        "en": "Khao Suan Kwang",
+        "id": "401900",
+        "th": "เขาสวนกวาง"
+      },
+      {
+        "en": "Khok Pho Chai",
+        "id": "402200",
+        "th": "โคกโพธิ์ไชย"
+      },
+      {
+        "en": "Chonnabot",
+        "id": "401800",
+        "th": "ชนบท"
+      },
+      {
+        "en": "Chum Phae",
+        "id": "400500",
+        "th": "ชุมแพ"
+      },
+      {
+        "en": "Sam Sung",
+        "id": "402100",
+        "th": "ซำสูง"
+      },
+      {
+        "en": "Nam Phong",
+        "id": "400700",
+        "th": "น้ำพอง"
+      },
+      {
+        "en": "Non Sila",
+        "id": "402500",
+        "th": "โนนศิลา"
+      },
+      {
+        "en": "Ban Phai",
+        "id": "401000",
+        "th": "บ้านไผ่"
+      },
+      {
+        "en": "Ban Fang",
+        "id": "400200",
+        "th": "บ้านฝาง"
+      },
+      {
+        "en": "Ban Haet",
+        "id": "402400",
+        "th": "บ้านแฮด"
+      },
+      {
+        "en": "Pueai Noi",
+        "id": "401100",
+        "th": "เปือยน้อย"
+      },
+      {
+        "en": "Phra Yuen",
+        "id": "400300",
+        "th": "พระยืน"
+      },
+      {
+        "en": "Phon",
+        "id": "401200",
+        "th": "พล"
+      },
+      {
+        "en": "Phu Pha Man",
+        "id": "402000",
+        "th": "ภูผาม่าน"
+      },
+      {
+        "en": "Phu Wiang",
+        "id": "401600",
+        "th": "ภูเวียง"
+      },
+      {
+        "en": "Mancha Khiri",
+        "id": "401700",
+        "th": "มัญจาคีรี"
+      },
+      {
+        "en": "Mueang Khon Kaen",
+        "id": "400100",
+        "th": "เมืองขอนแก่น"
+      },
+      {
+        "en": "Wiang Kao",
+        "id": "402900",
+        "th": "เวียงเก่า"
+      },
+      {
+        "en": "Waeng Noi",
+        "id": "401400",
+        "th": "แวงน้อย"
+      },
+      {
+        "en": "Waeng Yai",
+        "id": "401300",
+        "th": "แวงใหญ่"
+      },
+      {
+        "en": "Si Chomphu",
+        "id": "400600",
+        "th": "สีชมพู"
+      },
+      {
+        "en": "Nong Na Kham",
+        "id": "402300",
+        "th": "หนองนาคำ"
+      },
+      {
+        "en": "Nong Ruea",
+        "id": "400400",
+        "th": "หนองเรือ"
+      },
+      {
+        "en": "Nong Song Hong",
+        "id": "401500",
+        "th": "หนองสองห้อง"
+      },
+      {
+        "en": "Ubolratana",
+        "id": "400800",
+        "th": "อุบลรัตน์"
+      }
+    ]
+  },
+  {
+    "province_id": "220000",
+    "province_th": "จันทบุรี",
+    "province_en": "Chanthaburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kaeng Hang Maeo",
+        "id": "220800",
+        "th": "แก่งหางแมว"
+      },
+      {
+        "en": "Khlung",
+        "id": "220200",
+        "th": "ขลุง"
+      },
+      {
+        "en": "Khao Khitchakut",
+        "id": "221000",
+        "th": "เขาคิชฌกูฏ"
+      },
+      {
+        "en": "Tha Mai",
+        "id": "220300",
+        "th": "ท่าใหม่"
+      },
+      {
+        "en": "Na Yai Am",
+        "id": "220900",
+        "th": "นายายอาม"
+      },
+      {
+        "en": "Pong Nam Ron",
+        "id": "220400",
+        "th": "โป่งน้ำร้อน"
+      },
+      {
+        "en": "Makham",
+        "id": "220500",
+        "th": "มะขาม"
+      },
+      {
+        "en": "Mueang Chanthaburi",
+        "id": "220100",
+        "th": "เมืองจันทบุรี"
+      },
+      {
+        "en": "Soi Dao",
+        "id": "220700",
+        "th": "สอยดาว"
+      },
+      {
+        "en": "Laem Sing",
+        "id": "220600",
+        "th": "แหลมสิงห์"
+      }
+    ]
+  },
+  {
+    "province_id": "240000",
+    "province_th": "ฉะเชิงเทรา",
+    "province_en": "Chachoengsao",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Khlong Khuean",
+        "id": "241100",
+        "th": "คลองเขื่อน"
+      },
+      {
+        "en": "Tha Takiap",
+        "id": "241000",
+        "th": "ท่าตะเกียบ"
+      },
+      {
+        "en": "Bang Khla",
+        "id": "240200",
+        "th": "บางคล้า"
+      },
+      {
+        "en": "Bang Nam Priao",
+        "id": "240300",
+        "th": "บางน้ำเปรี้ยว"
+      },
+      {
+        "en": "Bang Pakong",
+        "id": "240400",
+        "th": "บางปะกง"
+      },
+      {
+        "en": "Ban Pho",
+        "id": "240500",
+        "th": "บ้านโพธิ์"
+      },
+      {
+        "en": "Plaeng Yao",
+        "id": "240900",
+        "th": "แปลงยาว"
+      },
+      {
+        "en": "Phanom Sarakham",
+        "id": "240600",
+        "th": "พนมสารคาม"
+      },
+      {
+        "en": "Mueang Chachoengsao",
+        "id": "240100",
+        "th": "เมืองฉะเชิงเทรา"
+      },
+      {
+        "en": "Ratchasan",
+        "id": "240700",
+        "th": "ราชสาส์น"
+      },
+      {
+        "en": "Sanam Chai Khet",
+        "id": "240800",
+        "th": "สนามชัยเขต"
+      }
+    ]
+  },
+  {
+    "province_id": "200000",
+    "province_th": "ชลบุรี",
+    "province_en": "Chonburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Ko Chan",
+        "id": "201100",
+        "th": "เกาะจันทร์"
+      },
+      {
+        "en": "Ko Sichang",
+        "id": "200800",
+        "th": "เกาะสีชัง"
+      },
+      {
+        "en": "Bo Thong",
+        "id": "201000",
+        "th": "บ่อทอง"
+      },
+      {
+        "en": "Bang Lamung",
+        "id": "200400",
+        "th": "บางละมุง"
+      },
+      {
+        "en": "Ban Bueng",
+        "id": "200200",
+        "th": "บ้านบึง"
+      },
+      {
+        "en": "Phanat Nikhom",
+        "id": "200600",
+        "th": "พนัสนิคม"
+      },
+      {
+        "en": "Phan Thong",
+        "id": "200500",
+        "th": "พานทอง"
+      },
+      {
+        "en": "Mueang Chonburi",
+        "id": "200100",
+        "th": "เมืองชลบุรี"
+      },
+      {
+        "en": "Si Racha",
+        "id": "200700",
+        "th": "ศรีราชา"
+      },
+      {
+        "en": "Sattahip",
+        "id": "200900",
+        "th": "สัตหีบ"
+      },
+      {
+        "en": "Nong Yai",
+        "id": "200300",
+        "th": "หนองใหญ่"
+      }
+    ]
+  },
+  {
+    "province_id": "180000",
+    "province_th": "ชัยนาท",
+    "province_en": "Chainat",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Noen Kham",
+        "id": "180800",
+        "th": "เนินขาม"
+      },
+      {
+        "en": "Manorom",
+        "id": "180200",
+        "th": "มโนรมย์"
+      },
+      {
+        "en": "Mueang Chainat",
+        "id": "180100",
+        "th": "เมืองชัยนาท"
+      },
+      {
+        "en": "Wat Sing",
+        "id": "180300",
+        "th": "วัดสิงห์"
+      },
+      {
+        "en": "Sankhaburi",
+        "id": "180500",
+        "th": "สรรคบุรี"
+      },
+      {
+        "en": "Sapphaya",
+        "id": "180400",
+        "th": "สรรพยา"
+      },
+      {
+        "en": "Nong Mamong",
+        "id": "180700",
+        "th": "หนองมะโมง"
+      },
+      {
+        "en": "Hankha",
+        "id": "180600",
+        "th": "หันคา"
+      }
+    ]
+  },
+  {
+    "province_id": "360000",
+    "province_th": "ชัยภูมิ",
+    "province_en": "Chaiyaphum",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kaset Sombun",
+        "id": "360400",
+        "th": "เกษตรสมบูรณ์"
+      },
+      {
+        "en": "Kaeng Khro",
+        "id": "361200",
+        "th": "แก้งคร้อ"
+      },
+      {
+        "en": "Khon Sawan",
+        "id": "360300",
+        "th": "คอนสวรรค์"
+      },
+      {
+        "en": "Khon San",
+        "id": "361300",
+        "th": "คอนสาร"
+      },
+      {
+        "en": "Chatturat",
+        "id": "360600",
+        "th": "จัตุรัส"
+      },
+      {
+        "en": "Sap Yai",
+        "id": "361600",
+        "th": "ซับใหญ่"
+      },
+      {
+        "en": "Thep Sathit",
+        "id": "360900",
+        "th": "เทพสถิต"
+      },
+      {
+        "en": "Noen Sa-nga",
+        "id": "361500",
+        "th": "เนินสง่า"
+      },
+      {
+        "en": "Ban Khwao",
+        "id": "360200",
+        "th": "บ้านเขว้า"
+      },
+      {
+        "en": "Ban Thaen",
+        "id": "361100",
+        "th": "บ้านแท่น"
+      },
+      {
+        "en": "Bamnet Narong",
+        "id": "360700",
+        "th": "บำเหน็จณรงค์"
+      },
+      {
+        "en": "Phakdi Chumphon",
+        "id": "361400",
+        "th": "ภักดีชุมพล"
+      },
+      {
+        "en": "Phu Khiao",
+        "id": "361000",
+        "th": "ภูเขียว"
+      },
+      {
+        "en": "Mueang Chaiyaphum",
+        "id": "360100",
+        "th": "เมืองชัยภูมิ"
+      },
+      {
+        "en": "Nong Bua Daeng",
+        "id": "360500",
+        "th": "หนองบัวแดง"
+      },
+      {
+        "en": "Nong Bua Rawe",
+        "id": "360800",
+        "th": "หนองบัวระเหว"
+      }
+    ]
+  },
+  {
+    "province_id": "860000",
+    "province_th": "ชุมพร",
+    "province_en": "Chumphon",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Tha Sae",
+        "id": "860200",
+        "th": "ท่าแซะ"
+      },
+      {
+        "en": "Thung Tako",
+        "id": "860800",
+        "th": "ทุ่งตะโก"
+      },
+      {
+        "en": "Pathio",
+        "id": "860300",
+        "th": "ปะทิว"
+      },
+      {
+        "en": "Phato",
+        "id": "860600",
+        "th": "พะโต๊ะ"
+      },
+      {
+        "en": "Mueang Chumphon",
+        "id": "860100",
+        "th": "เมืองชุมพร"
+      },
+      {
+        "en": "Lamae",
+        "id": "860500",
+        "th": "ละแม"
+      },
+      {
+        "en": "Lang Suan",
+        "id": "860400",
+        "th": "หลังสวน"
+      },
+      {
+        "en": "Sawi",
+        "id": "860700",
+        "th": "สวี"
+      }
+    ]
+  },
+  {
+    "province_id": "570000",
+    "province_th": "เชียงราย",
+    "province_en": "Chiang Rai",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Khun Tan",
+        "id": "571400",
+        "th": "ขุนตาล"
+      },
+      {
+        "en": "Chiang Khong",
+        "id": "570300",
+        "th": "เชียงของ"
+      },
+      {
+        "en": "Chiang Saen",
+        "id": "570800",
+        "th": "เชียงแสน"
+      },
+      {
+        "en": "Doi Luang",
+        "id": "571800",
+        "th": "ดอยหลวง"
+      },
+      {
+        "en": "Thoeng",
+        "id": "570400",
+        "th": "เทิง"
+      },
+      {
+        "en": "Pa Daet",
+        "id": "570600",
+        "th": "ป่าแดด"
+      },
+      {
+        "en": "Phaya Mengrai",
+        "id": "571200",
+        "th": "พญาเม็งราย"
+      },
+      {
+        "en": "Phan",
+        "id": "570500",
+        "th": "พาน"
+      },
+      {
+        "en": "Mueang Chiang Rai",
+        "id": "570100",
+        "th": "เมืองเชียงราย"
+      },
+      {
+        "en": "Mae Chan",
+        "id": "570700",
+        "th": "แม่จัน"
+      },
+      {
+        "en": "Mae Fa Luang",
+        "id": "571500",
+        "th": "แม่ฟ้าหลวง"
+      },
+      {
+        "en": "Mae Lao",
+        "id": "571600",
+        "th": "แม่ลาว"
+      },
+      {
+        "en": "Mae Suai",
+        "id": "571000",
+        "th": "แม่สรวย"
+      },
+      {
+        "en": "Mae Sai",
+        "id": "570900",
+        "th": "แม่สาย"
+      },
+      {
+        "en": "Wiang Kaen",
+        "id": "571300",
+        "th": "เวียงแก่น"
+      },
+      {
+        "en": "Wiang Chai",
+        "id": "570200",
+        "th": "เวียงชัย"
+      },
+      {
+        "en": "Wiang Chiang Rung",
+        "id": "571700",
+        "th": "เวียงเชียงรุ้ง"
+      },
+      {
+        "en": "Wiang Pa Pao",
+        "id": "571100",
+        "th": "เวียงป่าเป้า"
+      }
+    ]
+  },
+  {
+    "province_id": "500000",
+    "province_th": "เชียงใหม่",
+    "province_en": "Chiang Mai",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Galyani Vadhana",
+        "id": "502500",
+        "th": "กัลยาณิวัฒนา"
+      },
+      {
+        "en": "Chom Thong",
+        "id": "500200",
+        "th": "จอมทอง"
+      },
+      {
+        "en": "Chiang Dao",
+        "id": "500400",
+        "th": "เชียงดาว"
+      },
+      {
+        "en": "Chai Prakan",
+        "id": "502100",
+        "th": "ไชยปราการ"
+      },
+      {
+        "en": "Doi Tao",
+        "id": "501700",
+        "th": "ดอยเต่า"
+      },
+      {
+        "en": "Doi Saket",
+        "id": "500500",
+        "th": "ดอยสะเก็ด"
+      },
+      {
+        "en": "Doi Lo",
+        "id": "502400",
+        "th": "ดอยหล่อ"
+      },
+      {
+        "en": "Fang",
+        "id": "500900",
+        "th": "ฝาง"
+      },
+      {
+        "en": "Phrao",
+        "id": "501100",
+        "th": "พร้าว"
+      },
+      {
+        "en": "Mueang Chiang Mai",
+        "id": "500100",
+        "th": "เมืองเชียงใหม่"
+      },
+      {
+        "en": "Mae Chaem",
+        "id": "500300",
+        "th": "แม่แจ่ม"
+      },
+      {
+        "en": "Mae Taeng",
+        "id": "500600",
+        "th": "แม่แตง"
+      },
+      {
+        "en": "Mae Rim",
+        "id": "500700",
+        "th": "แม่ริม"
+      },
+      {
+        "en": "Mae Wang",
+        "id": "502200",
+        "th": "แม่วาง"
+      },
+      {
+        "en": "Mae On",
+        "id": "502300",
+        "th": "แม่ออน"
+      },
+      {
+        "en": "Mae Ai",
+        "id": "501000",
+        "th": "แม่อาย"
+      },
+      {
+        "en": "Wiang Haeng",
+        "id": "502000",
+        "th": "เวียงแหง"
+      },
+      {
+        "en": "Samoeng",
+        "id": "500800",
+        "th": "สะเมิง"
+      },
+      {
+        "en": "San Kamphaeng",
+        "id": "501300",
+        "th": "สันกำแพง"
+      },
+      {
+        "en": "San Sai",
+        "id": "501400",
+        "th": "สันทราย"
+      },
+      {
+        "en": "San Pa Tong",
+        "id": "501200",
+        "th": "สันป่าตอง"
+      },
+      {
+        "en": "Saraphi",
+        "id": "501900",
+        "th": "สารภี"
+      },
+      {
+        "en": "Hang Dong",
+        "id": "501500",
+        "th": "หางดง"
+      },
+      {
+        "en": "Omkoi",
+        "id": "501800",
+        "th": "อมก๋อย"
+      },
+      {
+        "en": "Hot",
+        "id": "501600",
+        "th": "ฮอด"
+      }
+    ]
+  },
+  {
+    "province_id": "920000",
+    "province_th": "ตรัง",
+    "province_en": "Trang",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kantang",
+        "id": "920200",
+        "th": "กันตัง"
+      },
+      {
+        "en": "Na Yong",
+        "id": "920800",
+        "th": "นาโยง"
+      },
+      {
+        "en": "Palian",
+        "id": "920400",
+        "th": "ปะเหลียน"
+      },
+      {
+        "en": "Mueang Trang",
+        "id": "920100",
+        "th": "เมืองตรัง"
+      },
+      {
+        "en": "Yan Ta Khao",
+        "id": "920300",
+        "th": "ย่านตาขาว"
+      },
+      {
+        "en": "Ratsada",
+        "id": "920900",
+        "th": "รัษฎา"
+      },
+      {
+        "en": "Wang Wiset",
+        "id": "920700",
+        "th": "วังวิเศษ"
+      },
+      {
+        "en": "Huai Yot",
+        "id": "920600",
+        "th": "ห้วยยอด"
+      },
+      {
+        "en": "Hat Samran",
+        "id": "921000",
+        "th": "หาดสำราญ"
+      },
+      {
+        "en": "Sikao",
+        "id": "920500",
+        "th": "สิเกา"
+      }
+    ]
+  },
+  {
+    "province_id": "230000",
+    "province_th": "ตราด",
+    "province_en": "Trat",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Ko Kut",
+        "id": "230600",
+        "th": "เกาะกูด"
+      },
+      {
+        "en": "Ko Chang",
+        "id": "230700",
+        "th": "เกาะช้าง"
+      },
+      {
+        "en": "Khao Saming",
+        "id": "230300",
+        "th": "เขาสมิง"
+      },
+      {
+        "en": "Khlong Yai",
+        "id": "230200",
+        "th": "คลองใหญ่"
+      },
+      {
+        "en": "Bo Rai",
+        "id": "230400",
+        "th": "บ่อไร่"
+      },
+      {
+        "en": "Mueang Trat",
+        "id": "230100",
+        "th": "เมืองตราด"
+      },
+      {
+        "en": "Laem Ngop",
+        "id": "230500",
+        "th": "แหลมงอบ"
+      }
+    ]
+  },
+  {
+    "province_id": "630000",
+    "province_th": "ตาก",
+    "province_en": "Tak",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Tha Song Yang",
+        "id": "630500",
+        "th": "ท่าสองยาง"
+      },
+      {
+        "en": "Ban Tak",
+        "id": "630200",
+        "th": "บ้านตาก"
+      },
+      {
+        "en": "Phop Phra",
+        "id": "630700",
+        "th": "พบพระ"
+      },
+      {
+        "en": "Mueang Tak",
+        "id": "630100",
+        "th": "เมืองตาก"
+      },
+      {
+        "en": "Mae Ramat",
+        "id": "630400",
+        "th": "แม่ระมาด"
+      },
+      {
+        "en": "Mae Sot",
+        "id": "630600",
+        "th": "แม่สอด"
+      },
+      {
+        "en": "Wang Chao",
+        "id": "630900",
+        "th": "วังเจ้า"
+      },
+      {
+        "en": "Sam Ngao",
+        "id": "630300",
+        "th": "สามเงา"
+      },
+      {
+        "en": "Umphang",
+        "id": "630800",
+        "th": "อุ้มผาง"
+      }
+    ]
+  },
+  {
+    "province_id": "260000",
+    "province_th": "นครนายก",
+    "province_en": "Nakhon Nayok",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Ban Na",
+        "id": "260300",
+        "th": "บ้านนา"
+      },
+      {
+        "en": "Pak Phli",
+        "id": "260200",
+        "th": "ปากพลี"
+      },
+      {
+        "en": "Mueang Nakhon Nayok",
+        "id": "260100",
+        "th": "เมืองนครนายก"
+      },
+      {
+        "en": "Ongkharak",
+        "id": "260400",
+        "th": "องครักษ์"
+      }
+    ]
+  },
+  {
+    "province_id": "730000",
+    "province_th": "นครปฐม",
+    "province_en": "Nakhon Pathom",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kamphaeng Saen",
+        "id": "730200",
+        "th": "กำแพงแสน"
+      },
+      {
+        "en": "Don Tum",
+        "id": "730400",
+        "th": "ดอนตูม"
+      },
+      {
+        "en": "Nakhon Chai Si",
+        "id": "730300",
+        "th": "นครชัยศรี"
+      },
+      {
+        "en": "Bang Len",
+        "id": "730500",
+        "th": "บางเลน"
+      },
+      {
+        "en": "Phutthamonthon",
+        "id": "730700",
+        "th": "พุทธมณฑล"
+      },
+      {
+        "en": "Mueang Nakhon Pathom",
+        "id": "730100",
+        "th": "เมืองนครปฐม"
+      },
+      {
+        "en": "Sam Phran",
+        "id": "730600",
+        "th": "สามพราน"
+      }
+    ]
+  },
+  {
+    "province_id": "480000",
+    "province_th": "นครพนม",
+    "province_en": "Nakhon Phanom",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Tha Uthen",
+        "id": "480300",
+        "th": "ท่าอุเทน"
+      },
+      {
+        "en": "That Phanom",
+        "id": "480500",
+        "th": "ธาตุพนม"
+      },
+      {
+        "en": "Na Kae",
+        "id": "480700",
+        "th": "นาแก"
+      },
+      {
+        "en": "Na Thom",
+        "id": "481100",
+        "th": "นาทม"
+      },
+      {
+        "en": "Na Wa",
+        "id": "480900",
+        "th": "นาหว้า"
+      },
+      {
+        "en": "Ban Phaeng",
+        "id": "480400",
+        "th": "บ้านแพง"
+      },
+      {
+        "en": "Pla Pak",
+        "id": "480200",
+        "th": "ปลาปาก"
+      },
+      {
+        "en": "Phon Sawan",
+        "id": "481000",
+        "th": "โพนสวรรค์"
+      },
+      {
+        "en": "Mueang Nakhon Phanom",
+        "id": "480100",
+        "th": "เมืองนครพนม"
+      },
+      {
+        "en": "Renu Nakhon",
+        "id": "480600",
+        "th": "เรณูนคร"
+      },
+      {
+        "en": "Wang Yang",
+        "id": "481200",
+        "th": "วังยาง"
+      },
+      {
+        "en": "Si Songkhram",
+        "id": "480800",
+        "th": "ศรีสงคราม"
+      }
+    ]
+  },
+  {
+    "province_id": "300000",
+    "province_th": "นครราชสีมา",
+    "province_en": "Nakhon Ratchasima",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kaeng Sanam Nang",
+        "id": "302300",
+        "th": "แก้งสนามนาง"
+      },
+      {
+        "en": "Kham Thale So",
+        "id": "301900",
+        "th": "ขามทะเลสอ"
+      },
+      {
+        "en": "Kham Sakaesaeng",
+        "id": "301100",
+        "th": "ขามสะแกแสง"
+      },
+      {
+        "en": "Khong",
+        "id": "300400",
+        "th": "คง"
+      },
+      {
+        "en": "Khon Buri",
+        "id": "300200",
+        "th": "ครบุรี"
+      },
+      {
+        "en": "Chakkarat",
+        "id": "300600",
+        "th": "จักราช"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "id": "303200",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chum Phuang",
+        "id": "301700",
+        "th": "ชุมพวง"
+      },
+      {
+        "en": "Chok Chai",
+        "id": "300700",
+        "th": "โชคชัย"
+      },
+      {
+        "en": "Dan Khun Thot",
+        "id": "300800",
+        "th": "ด่านขุนทด"
+      },
+      {
+        "en": "Thepharak",
+        "id": "302600",
+        "th": "เทพารักษ์"
+      },
+      {
+        "en": "Non Daeng",
+        "id": "302400",
+        "th": "โนนแดง"
+      },
+      {
+        "en": "Non Thai",
+        "id": "300900",
+        "th": "โนนไทย"
+      },
+      {
+        "en": "Non Sung",
+        "id": "301000",
+        "th": "โนนสูง"
+      },
+      {
+        "en": "Bua Lai",
+        "id": "303000",
+        "th": "บัวลาย"
+      },
+      {
+        "en": "Bua Yai",
+        "id": "301200",
+        "th": "บัวใหญ่"
+      },
+      {
+        "en": "Ban Lueam",
+        "id": "300500",
+        "th": "บ้านเหลื่อม"
+      },
+      {
+        "en": "Prathai",
+        "id": "301300",
+        "th": "ประทาย"
+      },
+      {
+        "en": "Pak Thong Chai",
+        "id": "301400",
+        "th": "ปักธงชัย"
+      },
+      {
+        "en": "Pak Chong",
+        "id": "302100",
+        "th": "ปากช่อง"
+      },
+      {
+        "en": "Phra Thong Kham",
+        "id": "302800",
+        "th": "พระทองคำ"
+      },
+      {
+        "en": "Phimai",
+        "id": "301500",
+        "th": "พิมาย"
+      },
+      {
+        "en": "Mueang Nakhon Ratchasima",
+        "id": "300100",
+        "th": "เมืองนครราชสีมา"
+      },
+      {
+        "en": "Mueang Yang",
+        "id": "302700",
+        "th": "เมืองยาง"
+      },
+      {
+        "en": "Lam Thamenchai",
+        "id": "302900",
+        "th": "ลำทะเมนชัย"
+      },
+      {
+        "en": "Wang Nam Khiao",
+        "id": "302500",
+        "th": "วังน้ำเขียว"
+      },
+      {
+        "en": "Sikhio",
+        "id": "302000",
+        "th": "สีคิ้ว"
+      },
+      {
+        "en": "Sida",
+        "id": "303100",
+        "th": "สีดา"
+      },
+      {
+        "en": "Sung Noen",
+        "id": "301800",
+        "th": "สูงเนิน"
+      },
+      {
+        "en": "Soeng Sang",
+        "id": "300300",
+        "th": "เสิงสาง"
+      },
+      {
+        "en": "Nong Bun Mak",
+        "id": "302200",
+        "th": "หนองบุญมาก"
+      },
+      {
+        "en": "Huai Thalaeng",
+        "id": "301600",
+        "th": "ห้วยแถลง"
+      }
+    ]
+  },
+  {
+    "province_id": "800000",
+    "province_th": "นครศรีธรรมราช",
+    "province_en": "Nakhon Si Thammarat",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Khanom",
+        "id": "801500",
+        "th": "ขนอม"
+      },
+      {
+        "en": "Chulabhorn",
+        "id": "801900",
+        "th": "จุฬาภรณ์"
+      },
+      {
+        "en": "Chawang",
+        "id": "800400",
+        "th": "ฉวาง"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "id": "802300",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Cha-uat",
+        "id": "800700",
+        "th": "ชะอวด"
+      },
+      {
+        "en": "Chang Klang",
+        "id": "802200",
+        "th": "ช้างกลาง"
+      },
+      {
+        "en": "Chian Yai",
+        "id": "800600",
+        "th": "เชียรใหญ่"
+      },
+      {
+        "en": "Tham Phannara",
+        "id": "801800",
+        "th": "ถ้ำพรรณรา"
+      },
+      {
+        "en": "Tha Sala",
+        "id": "800800",
+        "th": "ท่าศาลา"
+      },
+      {
+        "en": "Thung Song",
+        "id": "800900",
+        "th": "ทุ่งสง"
+      },
+      {
+        "en": "Thung Yai",
+        "id": "801100",
+        "th": "ทุ่งใหญ่"
+      },
+      {
+        "en": "Nopphitam",
+        "id": "802100",
+        "th": "นบพิตำ"
+      },
+      {
+        "en": "Na Bon",
+        "id": "801000",
+        "th": "นาบอน"
+      },
+      {
+        "en": "Bang Khan",
+        "id": "801700",
+        "th": "บางขัน"
+      },
+      {
+        "en": "Pak Phanang",
+        "id": "801200",
+        "th": "ปากพนัง"
+      },
+      {
+        "en": "Phrom Khiri",
+        "id": "800200",
+        "th": "พรหมคีรี"
+      },
+      {
+        "en": "Phra Phrom",
+        "id": "802000",
+        "th": "พระพรหม"
+      },
+      {
+        "en": "Phipun",
+        "id": "800500",
+        "th": "พิปูน"
+      },
+      {
+        "en": "Mueang Nakhon Si Thammarat",
+        "id": "800100",
+        "th": "เมืองนครศรีธรรมราช"
+      },
+      {
+        "en": "Ron Phibun",
+        "id": "801300",
+        "th": "ร่อนพิบูลย์"
+      },
+      {
+        "en": "Lan Saka",
+        "id": "800300",
+        "th": "ลานสกา"
+      },
+      {
+        "en": "Sichon",
+        "id": "801400",
+        "th": "สิชล"
+      },
+      {
+        "en": "Hua Sai",
+        "id": "801600",
+        "th": "หัวไทร"
+      }
+    ]
+  },
+  {
+    "province_id": "600000",
+    "province_th": "นครสวรรค์",
+    "province_en": "Nakhon Sawan",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Kao Liao",
+        "id": "600600",
+        "th": "เก้าเลี้ยว"
+      },
+      {
+        "en": "Krok Phra",
+        "id": "600200",
+        "th": "โกรกพระ"
+      },
+      {
+        "en": "Chum Ta Bong",
+        "id": "601500",
+        "th": "ชุมตาบง"
+      },
+      {
+        "en": "Chum Saeng",
+        "id": "600300",
+        "th": "ชุมแสง"
+      },
+      {
+        "en": "Tak Fa",
+        "id": "601200",
+        "th": "ตากฟ้า"
+      },
+      {
+        "en": "Takhli",
+        "id": "600700",
+        "th": "ตาคลี"
+      },
+      {
+        "en": "Tha Tako",
+        "id": "600800",
+        "th": "ท่าตะโก"
+      },
+      {
+        "en": "Banphot Phisai",
+        "id": "600500",
+        "th": "บรรพตพิสัย"
+      },
+      {
+        "en": "Phayuha Khiri",
+        "id": "601000",
+        "th": "พยุหะคีรี"
+      },
+      {
+        "en": "Phaisali",
+        "id": "600900",
+        "th": "ไพศาลี"
+      },
+      {
+        "en": "Mueang Nakhon Sawan",
+        "id": "600100",
+        "th": "เมืองนครสวรรค์"
+      },
+      {
+        "en": "Mae Poen",
+        "id": "601400",
+        "th": "แม่เปิน"
+      },
+      {
+        "en": "Mae Wong",
+        "id": "601300",
+        "th": "แม่วงก์"
+      },
+      {
+        "en": "Lat Yao",
+        "id": "601100",
+        "th": "ลาดยาว"
+      },
+      {
+        "en": "Nong Bua",
+        "id": "600400",
+        "th": "หนองบัว"
+      }
+    ]
+  },
+  {
+    "province_id": "120000",
+    "province_th": "นนทบุรี",
+    "province_en": "Nonthaburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Sai Noi",
+        "id": "120500",
+        "th": "ไทรน้อย"
+      },
+      {
+        "en": "Bang Kruai",
+        "id": "120200",
+        "th": "บางกรวย"
+      },
+      {
+        "en": "Bang Bua Thong",
+        "id": "120400",
+        "th": "บางบัวทอง"
+      },
+      {
+        "en": "Bang Yai",
+        "id": "120300",
+        "th": "บางใหญ่"
+      },
+      {
+        "en": "Pak Kret",
+        "id": "120600",
+        "th": "ปากเกร็ด"
+      },
+      {
+        "en": "Mueang Nonthaburi",
+        "id": "120100",
+        "th": "เมืองนนทบุรี"
+      }
+    ]
+  },
+  {
+    "province_id": "960000",
+    "province_th": "นราธิวาส",
+    "province_en": "Narathiwat",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Chanae",
+        "id": "961200",
+        "th": "จะแนะ"
+      },
+      {
+        "en": "Cho-airong",
+        "id": "961300",
+        "th": "เจาะไอร้อง"
+      },
+      {
+        "en": "Tak Bai",
+        "id": "960200",
+        "th": "ตากใบ"
+      },
+      {
+        "en": "Bacho",
+        "id": "960300",
+        "th": "บาเจาะ"
+      },
+      {
+        "en": "Mueang Narathiwat",
+        "id": "960100",
+        "th": "เมืองนราธิวาส"
+      },
+      {
+        "en": "Yi-ngo",
+        "id": "960400",
+        "th": "ยี่งอ"
+      },
+      {
+        "en": "Ra-ngae",
+        "id": "960500",
+        "th": "ระแงะ"
+      },
+      {
+        "en": "Rueso",
+        "id": "960600",
+        "th": "รือเสาะ"
+      },
+      {
+        "en": "Waeng",
+        "id": "960800",
+        "th": "แว้ง"
+      },
+      {
+        "en": "Si Sakhon",
+        "id": "960700",
+        "th": "ศรีสาคร"
+      },
+      {
+        "en": "Sukhirin",
+        "id": "960900",
+        "th": "สุคิริน"
+      },
+      {
+        "en": "Su-ngai Kolok",
+        "id": "961000",
+        "th": "สุไหงโก-ลก"
+      },
+      {
+        "en": "Su-ngai Padi",
+        "id": "961100",
+        "th": "สุไหงปาดี"
+      }
+    ]
+  },
+  {
+    "province_id": "550000",
+    "province_th": "น่าน",
+    "province_en": "Nan",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Chaloem Phra Kiat",
+        "id": "551500",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chiang Klang",
+        "id": "550900",
+        "th": "เชียงกลาง"
+      },
+      {
+        "en": "Tha Wang Pha",
+        "id": "550600",
+        "th": "ท่าวังผา"
+      },
+      {
+        "en": "Thung Chang",
+        "id": "550800",
+        "th": "ทุ่งช้าง"
+      },
+      {
+        "en": "Na Noi",
+        "id": "550400",
+        "th": "นาน้อย"
+      },
+      {
+        "en": "Na Muen",
+        "id": "551000",
+        "th": "นาหมื่น"
+      },
+      {
+        "en": "Bo Kluea",
+        "id": "551200",
+        "th": "บ่อเกลือ"
+      },
+      {
+        "en": "Ban Luang",
+        "id": "550300",
+        "th": "บ้านหลวง"
+      },
+      {
+        "en": "Pua",
+        "id": "550500",
+        "th": "ปัว"
+      },
+      {
+        "en": "Phu Phiang",
+        "id": "551400",
+        "th": "ภูเพียง"
+      },
+      {
+        "en": "Mueang Nan",
+        "id": "550100",
+        "th": "เมืองน่าน"
+      },
+      {
+        "en": "Mae Charim",
+        "id": "550200",
+        "th": "แม่จริม"
+      },
+      {
+        "en": "Wiang Sa",
+        "id": "550700",
+        "th": "เวียงสา"
+      },
+      {
+        "en": "Song Khwae",
+        "id": "551300",
+        "th": "สองแคว"
+      },
+      {
+        "en": "Santi Suk",
+        "id": "551100",
+        "th": "สันติสุข"
+      }
+    ]
+  },
+  {
+    "province_id": "380000",
+    "province_th": "บึงกาฬ",
+    "province_en": "Bueng Kan",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Seka",
+        "id": "380400",
+        "th": "เซกา"
+      },
+      {
+        "en": "So Phisai",
+        "id": "380300",
+        "th": "โซ่พิสัย"
+      },
+      {
+        "en": "Bueng Khong Long",
+        "id": "380600",
+        "th": "บึงโขงหลง"
+      },
+      {
+        "en": "Bung Khla",
+        "id": "380800",
+        "th": "บุ่งคล้า"
+      },
+      {
+        "en": "Pak Khat",
+        "id": "380500",
+        "th": "ปากคาด"
+      },
+      {
+        "en": "Phon Charoen",
+        "id": "380200",
+        "th": "พรเจริญ"
+      },
+      {
+        "en": "Mueang Bueng Kan",
+        "id": "380100",
+        "th": "เมืองบึงกาฬ"
+      },
+      {
+        "en": "Si Wilai",
+        "id": "380700",
+        "th": "ศรีวิไล"
+      }
+    ]
+  },
+  {
+    "province_id": "310000",
+    "province_th": "บุรีรัมย์",
+    "province_en": "Buriram",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Krasang",
+        "id": "310300",
+        "th": "กระสัง"
+      },
+      {
+        "en": "Khu Mueang",
+        "id": "310200",
+        "th": "คูเมือง"
+      },
+      {
+        "en": "Khaen Dong",
+        "id": "312200",
+        "th": "แคนดง"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "id": "312300",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Chamni",
+        "id": "311800",
+        "th": "ชำนิ"
+      },
+      {
+        "en": "Nang Rong",
+        "id": "310400",
+        "th": "นางรอง"
+      },
+      {
+        "en": "Na Pho",
+        "id": "311300",
+        "th": "นาโพธิ์"
+      },
+      {
+        "en": "Non Din Daeng",
+        "id": "312000",
+        "th": "โนนดินแดง"
+      },
+      {
+        "en": "Non Suwan",
+        "id": "311700",
+        "th": "โนนสุวรรณ"
+      },
+      {
+        "en": "Ban Kruat",
+        "id": "310800",
+        "th": "บ้านกรวด"
+      },
+      {
+        "en": "Ban Dan",
+        "id": "312100",
+        "th": "บ้านด่าน"
+      },
+      {
+        "en": "Ban Mai Chaiyaphot",
+        "id": "311900",
+        "th": "บ้านใหม่ไชยพจน์"
+      },
+      {
+        "en": "Prakhon Chai",
+        "id": "310700",
+        "th": "ประโคนชัย"
+      },
+      {
+        "en": "Pakham",
+        "id": "311200",
+        "th": "ปะคำ"
+      },
+      {
+        "en": "Phlapphla Chai",
+        "id": "311500",
+        "th": "พลับพลาชัย"
+      },
+      {
+        "en": "Phutthaisong",
+        "id": "310900",
+        "th": "พุทไธสง"
+      },
+      {
+        "en": "Mueang Buriram",
+        "id": "310100",
+        "th": "เมืองบุรีรัมย์"
+      },
+      {
+        "en": "Lahan Sai",
+        "id": "310600",
+        "th": "ละหานทราย"
+      },
+      {
+        "en": "Lam Plai Mat",
+        "id": "311000",
+        "th": "ลำปลายมาศ"
+      },
+      {
+        "en": "Satuek",
+        "id": "311100",
+        "th": "สตึก"
+      },
+      {
+        "en": "Nong Ki",
+        "id": "310500",
+        "th": "หนองกี่"
+      },
+      {
+        "en": "Nong Hong",
+        "id": "311400",
+        "th": "หนองหงส์"
+      },
+      {
+        "en": "Huai Rat",
+        "id": "311600",
+        "th": "ห้วยราช"
+      }
+    ]
+  },
+  {
+    "province_id": "130000",
+    "province_th": "ปทุมธานี",
+    "province_en": "Pathum Thani",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Khlong Luang",
+        "id": "130200",
+        "th": "คลองหลวง"
+      },
+      {
+        "en": "Thanyaburi",
+        "id": "130300",
+        "th": "ธัญบุรี"
+      },
+      {
+        "en": "Mueang Pathum Thani",
+        "id": "130100",
+        "th": "เมืองปทุมธานี"
+      },
+      {
+        "en": "Lat Lum Kaeo",
+        "id": "130500",
+        "th": "ลาดหลุมแก้ว"
+      },
+      {
+        "en": "Lam Luk Ka",
+        "id": "130600",
+        "th": "ลำลูกกา"
+      },
+      {
+        "en": "Sam Khok",
+        "id": "130700",
+        "th": "สามโคก"
+      },
+      {
+        "en": "Nong Suea",
+        "id": "130400",
+        "th": "หนองเสือ"
+      }
+    ]
+  },
+  {
+    "province_id": "770000",
+    "province_th": "ประจวบคีรีขันธ์",
+    "province_en": "Prachuap Khiri Khan",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kui Buri",
+        "id": "770200",
+        "th": "กุยบุรี"
+      },
+      {
+        "en": "Thap Sakae",
+        "id": "770300",
+        "th": "ทับสะแก"
+      },
+      {
+        "en": "Bang Saphan",
+        "id": "770400",
+        "th": "บางสะพาน"
+      },
+      {
+        "en": "Bang Saphan Noi",
+        "id": "770500",
+        "th": "บางสะพานน้อย"
+      },
+      {
+        "en": "Pran Buri",
+        "id": "770600",
+        "th": "ปราณบุรี"
+      },
+      {
+        "en": "Mueang Prachuap Khiri Khan",
+        "id": "770100",
+        "th": "เมืองประจวบคีรีขันธ์"
+      },
+      {
+        "en": "Sam Roi Yot",
+        "id": "770800",
+        "th": "สามร้อยยอด"
+      },
+      {
+        "en": "Hua Hin",
+        "id": "770700",
+        "th": "หัวหิน"
+      }
+    ]
+  },
+  {
+    "province_id": "250000",
+    "province_th": "ปราจีนบุรี",
+    "province_en": "Prachin Buri",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kabin Buri",
+        "id": "250200",
+        "th": "กบินทร์บุรี"
+      },
+      {
+        "en": "Na Di",
+        "id": "250300",
+        "th": "นาดี"
+      },
+      {
+        "en": "Ban Sang",
+        "id": "250600",
+        "th": "บ้านสร้าง"
+      },
+      {
+        "en": "Prachantakham",
+        "id": "250700",
+        "th": "ประจันตคาม"
+      },
+      {
+        "en": "Mueang Prachinburi",
+        "id": "250100",
+        "th": "เมืองปราจีนบุรี"
+      },
+      {
+        "en": "Si Maha Phot",
+        "id": "250800",
+        "th": "ศรีมหาโพธิ"
+      },
+      {
+        "en": "Si Mahosot",
+        "id": "250900",
+        "th": "ศรีมโหสถ"
+      }
+    ]
+  },
+  {
+    "province_id": "940000",
+    "province_th": "ปัตตานี",
+    "province_en": "Pattani",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kapho",
+        "id": "941100",
+        "th": "กะพ้อ"
+      },
+      {
+        "en": "Khok Pho",
+        "id": "940200",
+        "th": "โคกโพธิ์"
+      },
+      {
+        "en": "Thung Yang Daeng",
+        "id": "940600",
+        "th": "ทุ่งยางแดง"
+      },
+      {
+        "en": "Panare",
+        "id": "940400",
+        "th": "ปะนาเระ"
+      },
+      {
+        "en": "Mayo",
+        "id": "940500",
+        "th": "มายอ"
+      },
+      {
+        "en": "Mueang Pattani",
+        "id": "940100",
+        "th": "เมืองปัตตานี"
+      },
+      {
+        "en": "Mae Lan",
+        "id": "941200",
+        "th": "แม่ลาน"
+      },
+      {
+        "en": "Mai Kaen",
+        "id": "940800",
+        "th": "ไม้แก่น"
+      },
+      {
+        "en": "Yarang",
+        "id": "941000",
+        "th": "ยะรัง"
+      },
+      {
+        "en": "Yaring",
+        "id": "940900",
+        "th": "ยะหริ่ง"
+      },
+      {
+        "en": "Sai Buri",
+        "id": "940700",
+        "th": "สายบุรี"
+      },
+      {
+        "en": "Nong Chik",
+        "id": "940300",
+        "th": "หนองจิก"
+      }
+    ]
+  },
+  {
+    "province_id": "140000",
+    "province_th": "พระนครศรีอยุธยา",
+    "province_en": "Phra Nakhon Si Ayutthaya",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Tha Ruea",
+        "id": "140200",
+        "th": "ท่าเรือ"
+      },
+      {
+        "en": "Nakhon Luang",
+        "id": "140300",
+        "th": "นครหลวง"
+      },
+      {
+        "en": "Bang Sai 1413",
+        "id": "141300",
+        "th": "บางซ้าย"
+      },
+      {
+        "en": "Bang Sai 1404",
+        "id": "140400",
+        "th": "บางไทร"
+      },
+      {
+        "en": "Bang Ban",
+        "id": "140500",
+        "th": "บางบาล"
+      },
+      {
+        "en": "Bang Pahan",
+        "id": "140700",
+        "th": "บางปะหัน"
+      },
+      {
+        "en": "Bang Pa In",
+        "id": "140600",
+        "th": "บางปะอิน"
+      },
+      {
+        "en": "Ban Phraek",
+        "id": "141600",
+        "th": "บ้านแพรก"
+      },
+      {
+        "en": "Phak Hai",
+        "id": "140800",
+        "th": "ผักไห่"
+      },
+      {
+        "en": "Phra Nakhon Si Ayutthaya",
+        "id": "140100",
+        "th": "พระนครศรีอยุธยา"
+      },
+      {
+        "en": "Phachi",
+        "id": "140900",
+        "th": "ภาชี"
+      },
+      {
+        "en": "Maha Rat",
+        "id": "141500",
+        "th": "มหาราช"
+      },
+      {
+        "en": "Lat Bua Luang",
+        "id": "141000",
+        "th": "ลาดบัวหลวง"
+      },
+      {
+        "en": "Wang Noi",
+        "id": "141100",
+        "th": "วังน้อย"
+      },
+      {
+        "en": "Sena",
+        "id": "141200",
+        "th": "เสนา"
+      },
+      {
+        "en": "Uthai",
+        "id": "141400",
+        "th": "อุทัย"
+      }
+    ]
+  },
+  {
+    "province_id": "560000",
+    "province_th": "พะเยา",
+    "province_en": "Phayao",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Chun",
+        "id": "560200",
+        "th": "จุน"
+      },
+      {
+        "en": "Chiang Kham",
+        "id": "560300",
+        "th": "เชียงคำ"
+      },
+      {
+        "en": "Chiang Muan",
+        "id": "560400",
+        "th": "เชียงม่วน"
+      },
+      {
+        "en": "Dok Khamtai",
+        "id": "560500",
+        "th": "ดอกคำใต้"
+      },
+      {
+        "en": "Pong",
+        "id": "560600",
+        "th": "ปง"
+      },
+      {
+        "en": "Phu Kamyao",
+        "id": "560900",
+        "th": "ภูกามยาว"
+      },
+      {
+        "en": "Phu Sang",
+        "id": "560800",
+        "th": "ภูซาง"
+      },
+      {
+        "en": "Mueang Phayao",
+        "id": "560100",
+        "th": "เมืองพะเยา"
+      },
+      {
+        "en": "Mae Chai",
+        "id": "560700",
+        "th": "แม่ใจ"
+      }
+    ]
+  },
+  {
+    "province_id": "820000",
+    "province_th": "พังงา",
+    "province_en": "Phang Nga",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kapong",
+        "id": "820300",
+        "th": "กะปง"
+      },
+      {
+        "en": "Ko Yao",
+        "id": "820200",
+        "th": "เกาะยาว"
+      },
+      {
+        "en": "Khura Buri",
+        "id": "820600",
+        "th": "คุระบุรี"
+      },
+      {
+        "en": "Takua Thung",
+        "id": "820400",
+        "th": "ตะกั่วทุ่ง"
+      },
+      {
+        "en": "Takua Pa",
+        "id": "820500",
+        "th": "ตะกั่วป่า"
+      },
+      {
+        "en": "Thap Put",
+        "id": "820700",
+        "th": "ทับปุด"
+      },
+      {
+        "en": "Thai Mueang",
+        "id": "820800",
+        "th": "ท้ายเหมือง"
+      },
+      {
+        "en": "Mueang Phang Nga",
+        "id": "820100",
+        "th": "เมืองพังงา"
+      }
+    ]
+  },
+  {
+    "province_id": "930000",
+    "province_th": "พัทลุง",
+    "province_en": "Phatthalung",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kong Ra",
+        "id": "930200",
+        "th": "กงหรา"
+      },
+      {
+        "en": "Khao Chaison",
+        "id": "930300",
+        "th": "เขาชัยสน"
+      },
+      {
+        "en": "Khuan Khanun",
+        "id": "930500",
+        "th": "ควนขนุน"
+      },
+      {
+        "en": "Tamot",
+        "id": "930400",
+        "th": "ตะโหมด"
+      },
+      {
+        "en": "Bang Kaeo",
+        "id": "930900",
+        "th": "บางแก้ว"
+      },
+      {
+        "en": "Pak Phayun",
+        "id": "930600",
+        "th": "ปากพะยูน"
+      },
+      {
+        "en": "Pa Bon",
+        "id": "930800",
+        "th": "ป่าบอน"
+      },
+      {
+        "en": "Pa Phayom",
+        "id": "931000",
+        "th": "ป่าพะยอม"
+      },
+      {
+        "en": "Mueang Phatthalung",
+        "id": "930100",
+        "th": "เมืองพัทลุง"
+      },
+      {
+        "en": "Srinagarindra",
+        "id": "931100",
+        "th": "ศรีนครินทร์"
+      },
+      {
+        "en": "Si Banphot",
+        "id": "930700",
+        "th": "ศรีบรรพต"
+      }
+    ]
+  },
+  {
+    "province_id": "660000",
+    "province_th": "พิจิตร",
+    "province_en": "Phichit",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Dong Charoen",
+        "id": "661100",
+        "th": "ดงเจริญ"
+      },
+      {
+        "en": "Taphan Hin",
+        "id": "660400",
+        "th": "ตะพานหิน"
+      },
+      {
+        "en": "Thap Khlo",
+        "id": "660800",
+        "th": "ทับคล้อ"
+      },
+      {
+        "en": "Bang Mun Nak",
+        "id": "660500",
+        "th": "บางมูลนาก"
+      },
+      {
+        "en": "Bueng Na Rang",
+        "id": "661000",
+        "th": "บึงนาราง"
+      },
+      {
+        "en": "Pho Thale",
+        "id": "660600",
+        "th": "โพทะเล"
+      },
+      {
+        "en": "Pho Prathap Chang",
+        "id": "660300",
+        "th": "โพธิ์ประทับช้าง"
+      },
+      {
+        "en": "Wachirabarami",
+        "id": "661200",
+        "th": "วชิรบารมี"
+      },
+      {
+        "en": "Wang Sai Phun",
+        "id": "660200",
+        "th": "วังทรายพูน"
+      },
+      {
+        "en": "Sak Lek",
+        "id": "660900",
+        "th": "สากเหล็ก"
+      },
+      {
+        "en": "Sam Ngam",
+        "id": "660700",
+        "th": "สามง่าม"
+      },
+      {
+        "en": "Mueang Phichit",
+        "id": "660100",
+        "th": "เมืองพิจิตร"
+      }
+    ]
+  },
+  {
+    "province_id": "650000",
+    "province_th": "พิษณุโลก",
+    "province_en": "Phitsanulok",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Chat Trakan",
+        "id": "650300",
+        "th": "ชาติตระการ"
+      },
+      {
+        "en": "Nakhon Thai",
+        "id": "650200",
+        "th": "นครไทย"
+      },
+      {
+        "en": "Noen Maprang",
+        "id": "650900",
+        "th": "เนินมะปราง"
+      },
+      {
+        "en": "Bang Krathum",
+        "id": "650500",
+        "th": "บางกระทุ่ม"
+      },
+      {
+        "en": "Bang Rakam",
+        "id": "650400",
+        "th": "บางระกำ"
+      },
+      {
+        "en": "Phrom Phiram",
+        "id": "650600",
+        "th": "พรหมพิราม"
+      },
+      {
+        "en": "Mueang Phitsanulok",
+        "id": "650100",
+        "th": "เมืองพิษณุโลก"
+      },
+      {
+        "en": "Wang Thong",
+        "id": "650800",
+        "th": "วังทอง"
+      },
+      {
+        "en": "Wat Bot",
+        "id": "650700",
+        "th": "วัดโบสถ์"
+      }
+    ]
+  },
+  {
+    "province_id": "760000",
+    "province_th": "เพชรบุรี",
+    "province_en": "Phetchaburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kaeng Krachan",
+        "id": "760800",
+        "th": "แก่งกระจาน"
+      },
+      {
+        "en": "Khao Yoi",
+        "id": "760200",
+        "th": "เขาย้อย"
+      },
+      {
+        "en": "Cha-am",
+        "id": "760400",
+        "th": "ชะอำ"
+      },
+      {
+        "en": "Tha Yang",
+        "id": "760500",
+        "th": "ท่ายาง"
+      },
+      {
+        "en": "Ban Lat",
+        "id": "760600",
+        "th": "บ้านลาด"
+      },
+      {
+        "en": "Ban Laem",
+        "id": "760700",
+        "th": "บ้านแหลม"
+      },
+      {
+        "en": "Mueang Phetchaburi",
+        "id": "760100",
+        "th": "เมืองเพชรบุรี"
+      },
+      {
+        "en": "Nong Ya Plong",
+        "id": "760300",
+        "th": "หนองหญ้าปล้อง"
+      }
+    ]
+  },
+  {
+    "province_id": "670000",
+    "province_th": "เพชรบูรณ์",
+    "province_en": "Phetchabun",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Khao Kho",
+        "id": "671100",
+        "th": "เขาค้อ"
+      },
+      {
+        "en": "Chon Daen",
+        "id": "670200",
+        "th": "ชนแดน"
+      },
+      {
+        "en": "Nam Nao",
+        "id": "670900",
+        "th": "น้ำหนาว"
+      },
+      {
+        "en": "Bueng Sam Phan",
+        "id": "670800",
+        "th": "บึงสามพัน"
+      },
+      {
+        "en": "Mueang Phetchabun",
+        "id": "670100",
+        "th": "เมืองเพชรบูรณ์"
+      },
+      {
+        "en": "Wang Pong",
+        "id": "671000",
+        "th": "วังโป่ง"
+      },
+      {
+        "en": "Wichian Buri",
+        "id": "670500",
+        "th": "วิเชียรบุรี"
+      },
+      {
+        "en": "Si Thep",
+        "id": "670600",
+        "th": "ศรีเทพ"
+      },
+      {
+        "en": "Nong Phai",
+        "id": "670700",
+        "th": "หนองไผ่"
+      },
+      {
+        "en": "Lom Kao",
+        "id": "670400",
+        "th": "หล่มเก่า"
+      },
+      {
+        "en": "Lom Sak",
+        "id": "670300",
+        "th": "หล่มสัก"
+      }
+    ]
+  },
+  {
+    "province_id": "540000",
+    "province_th": "แพร่",
+    "province_en": "Phrae",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Mueang Phrae",
+        "id": "540100",
+        "th": "เมืองแพร่"
+      },
+      {
+        "en": "Rong Kwang",
+        "id": "540200",
+        "th": "ร้องกวาง"
+      },
+      {
+        "en": "Long",
+        "id": "540300",
+        "th": "ลอง"
+      },
+      {
+        "en": "Wang Chin",
+        "id": "540700",
+        "th": "วังชิ้น"
+      },
+      {
+        "en": "Song",
+        "id": "540600",
+        "th": "สอง"
+      },
+      {
+        "en": "Sung Men",
+        "id": "540400",
+        "th": "สูงเม่น"
+      },
+      {
+        "en": "Nong Muang Khai",
+        "id": "540800",
+        "th": "หนองม่วงไข่"
+      },
+      {
+        "en": "Den Chai",
+        "id": "540500",
+        "th": "เด่นชัย"
+      }
+    ]
+  },
+  {
+    "province_id": "830000",
+    "province_th": "ภูเก็ต",
+    "province_en": "Phuket",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kathu",
+        "id": "830200",
+        "th": "กะทู้"
+      },
+      {
+        "en": "Thalang",
+        "id": "830300",
+        "th": "ถลาง"
+      },
+      {
+        "en": "Mueang Phuket",
+        "id": "830100",
+        "th": "เมืองภูเก็ต"
+      }
+    ]
+  },
+  {
+    "province_id": "440000",
+    "province_th": "มหาสารคาม",
+    "province_en": "Maha Sarakham",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kantharawichai",
+        "id": "440400",
+        "th": "กันทรวิชัย"
+      },
+      {
+        "en": "Kut Rang",
+        "id": "441200",
+        "th": "กุดรัง"
+      },
+      {
+        "en": "Kae Dam",
+        "id": "440200",
+        "th": "แกดำ"
+      },
+      {
+        "en": "Kosum Phisai",
+        "id": "440300",
+        "th": "โกสุมพิสัย"
+      },
+      {
+        "en": "Chuen Chom",
+        "id": "441300",
+        "th": "ชื่นชม"
+      },
+      {
+        "en": "Chiang Yuen",
+        "id": "440500",
+        "th": "เชียงยืน"
+      },
+      {
+        "en": "Na Chueak",
+        "id": "440700",
+        "th": "นาเชือก"
+      },
+      {
+        "en": "Na Dun",
+        "id": "441000",
+        "th": "นาดูน"
+      },
+      {
+        "en": "Borabue",
+        "id": "440600",
+        "th": "บรบือ"
+      },
+      {
+        "en": "Phayakkhaphum Phisai",
+        "id": "440800",
+        "th": "พยัคฆภูมิพิสัย"
+      },
+      {
+        "en": "Mueang Maha Sarakham",
+        "id": "440100",
+        "th": "เมืองมหาสารคาม"
+      },
+      {
+        "en": "Yang Sisurat",
+        "id": "441100",
+        "th": "ยางสีสุราช"
+      },
+      {
+        "en": "Wapi Pathum",
+        "id": "440900",
+        "th": "วาปีปทุม"
+      }
+    ]
+  },
+  {
+    "province_id": "490000",
+    "province_th": "มุกดาหาร",
+    "province_en": "Mukdahan",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Khamcha-i",
+        "id": "490500",
+        "th": "คำชะอี"
+      },
+      {
+        "en": "Dong Luang",
+        "id": "490400",
+        "th": "ดงหลวง"
+      },
+      {
+        "en": "Don Tan",
+        "id": "490300",
+        "th": "ดอนตาล"
+      },
+      {
+        "en": "Nikhom Kham Soi",
+        "id": "490200",
+        "th": "นิคมคำสร้อย"
+      },
+      {
+        "en": "Mueang Mukdahan",
+        "id": "490100",
+        "th": "เมืองมุกดาหาร"
+      },
+      {
+        "en": "Nong Sung",
+        "id": "490700",
+        "th": "หนองสูง"
+      },
+      {
+        "en": "Wan Yai",
+        "id": "490600",
+        "th": "หว้านใหญ่"
+      }
+    ]
+  },
+  {
+    "province_id": "580000",
+    "province_th": "แม่ฮ่องสอน",
+    "province_en": "Mae Hong Son",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Khun Yuam",
+        "id": "580200",
+        "th": "ขุนยวม"
+      },
+      {
+        "en": "Pang Mapha",
+        "id": "580700",
+        "th": "ปางมะผ้า"
+      },
+      {
+        "en": "Pai",
+        "id": "580300",
+        "th": "ปาย"
+      },
+      {
+        "en": "Mueang Mae Hong Son",
+        "id": "580100",
+        "th": "เมืองแม่ฮ่องสอน"
+      },
+      {
+        "en": "Mae La Noi",
+        "id": "580500",
+        "th": "แม่ลาน้อย"
+      },
+      {
+        "en": "Mae Sariang",
+        "id": "580400",
+        "th": "แม่สะเรียง"
+      },
+      {
+        "en": "Sop Moei",
+        "id": "580600",
+        "th": "สบเมย"
+      }
+    ]
+  },
+  {
+    "province_id": "350000",
+    "province_th": "ยโสธร",
+    "province_en": "Yasothon",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kut Chum",
+        "id": "350300",
+        "th": "กุดชุม"
+      },
+      {
+        "en": "Kho Wang",
+        "id": "350700",
+        "th": "ค้อวัง"
+      },
+      {
+        "en": "Kham Khuean Kaeo",
+        "id": "350400",
+        "th": "คำเขื่อนแก้ว"
+      },
+      {
+        "en": "Sai Mun",
+        "id": "350200",
+        "th": "ทรายมูล"
+      },
+      {
+        "en": "Thai Charoen",
+        "id": "350900",
+        "th": "ไทยเจริญ"
+      },
+      {
+        "en": "Pa Tio",
+        "id": "350500",
+        "th": "ป่าติ้ว"
+      },
+      {
+        "en": "Maha Chana Chai",
+        "id": "350600",
+        "th": "มหาชนะชัย"
+      },
+      {
+        "en": "Mueang Yasothon",
+        "id": "350100",
+        "th": "เมืองยโสธร"
+      },
+      {
+        "en": "Loeng Nok Tha",
+        "id": "350800",
+        "th": "เลิงนกทา"
+      }
+    ]
+  },
+  {
+    "province_id": "950000",
+    "province_th": "ยะลา",
+    "province_en": "Yala",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Krong Pinang",
+        "id": "950800",
+        "th": "กรงปินัง"
+      },
+      {
+        "en": "Kabang",
+        "id": "950700",
+        "th": "กาบัง"
+      },
+      {
+        "en": "Than To",
+        "id": "950400",
+        "th": "ธารโต"
+      },
+      {
+        "en": "Bannang Sata",
+        "id": "950300",
+        "th": "บันนังสตา"
+      },
+      {
+        "en": "Betong",
+        "id": "950200",
+        "th": "เบตง"
+      },
+      {
+        "en": "Mueang Yala",
+        "id": "950100",
+        "th": "เมืองยะลา"
+      },
+      {
+        "en": "Yaha",
+        "id": "950500",
+        "th": "ยะหา"
+      },
+      {
+        "en": "Raman",
+        "id": "950600",
+        "th": "รามัน"
+      }
+    ]
+  },
+  {
+    "province_id": "450000",
+    "province_th": "ร้อยเอ็ด",
+    "province_en": "Roi Et",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kaset Wisai",
+        "id": "450200",
+        "th": "เกษตรวิสัย"
+      },
+      {
+        "en": "Chaturaphak Phiman",
+        "id": "450400",
+        "th": "จตุรพักตรพิมาน"
+      },
+      {
+        "en": "Changhan",
+        "id": "451700",
+        "th": "จังหาร"
+      },
+      {
+        "en": "Chiang Khwan",
+        "id": "451800",
+        "th": "เชียงขวัญ"
+      },
+      {
+        "en": "Thung Khao Luang",
+        "id": "452000",
+        "th": "ทุ่งเขาหลวง"
+      },
+      {
+        "en": "Thawat Buri",
+        "id": "450500",
+        "th": "ธวัชบุรี"
+      },
+      {
+        "en": "Pathum Rat",
+        "id": "450300",
+        "th": "ปทุมรัตต์"
+      },
+      {
+        "en": "Phanom Phrai",
+        "id": "450600",
+        "th": "พนมไพร"
+      },
+      {
+        "en": "Pho Chai",
+        "id": "450800",
+        "th": "โพธิ์ชัย"
+      },
+      {
+        "en": "Phon Sai",
+        "id": "451300",
+        "th": "โพนทราย"
+      },
+      {
+        "en": "Phon Thong",
+        "id": "450700",
+        "th": "โพนทอง"
+      },
+      {
+        "en": "Moei Wadi",
+        "id": "451500",
+        "th": "เมยวดี"
+      },
+      {
+        "en": "Mueang Roi Et",
+        "id": "450100",
+        "th": "เมืองร้อยเอ็ด"
+      },
+      {
+        "en": "Mueang Suang",
+        "id": "451200",
+        "th": "เมืองสรวง"
+      },
+      {
+        "en": "Si Somdet",
+        "id": "451600",
+        "th": "ศรีสมเด็จ"
+      },
+      {
+        "en": "Suwannaphum",
+        "id": "451100",
+        "th": "สุวรรณภูมิ"
+      },
+      {
+        "en": "Selaphum",
+        "id": "451000",
+        "th": "เสลภูมิ"
+      },
+      {
+        "en": "Nong Phok",
+        "id": "450900",
+        "th": "หนองพอก"
+      },
+      {
+        "en": "Nong Hi",
+        "id": "451900",
+        "th": "หนองฮี"
+      },
+      {
+        "en": "At Samat",
+        "id": "451400",
+        "th": "อาจสามารถ"
+      }
+    ]
+  },
+  {
+    "province_id": "850000",
+    "province_th": "ระนอง",
+    "province_en": "Ranong",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kra Buri",
+        "id": "850400",
+        "th": "กระบุรี"
+      },
+      {
+        "en": "Kapoe",
+        "id": "850300",
+        "th": "กะเปอร์"
+      },
+      {
+        "en": "Mueang Ranong",
+        "id": "850100",
+        "th": "เมืองระนอง"
+      },
+      {
+        "en": "La-un",
+        "id": "850200",
+        "th": "ละอุ่น"
+      },
+      {
+        "en": "Suk Samran",
+        "id": "850500",
+        "th": "สุขสำราญ"
+      }
+    ]
+  },
+  {
+    "province_id": "210000",
+    "province_th": "ระยอง",
+    "province_en": "Rayong",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Klaeng",
+        "id": "210300",
+        "th": "แกลง"
+      },
+      {
+        "en": "Khao Chamao",
+        "id": "210700",
+        "th": "เขาชะเมา"
+      },
+      {
+        "en": "Nikhom Phatthana",
+        "id": "210800",
+        "th": "นิคมพัฒนา"
+      },
+      {
+        "en": "Ban Khai",
+        "id": "210500",
+        "th": "บ้านค่าย"
+      },
+      {
+        "en": "Ban Chang",
+        "id": "210200",
+        "th": "บ้านฉาง"
+      },
+      {
+        "en": "Pluak Daeng",
+        "id": "210600",
+        "th": "ปลวกแดง"
+      },
+      {
+        "en": "Mueang Rayong",
+        "id": "210100",
+        "th": "เมืองระยอง"
+      },
+      {
+        "en": "Wang Chan",
+        "id": "210400",
+        "th": "วังจันทร์"
+      }
+    ]
+  },
+  {
+    "province_id": "700000",
+    "province_th": "ราชบุรี",
+    "province_en": "Ratchaburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Chom Bueng",
+        "id": "700200",
+        "th": "จอมบึง"
+      },
+      {
+        "en": "Damnoen Saduak",
+        "id": "700400",
+        "th": "ดำเนินสะดวก"
+      },
+      {
+        "en": "Bang Phae",
+        "id": "700600",
+        "th": "บางแพ"
+      },
+      {
+        "en": "Ban Kha",
+        "id": "701000",
+        "th": "บ้านคา"
+      },
+      {
+        "en": "Ban Pong",
+        "id": "700500",
+        "th": "บ้านโป่ง"
+      },
+      {
+        "en": "Pak Tho",
+        "id": "700800",
+        "th": "ปากท่อ"
+      },
+      {
+        "en": "Photharam",
+        "id": "700700",
+        "th": "โพธาราม"
+      },
+      {
+        "en": "Mueang Ratchaburi",
+        "id": "700100",
+        "th": "เมืองราชบุรี"
+      },
+      {
+        "en": "Wat Phleng",
+        "id": "700900",
+        "th": "วัดเพลง"
+      },
+      {
+        "en": "Suan Phueng",
+        "id": "700300",
+        "th": "สวนผึ้ง"
+      }
+    ]
+  },
+  {
+    "province_id": "160000",
+    "province_th": "ลพบุรี",
+    "province_en": "Lopburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Khok Charoen",
+        "id": "160900",
+        "th": "โคกเจริญ"
+      },
+      {
+        "en": "Khok Samrong",
+        "id": "160300",
+        "th": "โคกสำโรง"
+      },
+      {
+        "en": "Chai Badan",
+        "id": "160400",
+        "th": "ชัยบาดาล"
+      },
+      {
+        "en": "Tha Wung",
+        "id": "160500",
+        "th": "ท่าวุ้ง"
+      },
+      {
+        "en": "Tha Luang",
+        "id": "160700",
+        "th": "ท่าหลวง"
+      },
+      {
+        "en": "Ban Mi",
+        "id": "160600",
+        "th": "บ้านหมี่"
+      },
+      {
+        "en": "Phatthana Nikhom",
+        "id": "160200",
+        "th": "พัฒนานิคม"
+      },
+      {
+        "en": "Mueang Lopburi",
+        "id": "160100",
+        "th": "เมืองลพบุรี"
+      },
+      {
+        "en": "Lam Sonthi",
+        "id": "161000",
+        "th": "ลำสนธิ"
+      },
+      {
+        "en": "Sa Bot",
+        "id": "160800",
+        "th": "สระโบสถ์"
+      },
+      {
+        "en": "Nong Muang",
+        "id": "161100",
+        "th": "หนองม่วง"
+      }
+    ]
+  },
+  {
+    "province_id": "520000",
+    "province_th": "ลำปาง",
+    "province_en": "Lampang",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Ko Kha",
+        "id": "520300",
+        "th": "เกาะคา"
+      },
+      {
+        "en": "Ngao",
+        "id": "520500",
+        "th": "งาว"
+      },
+      {
+        "en": "Chae Hom",
+        "id": "520600",
+        "th": "แจ้ห่ม"
+      },
+      {
+        "en": "Thoen",
+        "id": "520800",
+        "th": "เถิน"
+      },
+      {
+        "en": "Mueang Pan",
+        "id": "521300",
+        "th": "เมืองปาน"
+      },
+      {
+        "en": "Mueang Lampang",
+        "id": "520100",
+        "th": "เมืองลำปาง"
+      },
+      {
+        "en": "Mae Tha Lampang",
+        "id": "521000",
+        "th": "แม่ทะ"
+      },
+      {
+        "en": "Mae Mo",
+        "id": "520200",
+        "th": "แม่เมาะ"
+      },
+      {
+        "en": "Wang Nuea",
+        "id": "520700",
+        "th": "วังเหนือ"
+      },
+      {
+        "en": "Sop Prap",
+        "id": "521100",
+        "th": "สบปราบ"
+      },
+      {
+        "en": "Soem Ngam",
+        "id": "520400",
+        "th": "เสริมงาม"
+      },
+      {
+        "en": "Hang Chat",
+        "id": "521200",
+        "th": "ห้างฉัตร"
+      },
+      {
+        "en": "Mae Phrik",
+        "id": "520900",
+        "th": "แม่พริก"
+      }
+    ]
+  },
+  {
+    "province_id": "510000",
+    "province_th": "ลำพูน",
+    "province_en": "Lamphun",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Pa Sang",
+        "id": "510600",
+        "th": "ป่าซาง"
+      },
+      {
+        "en": "Thung Hua Chang",
+        "id": "510500",
+        "th": "ทุ่งหัวช้าง"
+      },
+      {
+        "en": "Ban Thi",
+        "id": "510700",
+        "th": "บ้านธิ"
+      },
+      {
+        "en": "Ban Hong",
+        "id": "510300",
+        "th": "บ้านโฮ่ง"
+      },
+      {
+        "en": "Mueang Lamphun",
+        "id": "510100",
+        "th": "เมืองลำพูน"
+      },
+      {
+        "en": "Mae Tha, Lamphun",
+        "id": "510200",
+        "th": "แม่ทา"
+      },
+      {
+        "en": "Li",
+        "id": "510400",
+        "th": "ลี้"
+      },
+      {
+        "en": "Wiang Nong Long",
+        "id": "510800",
+        "th": "เวียงหนองล่อง"
+      }
+    ]
+  },
+  {
+    "province_id": "420000",
+    "province_th": "เลย",
+    "province_en": "Loei",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Chiang Khan",
+        "id": "420300",
+        "th": "เชียงคาน"
+      },
+      {
+        "en": "Dan Sai",
+        "id": "420500",
+        "th": "ด่านซ้าย"
+      },
+      {
+        "en": "Tha Li",
+        "id": "420800",
+        "th": "ท่าลี่"
+      },
+      {
+        "en": "Na Duang",
+        "id": "420200",
+        "th": "นาด้วง"
+      },
+      {
+        "en": "Na Haeo",
+        "id": "420600",
+        "th": "นาแห้ว"
+      },
+      {
+        "en": "Pak Chom",
+        "id": "420400",
+        "th": "ปากชม"
+      },
+      {
+        "en": "Pha Khao",
+        "id": "421200",
+        "th": "ผาขาว"
+      },
+      {
+        "en": "Phu Kradueng",
+        "id": "421000",
+        "th": "ภูกระดึง"
+      },
+      {
+        "en": "Phu Ruea",
+        "id": "420700",
+        "th": "ภูเรือ"
+      },
+      {
+        "en": "Phu Luang",
+        "id": "421100",
+        "th": "ภูหลวง"
+      },
+      {
+        "en": "Mueang Loei",
+        "id": "420100",
+        "th": "เมืองเลย"
+      },
+      {
+        "en": "Wang Saphung",
+        "id": "420900",
+        "th": "วังสะพุง"
+      },
+      {
+        "en": "Nong Hin",
+        "id": "421400",
+        "th": "หนองหิน"
+      },
+      {
+        "en": "Erawan",
+        "id": "421300",
+        "th": "เอราวัณ"
+      }
+    ]
+  },
+  {
+    "province_id": "330000",
+    "province_th": "ศรีสะเกษ",
+    "province_en": "Sisaket",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Non Khun",
+        "id": "331300",
+        "th": "โนนคูณ"
+      },
+      {
+        "en": "Kantharalak",
+        "id": "330400",
+        "th": "กันทรลักษ์"
+      },
+      {
+        "en": "Kanthararom",
+        "id": "330300",
+        "th": "กันทรารมย์"
+      },
+      {
+        "en": "Khukhan",
+        "id": "330500",
+        "th": "ขุขันธ์"
+      },
+      {
+        "en": "Khun Han",
+        "id": "330800",
+        "th": "ขุนหาญ"
+      },
+      {
+        "en": "Nam Kliang",
+        "id": "331500",
+        "th": "น้ำเกลี้ยง"
+      },
+      {
+        "en": "Bueng Bun",
+        "id": "331100",
+        "th": "บึงบูรพ์"
+      },
+      {
+        "en": "Benchalak",
+        "id": "331900",
+        "th": "เบญจลักษ์"
+      },
+      {
+        "en": "Prang Ku",
+        "id": "330700",
+        "th": "ปรางค์กู่"
+      },
+      {
+        "en": "Phayu",
+        "id": "332000",
+        "th": "พยุห์"
+      },
+      {
+        "en": "Pho Si Suwan",
+        "id": "332100",
+        "th": "โพธิ์ศรีสุวรรณ"
+      },
+      {
+        "en": "Phrai Bueng",
+        "id": "330600",
+        "th": "ไพรบึง"
+      },
+      {
+        "en": "Phu Sing",
+        "id": "331700",
+        "th": "ภูสิงห์"
+      },
+      {
+        "en": "Mueang Chan",
+        "id": "331800",
+        "th": "เมืองจันทร์"
+      },
+      {
+        "en": "Mueang Sisaket",
+        "id": "330100",
+        "th": "เมืองศรีสะเกษ"
+      },
+      {
+        "en": "Yang Chum Noi",
+        "id": "330200",
+        "th": "ยางชุมน้อย"
+      },
+      {
+        "en": "Rasi Salai",
+        "id": "330900",
+        "th": "ราษีไศล"
+      },
+      {
+        "en": "Wang Hin",
+        "id": "331600",
+        "th": "วังหิน"
+      },
+      {
+        "en": "Si Rattana",
+        "id": "331400",
+        "th": "ศรีรัตนะ"
+      },
+      {
+        "en": "Sila Lat",
+        "id": "332200",
+        "th": "ศิลาลาด"
+      },
+      {
+        "en": "Huai Thap Than",
+        "id": "331200",
+        "th": "ห้วยทับทัน"
+      },
+      {
+        "en": "Uthumphon Phisai",
+        "id": "331000",
+        "th": "อุทุมพรพิสัย"
+      }
+    ]
+  },
+  {
+    "province_id": "470000",
+    "province_th": "สกลนคร",
+    "province_en": "Sakon Nakhon",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kut Bak",
+        "id": "470300",
+        "th": "กุดบาก"
+      },
+      {
+        "en": "Kusuman",
+        "id": "470200",
+        "th": "กุสุมาลย์"
+      },
+      {
+        "en": "Kham Ta Kla",
+        "id": "470900",
+        "th": "คำตากล้า"
+      },
+      {
+        "en": "Khok Si Suphan",
+        "id": "471500",
+        "th": "โคกศรีสุพรรณ"
+      },
+      {
+        "en": "Charoen Sin",
+        "id": "471600",
+        "th": "เจริญศิลป์"
+      },
+      {
+        "en": "Tao Ngoi",
+        "id": "471400",
+        "th": "เต่างอย"
+      },
+      {
+        "en": "Nikhom Nam Un",
+        "id": "470700",
+        "th": "นิคมน้ำอูน"
+      },
+      {
+        "en": "Ban Muang",
+        "id": "471000",
+        "th": "บ้านม่วง"
+      },
+      {
+        "en": "Phang Khon",
+        "id": "470500",
+        "th": "พังโคน"
+      },
+      {
+        "en": "Phon Na Kaeo",
+        "id": "471700",
+        "th": "โพนนาแก้ว"
+      },
+      {
+        "en": "Phu Phan",
+        "id": "471800",
+        "th": "ภูพาน"
+      },
+      {
+        "en": "Mueang Sakon Nakhon",
+        "id": "470100",
+        "th": "เมืองสกลนคร"
+      },
+      {
+        "en": "Wanon Niwat",
+        "id": "470800",
+        "th": "วานรนิวาส"
+      },
+      {
+        "en": "Waritchaphum",
+        "id": "470600",
+        "th": "วาริชภูมิ"
+      },
+      {
+        "en": "Sawang Daen Din",
+        "id": "471200",
+        "th": "สว่างแดนดิน"
+      },
+      {
+        "en": "Song Dao",
+        "id": "471300",
+        "th": "ส่องดาว"
+      },
+      {
+        "en": "Akat Amnuai",
+        "id": "471100",
+        "th": "อากาศอำนวย"
+      },
+      {
+        "en": "Phanna Nikhom",
+        "id": "470400",
+        "th": "พรรณานิคม"
+      }
+    ]
+  },
+  {
+    "province_id": "900000",
+    "province_th": "สงขลา",
+    "province_en": "Songkhla",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Krasae Sin",
+        "id": "900800",
+        "th": "กระแสสินธุ์"
+      },
+      {
+        "en": "Khlong Hoi Khong",
+        "id": "901600",
+        "th": "คลองหอยโข่ง"
+      },
+      {
+        "en": "Khuan Niang",
+        "id": "901300",
+        "th": "ควนเนียง"
+      },
+      {
+        "en": "Chana",
+        "id": "900300",
+        "th": "จะนะ"
+      },
+      {
+        "en": "Thepha",
+        "id": "900500",
+        "th": "เทพา"
+      },
+      {
+        "en": "Na Thawi",
+        "id": "900400",
+        "th": "นาทวี"
+      },
+      {
+        "en": "Na Mom",
+        "id": "901200",
+        "th": "นาหม่อม"
+      },
+      {
+        "en": "Bang Klam",
+        "id": "901400",
+        "th": "บางกล่ำ"
+      },
+      {
+        "en": "Mueang Songkhla",
+        "id": "900100",
+        "th": "เมืองสงขลา"
+      },
+      {
+        "en": "Ranot",
+        "id": "900700",
+        "th": "ระโนด"
+      },
+      {
+        "en": "Rattaphum",
+        "id": "900900",
+        "th": "รัตภูมิ"
+      },
+      {
+        "en": "Sathing Phra",
+        "id": "900200",
+        "th": "สทิงพระ"
+      },
+      {
+        "en": "Sadao",
+        "id": "901000",
+        "th": "สะเดา"
+      },
+      {
+        "en": "Saba Yoi",
+        "id": "900600",
+        "th": "สะบ้าย้อย"
+      },
+      {
+        "en": "Singhanakhon",
+        "id": "901500",
+        "th": "สิงหนคร"
+      },
+      {
+        "en": "Hat Yai",
+        "id": "901100",
+        "th": "หาดใหญ่"
+      }
+    ]
+  },
+  {
+    "province_id": "910000",
+    "province_th": "สตูล",
+    "province_en": "Satun",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Khuan Kalong",
+        "id": "910300",
+        "th": "ควนกาหลง"
+      },
+      {
+        "en": "Khuan Don",
+        "id": "910200",
+        "th": "ควนโดน"
+      },
+      {
+        "en": "Tha Phae",
+        "id": "910400",
+        "th": "ท่าแพ"
+      },
+      {
+        "en": "Thung Wa",
+        "id": "910600",
+        "th": "ทุ่งหว้า"
+      },
+      {
+        "en": "Manang",
+        "id": "910700",
+        "th": "มะนัง"
+      },
+      {
+        "en": "Mueang Satun",
+        "id": "910100",
+        "th": "เมืองสตูล"
+      },
+      {
+        "en": "La-ngu",
+        "id": "910500",
+        "th": "ละงู"
+      }
+    ]
+  },
+  {
+    "province_id": "110000",
+    "province_th": "สมุทรปราการ",
+    "province_en": "Samut Prakan",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Bang Bo",
+        "id": "110200",
+        "th": "บางบ่อ"
+      },
+      {
+        "en": "Bang Phli",
+        "id": "110300",
+        "th": "บางพลี"
+      },
+      {
+        "en": "Bang Sao Thong",
+        "id": "110600",
+        "th": "บางเสาธง"
+      },
+      {
+        "en": "Phra Pradaeng",
+        "id": "110400",
+        "th": "พระประแดง"
+      },
+      {
+        "en": "Phra Samut Chedi",
+        "id": "110500",
+        "th": "พระสมุทรเจดีย์"
+      },
+      {
+        "en": "Mueang Samut Prakan",
+        "id": "110100",
+        "th": "เมืองสมุทรปราการ"
+      }
+    ]
+  },
+  {
+    "province_id": "750000",
+    "province_th": "สมุทรสงคราม",
+    "province_en": "Samut Songkhram",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Bang Khonthi",
+        "id": "750200",
+        "th": "บางคนที"
+      },
+      {
+        "en": "Mueang Samut Songkhram",
+        "id": "750100",
+        "th": "เมืองสมุทรสงคราม"
+      },
+      {
+        "en": "Amphawa",
+        "id": "750300",
+        "th": "อัมพวา"
+      }
+    ]
+  },
+  {
+    "province_id": "740000",
+    "province_th": "สมุทรสาคร",
+    "province_en": "Samut Sakhon",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Krathum Baen",
+        "id": "740200",
+        "th": "กระทุ่มแบน"
+      },
+      {
+        "en": "Ban Phaeo",
+        "id": "740300",
+        "th": "บ้านแพ้ว"
+      },
+      {
+        "en": "Mueang Samut Sakhon",
+        "id": "740100",
+        "th": "เมืองสมุทรสาคร"
+      }
+    ]
+  },
+  {
+    "province_id": "270000",
+    "province_th": "สระแก้ว",
+    "province_en": "Sa Kaeo",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Ta Phraya",
+        "id": "270300",
+        "th": "ตาพระยา"
+      },
+      {
+        "en": "Khao Chakan",
+        "id": "270700",
+        "th": "เขาฉกรรจ์"
+      },
+      {
+        "en": "Khlong Hat",
+        "id": "270200",
+        "th": "คลองหาด"
+      },
+      {
+        "en": "Khok Sung",
+        "id": "270800",
+        "th": "โคกสูง"
+      },
+      {
+        "en": "Mueang Sa Kaeo",
+        "id": "270100",
+        "th": "เมืองสระแก้ว"
+      },
+      {
+        "en": "Wang Nam Yen",
+        "id": "270400",
+        "th": "วังน้ำเย็น"
+      },
+      {
+        "en": "Wang Sombun",
+        "id": "270900",
+        "th": "วังสมบูรณ์"
+      },
+      {
+        "en": "Watthana Nakhon",
+        "id": "270500",
+        "th": "วัฒนานคร"
+      },
+      {
+        "en": "Aranyaprathet",
+        "id": "270600",
+        "th": "อรัญประเทศ"
+      }
+    ]
+  },
+  {
+    "province_id": "190000",
+    "province_th": "สระบุรี",
+    "province_en": "Saraburi",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Kaeng Khoi",
+        "id": "190200",
+        "th": "แก่งคอย"
+      },
+      {
+        "en": "Chaloem Phra Kiat",
+        "id": "191300",
+        "th": "เฉลิมพระเกียรติ"
+      },
+      {
+        "en": "Don Phut",
+        "id": "190700",
+        "th": "ดอนพุด"
+      },
+      {
+        "en": "Ban Mo",
+        "id": "190600",
+        "th": "บ้านหมอ"
+      },
+      {
+        "en": "Phra Phutthabat",
+        "id": "190900",
+        "th": "พระพุทธบาท"
+      },
+      {
+        "en": "Muak Lek",
+        "id": "191100",
+        "th": "มวกเหล็ก"
+      },
+      {
+        "en": "Mueang Saraburi",
+        "id": "190100",
+        "th": "เมืองสระบุรี"
+      },
+      {
+        "en": "Wang Muang",
+        "id": "191200",
+        "th": "วังม่วง"
+      },
+      {
+        "en": "Wihan Daeng",
+        "id": "190400",
+        "th": "วิหารแดง"
+      },
+      {
+        "en": "Sao Hai",
+        "id": "191000",
+        "th": "เสาไห้"
+      },
+      {
+        "en": "Nong Khae",
+        "id": "190300",
+        "th": "หนองแค"
+      },
+      {
+        "en": "Nong Saeng",
+        "id": "190500",
+        "th": "หนองแซง"
+      },
+      {
+        "en": "Nong Don",
+        "id": "190800",
+        "th": "หนองโดน"
+      }
+    ]
+  },
+  {
+    "province_id": "170000",
+    "province_th": "สิงห์บุรี",
+    "province_en": "Sing Buri",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Khai Bang Rachan",
+        "id": "170300",
+        "th": "ค่ายบางระจัน"
+      },
+      {
+        "en": "Tha Chang",
+        "id": "170500",
+        "th": "ท่าช้าง"
+      },
+      {
+        "en": "Bang Rachan",
+        "id": "170200",
+        "th": "บางระจัน"
+      },
+      {
+        "en": "Phrom Buri",
+        "id": "170400",
+        "th": "พรหมบุรี"
+      },
+      {
+        "en": "Mueang Sing Buri",
+        "id": "170100",
+        "th": "เมืองสิงห์บุรี"
+      },
+      {
+        "en": "In Buri",
+        "id": "170600",
+        "th": "อินทร์บุรี"
+      }
+    ]
+  },
+  {
+    "province_id": "640000",
+    "province_th": "สุโขทัย",
+    "province_en": "Sukhothai",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Kong Krailat",
+        "id": "640400",
+        "th": "กงไกรลาศ"
+      },
+      {
+        "en": "Khiri Mat",
+        "id": "640300",
+        "th": "คีรีมาศ"
+      },
+      {
+        "en": "Thung Saliam",
+        "id": "640900",
+        "th": "ทุ่งเสลี่ยม"
+      },
+      {
+        "en": "Ban Dan Lan Hoi",
+        "id": "640200",
+        "th": "บ้านด่านลานหอย"
+      },
+      {
+        "en": "Mueang Sukhothai",
+        "id": "640100",
+        "th": "เมืองสุโขทัย"
+      },
+      {
+        "en": "Si Nakhon",
+        "id": "640800",
+        "th": "ศรีนคร"
+      },
+      {
+        "en": "Si Satchanalai",
+        "id": "640500",
+        "th": "ศรีสัชนาลัย"
+      },
+      {
+        "en": "Si Samrong",
+        "id": "640600",
+        "th": "ศรีสำโรง"
+      },
+      {
+        "en": "Sawankhalok",
+        "id": "640700",
+        "th": "สวรรคโลก"
+      }
+    ]
+  },
+  {
+    "province_id": "720000",
+    "province_th": "สุพรรณบุรี",
+    "province_en": "Suphan Buri",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Don Chedi",
+        "id": "720600",
+        "th": "ดอนเจดีย์"
+      },
+      {
+        "en": "Dan Chang",
+        "id": "720300",
+        "th": "ด่านช้าง"
+      },
+      {
+        "en": "Doem Bang Nang Buat",
+        "id": "720200",
+        "th": "เดิมบางนางบวช"
+      },
+      {
+        "en": "Bang Pla Ma",
+        "id": "720400",
+        "th": "บางปลาม้า"
+      },
+      {
+        "en": "Mueang Suphanburi",
+        "id": "720100",
+        "th": "เมืองสุพรรณบุรี"
+      },
+      {
+        "en": "Si Prachan",
+        "id": "720500",
+        "th": "ศรีประจันต์"
+      },
+      {
+        "en": "Song Phi Nong",
+        "id": "720700",
+        "th": "สองพี่น้อง"
+      },
+      {
+        "en": "Sam Chuk",
+        "id": "720800",
+        "th": "สามชุก"
+      },
+      {
+        "en": "Nong Ya Sai",
+        "id": "721000",
+        "th": "หนองหญ้าไซ"
+      },
+      {
+        "en": "U Thong",
+        "id": "720900",
+        "th": "อู่ทอง"
+      }
+    ]
+  },
+  {
+    "province_id": "840000",
+    "province_th": "สุราษฎร์ธานี",
+    "province_en": "Surat Thani",
+    "region": "ใต้",
+    "amphur_j": [
+      {
+        "en": "Kanchanadit",
+        "id": "840200",
+        "th": "กาญจนดิษฐ์"
+      },
+      {
+        "en": "Ko Pha-ngan",
+        "id": "840500",
+        "th": "เกาะพะงัน"
+      },
+      {
+        "en": "Ko Samui",
+        "id": "840400",
+        "th": "เกาะสมุย"
+      },
+      {
+        "en": "Khiri Rat Nikhom",
+        "id": "840800",
+        "th": "คีรีรัฐนิคม"
+      },
+      {
+        "en": "Khian Sa",
+        "id": "841400",
+        "th": "เคียนซา"
+      },
+      {
+        "en": "Chai Buri",
+        "id": "841800",
+        "th": "ชัยบุรี"
+      },
+      {
+        "en": "Chaiya",
+        "id": "840600",
+        "th": "ไชยา"
+      },
+      {
+        "en": "Don Sak",
+        "id": "840300",
+        "th": "ดอนสัก"
+      },
+      {
+        "en": "Tha Chang",
+        "id": "841100",
+        "th": "ท่าฉาง"
+      },
+      {
+        "en": "Tha Chana",
+        "id": "840700",
+        "th": "ท่าชนะ"
+      },
+      {
+        "en": "Ban Ta Khun",
+        "id": "840900",
+        "th": "บ้านตาขุน"
+      },
+      {
+        "en": "Ban Na Doem",
+        "id": "841300",
+        "th": "บ้านนาเดิม"
+      },
+      {
+        "en": "Ban Na San",
+        "id": "841200",
+        "th": "บ้านนาสาร"
+      },
+      {
+        "en": "Phanom",
+        "id": "841000",
+        "th": "พนม"
+      },
+      {
+        "en": "Phrasaeng",
+        "id": "841600",
+        "th": "พระแสง"
+      },
+      {
+        "en": "Phunphin",
+        "id": "841700",
+        "th": "พุนพิน"
+      },
+      {
+        "en": "Mueang Surat Thani",
+        "id": "840100",
+        "th": "เมืองสุราษฎร์ธานี"
+      },
+      {
+        "en": "Vibhavadi",
+        "id": "841900",
+        "th": "วิภาวดี"
+      },
+      {
+        "en": "Wiang Sa",
+        "id": "841500",
+        "th": "เวียงสระ"
+      }
+    ]
+  },
+  {
+    "province_id": "320000",
+    "province_th": "สุรินทร์",
+    "province_en": "Surin",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kap Choeng",
+        "id": "320600",
+        "th": "กาบเชิง"
+      },
+      {
+        "en": "Khwao Sinarin",
+        "id": "321600",
+        "th": "เขวาสินรินทร์"
+      },
+      {
+        "en": "Chom Phra",
+        "id": "320400",
+        "th": "จอมพระ"
+      },
+      {
+        "en": "Chumphon Buri",
+        "id": "320200",
+        "th": "ชุมพลบุรี"
+      },
+      {
+        "en": "Tha Tum",
+        "id": "320300",
+        "th": "ท่าตูม"
+      },
+      {
+        "en": "Non Narai",
+        "id": "321700",
+        "th": "โนนนารายณ์"
+      },
+      {
+        "en": "Buachet",
+        "id": "321300",
+        "th": "บัวเชด"
+      },
+      {
+        "en": "Prasat",
+        "id": "320500",
+        "th": "ปราสาท"
+      },
+      {
+        "en": "Sanom",
+        "id": "320800",
+        "th": "สนม"
+      },
+      {
+        "en": "Phanom Dong Rak",
+        "id": "321400",
+        "th": "พนมดงรัก"
+      },
+      {
+        "en": "Mueang Surin",
+        "id": "320100",
+        "th": "เมืองสุรินทร์"
+      },
+      {
+        "en": "Rattanaburi",
+        "id": "320700",
+        "th": "รัตนบุรี"
+      },
+      {
+        "en": "Lamduan",
+        "id": "321100",
+        "th": "ลำดวน"
+      },
+      {
+        "en": "Si Narong",
+        "id": "321500",
+        "th": "ศรีณรงค์"
+      },
+      {
+        "en": "Sikhoraphum",
+        "id": "320900",
+        "th": "ศีขรภูมิ"
+      },
+      {
+        "en": "Sangkha",
+        "id": "321000",
+        "th": "สังขะ"
+      },
+      {
+        "en": "Samrong Thap",
+        "id": "321200",
+        "th": "สำโรงทาบ"
+      }
+    ]
+  },
+  {
+    "province_id": "430000",
+    "province_th": "หนองคาย",
+    "province_en": "Nong Khai",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Tha Bo",
+        "id": "430200",
+        "th": "ท่าบ่อ"
+      },
+      {
+        "en": "Fao Rai",
+        "id": "431500",
+        "th": "เฝ้าไร่"
+      },
+      {
+        "en": "Pho Tak",
+        "id": "431700",
+        "th": "โพธิ์ตาก"
+      },
+      {
+        "en": "Phon Phisai",
+        "id": "430500",
+        "th": "โพนพิสัย"
+      },
+      {
+        "en": "Mueang Nong Khai",
+        "id": "430100",
+        "th": "เมืองหนองคาย"
+      },
+      {
+        "en": "Rattanawapi",
+        "id": "431600",
+        "th": "รัตนวาปี"
+      },
+      {
+        "en": "Si Chiang Mai",
+        "id": "430700",
+        "th": "ศรีเชียงใหม่"
+      },
+      {
+        "en": "Sakhrai",
+        "id": "431400",
+        "th": "สระใคร"
+      },
+      {
+        "en": "Sangkhom",
+        "id": "430800",
+        "th": "สังคม"
+      }
+    ]
+  },
+  {
+    "province_id": "390000",
+    "province_th": "หนองบัวลำภู",
+    "province_en": "Nong Bua Lamphu",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Na Klang",
+        "id": "390200",
+        "th": "นากลาง"
+      },
+      {
+        "en": "Na Wang",
+        "id": "390600",
+        "th": "นาวัง"
+      },
+      {
+        "en": "Non Sang",
+        "id": "390300",
+        "th": "โนนสัง"
+      },
+      {
+        "en": "Mueang Nongbua Lamphu",
+        "id": "390100",
+        "th": "เมืองหนองบัวลำภู"
+      },
+      {
+        "en": "Si Bun Rueang",
+        "id": "390400",
+        "th": "ศรีบุญเรือง"
+      },
+      {
+        "en": "Suwannakhuha",
+        "id": "390500",
+        "th": "สุวรรณคูหา"
+      }
+    ]
+  },
+  {
+    "province_id": "150000",
+    "province_th": "อ่างทอง",
+    "province_en": "Ang Thong",
+    "region": "กลาง",
+    "amphur_j": [
+      {
+        "en": "Chaiyo",
+        "id": "150200",
+        "th": "ไชโย"
+      },
+      {
+        "en": "Pa Mok",
+        "id": "150300",
+        "th": "ป่าโมก"
+      },
+      {
+        "en": "Pho Thong",
+        "id": "150400",
+        "th": "โพธิ์ทอง"
+      },
+      {
+        "en": "Mueang Ang Thong",
+        "id": "150100",
+        "th": "เมืองอ่างทอง"
+      },
+      {
+        "en": "Wiset Chai Chan",
+        "id": "150600",
+        "th": "วิเศษชัยชาญ"
+      },
+      {
+        "en": "Samko",
+        "id": "150700",
+        "th": "สามโก้"
+      },
+      {
+        "en": "Sawaeng Ha",
+        "id": "150500",
+        "th": "แสวงหา"
+      }
+    ]
+  },
+  {
+    "province_id": "370000",
+    "province_th": "อำนาจเจริญ",
+    "province_en": "Amnat Charoen",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Chanuman",
+        "id": "370200",
+        "th": "ชานุมาน"
+      },
+      {
+        "en": "Pathum Ratchawongsa",
+        "id": "370300",
+        "th": "ปทุมราชวงศา"
+      },
+      {
+        "en": "Phana",
+        "id": "370400",
+        "th": "พนา"
+      },
+      {
+        "en": "Mueang Amnat Charoen",
+        "id": "370100",
+        "th": "เมืองอำนาจเจริญ"
+      },
+      {
+        "en": "Lue Amnat",
+        "id": "370700",
+        "th": "ลืออำนาจ"
+      },
+      {
+        "en": "Senangkhanikhom",
+        "id": "370500",
+        "th": "เสนางคนิคม"
+      },
+      {
+        "en": "Hua Taphan",
+        "id": "370600",
+        "th": "หัวตะพาน"
+      }
+    ]
+  },
+  {
+    "province_id": "410000",
+    "province_th": "อุดรธานี",
+    "province_en": "Udon Thani",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kut Chap",
+        "id": "410200",
+        "th": "กุดจับ"
+      },
+      {
+        "en": "Kumphawapi",
+        "id": "410400",
+        "th": "กุมภวาปี"
+      },
+      {
+        "en": "Ku Kaeo",
+        "id": "412400",
+        "th": "กู่แก้ว"
+      },
+      {
+        "en": "Chai Wan",
+        "id": "410800",
+        "th": "ไชยวาน"
+      },
+      {
+        "en": "Thung Fon",
+        "id": "410700",
+        "th": "ทุ่งฝน"
+      },
+      {
+        "en": "Na Yung",
+        "id": "412200",
+        "th": "นายูง"
+      },
+      {
+        "en": "Nam Som",
+        "id": "411800",
+        "th": "น้ำโสม"
+      },
+      {
+        "en": "Non Sa-at",
+        "id": "410500",
+        "th": "โนนสะอาด"
+      },
+      {
+        "en": "Ban Dung",
+        "id": "411100",
+        "th": "บ้านดุง"
+      },
+      {
+        "en": "Ban Phue",
+        "id": "411700",
+        "th": "บ้านผือ"
+      },
+      {
+        "en": "Prachaksinlapakhom",
+        "id": "412500",
+        "th": "ประจักษ์ศิลปาคม"
+      },
+      {
+        "en": "Phibun Rak",
+        "id": "412300",
+        "th": "พิบูลย์รักษ์"
+      },
+      {
+        "en": "Phen",
+        "id": "411900",
+        "th": "เพ็ญ"
+      },
+      {
+        "en": "Mueang Udon Thani",
+        "id": "410100",
+        "th": "เมืองอุดรธานี"
+      },
+      {
+        "en": "Wang Sam Mo",
+        "id": "411000",
+        "th": "วังสามหมอ"
+      },
+      {
+        "en": "Si That",
+        "id": "410900",
+        "th": "ศรีธาตุ"
+      },
+      {
+        "en": "Sang Khom",
+        "id": "412000",
+        "th": "สร้างคอม"
+      },
+      {
+        "en": "Nong Wua So",
+        "id": "410300",
+        "th": "หนองวัวซอ"
+      },
+      {
+        "en": "Nong Saeng",
+        "id": "412100",
+        "th": "หนองแสง"
+      },
+      {
+        "en": "Nong Han",
+        "id": "410600",
+        "th": "หนองหาน"
+      }
+    ]
+  },
+  {
+    "province_id": "530000",
+    "province_th": "อุตรดิตถ์",
+    "province_en": "Uttaradit",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Tron",
+        "id": "530200",
+        "th": "ตรอน"
+      },
+      {
+        "en": "Thong Saen Khan",
+        "id": "530900",
+        "th": "ทองแสนขัน"
+      },
+      {
+        "en": "Tha Pla",
+        "id": "530300",
+        "th": "ท่าปลา"
+      },
+      {
+        "en": "Nam Pat",
+        "id": "530400",
+        "th": "น้ำปาด"
+      },
+      {
+        "en": "Ban Khok",
+        "id": "530600",
+        "th": "บ้านโคก"
+      },
+      {
+        "en": "Phichai",
+        "id": "530700",
+        "th": "พิชัย"
+      },
+      {
+        "en": "Fak Tha",
+        "id": "530500",
+        "th": "ฟากท่า"
+      },
+      {
+        "en": "Mueang Uttaradit",
+        "id": "530100",
+        "th": "เมืองอุตรดิตถ์"
+      },
+      {
+        "en": "Laplae",
+        "id": "530800",
+        "th": "ลับแล"
+      }
+    ]
+  },
+  {
+    "province_id": "610000",
+    "province_th": "อุทัยธานี",
+    "province_en": "Uthai Thani",
+    "region": "เหนือ",
+    "amphur_j": [
+      {
+        "en": "Thap Than",
+        "id": "610200",
+        "th": "ทัพทัน"
+      },
+      {
+        "en": "Ban Rai",
+        "id": "610600",
+        "th": "บ้านไร่"
+      },
+      {
+        "en": "Lan Sak",
+        "id": "610700",
+        "th": "ลานสัก"
+      },
+      {
+        "en": "Sawang Arom",
+        "id": "610300",
+        "th": "สว่างอารมณ์"
+      },
+      {
+        "en": "Mueang Uthai Thani",
+        "id": "610100",
+        "th": "เมืองอุทัยธานี"
+      },
+      {
+        "en": "Nong Khayang",
+        "id": "610500",
+        "th": "หนองขาหย่าง"
+      },
+      {
+        "en": "Nong Chang",
+        "id": "610400",
+        "th": "หนองฉาง"
+      },
+      {
+        "en": "Huai Khot",
+        "id": "610800",
+        "th": "ห้วยคต"
+      }
+    ]
+  },
+  {
+    "province_id": "340000",
+    "province_th": "อุบลราชธานี",
+    "province_en": "Ubon Ratchathani",
+    "region": "ตะวันออกเฉียงเหนือ",
+    "amphur_j": [
+      {
+        "en": "Kut Khaopun",
+        "id": "341200",
+        "th": "กุดข้าวปุ้น"
+      },
+      {
+        "en": "Khemarat",
+        "id": "340500",
+        "th": "เขมราฐ"
+      },
+      {
+        "en": "Khueang Nai",
+        "id": "340400",
+        "th": "เขื่องใน"
+      },
+      {
+        "en": "Khong Chiam",
+        "id": "340300",
+        "th": "โขงเจียม"
+      },
+      {
+        "en": "Don Mot Daeng",
+        "id": "342400",
+        "th": "ดอนมดแดง"
+      },
+      {
+        "en": "Det Udom",
+        "id": "340700",
+        "th": "เดชอุดม"
+      },
+      {
+        "en": "Trakan Phuet Phon",
+        "id": "341100",
+        "th": "ตระการพืชผล"
+      },
+      {
+        "en": "Tan Sum",
+        "id": "342000",
+        "th": "ตาลสุม"
+      },
+      {
+        "en": "Thung Si Udom",
+        "id": "342600",
+        "th": "ทุ่งศรีอุดม"
+      },
+      {
+        "en": "Na Chaluai",
+        "id": "340800",
+        "th": "นาจะหลวย"
+      },
+      {
+        "en": "Na Tan",
+        "id": "343000",
+        "th": "นาตาล"
+      },
+      {
+        "en": "Na Yia",
+        "id": "342900",
+        "th": "นาเยีย"
+      },
+      {
+        "en": "Nam Khun",
+        "id": "343300",
+        "th": "น้ำขุ่น"
+      },
+      {
+        "en": "Nam Yuen",
+        "id": "340900",
+        "th": "น้ำยืน"
+      },
+      {
+        "en": "Buntharik",
+        "id": "341000",
+        "th": "บุณฑริก"
+      },
+      {
+        "en": "Phibun Mangsahan",
+        "id": "341900",
+        "th": "พิบูลมังสาหาร"
+      },
+      {
+        "en": "Pho Sai",
+        "id": "342100",
+        "th": "โพธิ์ไทร"
+      },
+      {
+        "en": "Muang Sam Sip",
+        "id": "341400",
+        "th": "ม่วงสามสิบ"
+      },
+      {
+        "en": "Mueang Ubon Ratchathani",
+        "id": "340100",
+        "th": "เมืองอุบลราชธานี"
+      },
+      {
+        "en": "Warin Chamrap",
+        "id": "341500",
+        "th": "วารินชำราบ"
+      },
+      {
+        "en": "Si Mueang Mai",
+        "id": "340200",
+        "th": "ศรีเมืองใหม่"
+      },
+      {
+        "en": "Sawang Wirawong",
+        "id": "343200",
+        "th": "สว่างวีระวงศ์"
+      },
+      {
+        "en": "Samrong",
+        "id": "342200",
+        "th": "สำโรง"
+      },
+      {
+        "en": "Sirindhorn",
+        "id": "342500",
+        "th": "สิรินธร"
+      },
+      {
+        "en": "Lao Suea Kok",
+        "id": "343100",
+        "th": "เหล่าเสือโก้ก"
+      }
+    ]
+  }
+]
