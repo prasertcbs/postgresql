@@ -1,4 +1,4 @@
-drop table if exists amphur_json.sql;
+drop table if exists amphur_json;
 
 CREATE TABLE amphur_json (
     province_id varchar(6),
