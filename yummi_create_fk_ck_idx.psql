@@ -94,23 +94,30 @@ drop index if exists customer_fname_idx;
 create index customer_fname_idx on customer(fname);
 
 -- create check constraints
+
+-- 0 <= price <= 2000
 ALTER TABLE menu DROP CONSTRAINT if exists menu_price_ck;
 ALTER TABLE menu
     ADD CONSTRAINT menu_price_ck CHECK (price between 0 and 2000);
 
+-- valid sizeid: 'S' or 'M' or 'L'
 ALTER TABLE menu DROP CONSTRAINT if exists menu_sizeid_ck;
 ALTER TABLE menu
     ADD CONSTRAINT menu_sizeid_ck CHECK (sizeid in ('S', 'M', 'L'));
 
+-- gender is either 'F' or 'M'
 ALTER TABLE customer DROP CONSTRAINT if exists customer_gender_ck;
 ALTER TABLE customer
     ADD CONSTRAINT customer_gender_ck CHECK (gender in ('F', 'M'));
 
+-- zipcode:
+-- 1st character: 1-9
+-- 2nd-5th character: 0-9
 ALTER TABLE customer DROP CONSTRAINT if exists customer_zipcode_ck;
 ALTER TABLE customer
     ADD CONSTRAINT customer_zipcode_ck CHECK (zipcode ~* '[1-9]\d{4}');
 
--- at least 2 characters
+-- fname contains at least 2 characters
 ALTER TABLE customer DROP CONSTRAINT if exists customer_fname_ck;
 ALTER TABLE customer
     ADD CONSTRAINT customer_fname_ck CHECK (fname ~* '[a-zA-Z]{2,}');
@@ -119,7 +126,7 @@ ALTER TABLE orderhdr DROP CONSTRAINT if exists orderhdr_noguest_ck;
 ALTER TABLE orderhdr
     ADD CONSTRAINT orderhdr_noguest_ck CHECK (noguest > 0);
 
-
+-- outtime > intime
 ALTER TABLE orderhdr DROP CONSTRAINT if exists orderhdr_outtime_ck;
 ALTER TABLE orderhdr
     ADD CONSTRAINT orderhdr_outtime_ck CHECK (outtime > intime);
