@@ -11,7 +11,7 @@ CREATE TABLE baskin31
     sugars_g int,
     weight_watchers int,
     category varchar(100)
-)
+);
 
 
 INSERT INTO baskin31 VALUES ('Berry Waffle Crunch 31º Below® – Large', '24 oz', 1030, 28, 157, 450, 120, 28, '31º Below Mix');
