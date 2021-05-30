@@ -53,4 +53,3 @@ INSERT INTO cat VALUES ('Tonkinese', NULL, 'https://www.purina.com/cats/cat-bree
 INSERT INTO cat VALUES ('Toyger', NULL, 'https://www.purina.com/breeds/toyger-cat-breed', 'https://www.purina.com/sites/g/files/auxxlc196/files/Toyger_body_7.jpg');
 INSERT INTO cat VALUES ('Turkish Angora', 'The Turkish Angora may have been the first longhair cat breed in Europe, and maintains the status of a national treasure in her native country, Turkey.', 'https://www.purina.com/cats/cat-breeds/turkish-angora', 'https://www.purina.com/sites/g/files/auxxlc196/files/TurkishAngora_body_7.jpg');
 INSERT INTO cat VALUES ('Turkish Van', NULL, 'https://www.purina.com/cats/cat-breeds/turkish-van', 'https://www.purina.com/sites/g/files/auxxlc196/files/TurkishVan_body_7.jpg');
-
