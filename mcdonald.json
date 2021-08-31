@@ -1,0 +1,7402 @@
+[
+  {
+    "menu": "Triple Cheeseburger",
+    "calories": 520,
+    "sodium_mg": 1180,
+    "carb_g": 35,
+    "sugar_g": 7,
+    "protein_g": 32,
+    "weight_watchers": 14,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Cheddar Bacon Onion Grilled Chicken Sandwich",
+    "calories": 360,
+    "sodium_mg": 1600,
+    "carb_g": 6,
+    "sugar_g": 2,
+    "protein_g": 44,
+    "weight_watchers": 7,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Clubhouse Burger",
+    "calories": 730,
+    "sodium_mg": 1280,
+    "carb_g": 49,
+    "sugar_g": 12,
+    "protein_g": 40,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Premium Grilled Chicken Bacon Clubhouse Sandwich",
+    "calories": 280,
+    "sodium_mg": 1290,
+    "carb_g": 4,
+    "sugar_g": 2,
+    "protein_g": 39,
+    "weight_watchers": 5,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Filet-O-Fish",
+    "calories": 540,
+    "sodium_mg": 790,
+    "carb_g": 47,
+    "sugar_g": 5,
+    "protein_g": 28,
+    "weight_watchers": 15,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich",
+    "calories": 780,
+    "sodium_mg": 1550,
+    "carb_g": 68,
+    "sugar_g": 12,
+    "protein_g": 40,
+    "weight_watchers": 22,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Buffalo Ranch McChicken",
+    "calories": 360,
+    "sodium_mg": 800,
+    "carb_g": 39,
+    "sugar_g": 5,
+    "protein_g": 15,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Buffalo Ranch McChicken",
+    "calories": 430,
+    "sodium_mg": 1040,
+    "carb_g": 40,
+    "sugar_g": 6,
+    "protein_g": 20,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Southern Style Buttermilk Crispy Chicken Sandwich",
+    "calories": 470,
+    "sodium_mg": 950,
+    "carb_g": 48,
+    "sugar_g": 5,
+    "protein_g": 25,
+    "weight_watchers": 13,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Big Mac",
+    "calories": 540,
+    "sodium_mg": 940,
+    "carb_g": 46,
+    "sugar_g": 9,
+    "protein_g": 25,
+    "weight_watchers": 16,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter-Pounder",
+    "calories": 440,
+    "sodium_mg": 710,
+    "carb_g": 40,
+    "sugar_g": 9,
+    "protein_g": 26,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Quarter Pounder with Cheese",
+    "calories": 780,
+    "sodium_mg": 1310,
+    "carb_g": 43,
+    "sugar_g": 10,
+    "protein_g": 51,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Hamburger",
+    "calories": 250,
+    "sodium_mg": 480,
+    "carb_g": 31,
+    "sugar_g": 6,
+    "protein_g": 13,
+    "weight_watchers": 8,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Hot 'n Spicy McChicken",
+    "calories": 420,
+    "sodium_mg": 590,
+    "carb_g": 39,
+    "sugar_g": 5,
+    "protein_g": 14,
+    "weight_watchers": 13,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Cheeseburger",
+    "calories": 300,
+    "sodium_mg": 680,
+    "carb_g": 33,
+    "sugar_g": 5,
+    "protein_g": 14,
+    "weight_watchers": 9,
+    "category": "Burgers"
+  },
+  {
+    "menu": "BBQ Ranch Burger",
+    "calories": 350,
+    "sodium_mg": 670,
+    "carb_g": 36,
+    "sugar_g": 7,
+    "protein_g": 15,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Grilled Onion Cheddar",
+    "calories": 310,
+    "sodium_mg": 580,
+    "carb_g": 31,
+    "sugar_g": 6,
+    "protein_g": 15,
+    "weight_watchers": 9,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Cheeseburger",
+    "calories": 440,
+    "sodium_mg": 1050,
+    "carb_g": 34,
+    "sugar_g": 7,
+    "protein_g": 25,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "McDouble",
+    "calories": 390,
+    "sodium_mg": 850,
+    "carb_g": 33,
+    "sugar_g": 7,
+    "protein_g": 22,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon McDouble",
+    "calories": 450,
+    "sodium_mg": 1090,
+    "carb_g": 34,
+    "sugar_g": 7,
+    "protein_g": 28,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Cheddar Hot 'n Spicy McChicken",
+    "calories": 530,
+    "sodium_mg": 1040,
+    "carb_g": 41,
+    "sugar_g": 6,
+    "protein_g": 22,
+    "weight_watchers": 15,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Daily Double",
+    "calories": 510,
+    "sodium_mg": 780,
+    "carb_g": 38,
+    "sugar_g": 7,
+    "protein_g": 24,
+    "weight_watchers": 15,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Buttermilk Crispy)",
+    "calories": 380,
+    "sodium_mg": 830,
+    "carb_g": 34,
+    "sugar_g": 2,
+    "protein_g": 16,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Grilled)",
+    "calories": 300,
+    "sodium_mg": 890,
+    "carb_g": 25,
+    "sugar_g": 2,
+    "protein_g": 21,
+    "weight_watchers": 8,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Mac Snack Wrap",
+    "calories": 340,
+    "sodium_mg": 660,
+    "carb_g": 26,
+    "sugar_g": 2,
+    "protein_g": 15,
+    "weight_watchers": 10,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Jalapeño Double",
+    "calories": 440,
+    "sodium_mg": 990,
+    "carb_g": 34,
+    "sugar_g": 6,
+    "protein_g": 23,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter Pounder Deluxe",
+    "calories": 650,
+    "sodium_mg": 1180,
+    "carb_g": 44,
+    "sugar_g": 11,
+    "protein_g": 32,
+    "weight_watchers": 19,
+    "category": "Burgers"
+  },
+  {
+    "menu": "McTeri Deluxe",
+    "calories": 620,
+    "sodium_mg": 1190,
+    "carb_g": 57,
+    "sugar_g": 25,
+    "protein_g": 28,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Homestyle Burger",
+    "calories": 500,
+    "sodium_mg": 640,
+    "carb_g": 3,
+    "sugar_g": 0,
+    "protein_g": 40,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Double Cheeseburger",
+    "calories": 500,
+    "sodium_mg": 1290,
+    "carb_g": 35,
+    "sugar_g": 8,
+    "protein_g": 30,
+    "weight_watchers": 14,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Denali Big Mac",
+    "calories": 840,
+    "sodium_mg": 1080,
+    "carb_g": 47,
+    "sugar_g": 9,
+    "protein_g": 50,
+    "weight_watchers": 22,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter Pounder Cheddar Bacon Onion",
+    "calories": 470,
+    "sodium_mg": 1060,
+    "carb_g": 7,
+    "sugar_g": 2,
+    "protein_g": 36,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Daily Double Burger Mustard Style",
+    "calories": 410,
+    "sodium_mg": 760,
+    "carb_g": 37,
+    "sugar_g": 7,
+    "protein_g": 24,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Grilled Onion Cheddar Burger",
+    "calories": 390,
+    "sodium_mg": 600,
+    "carb_g": 30,
+    "sugar_g": 5,
+    "protein_g": 24,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Grilled Onion Cheddar Burger Triple",
+    "calories": 530,
+    "sodium_mg": 920,
+    "carb_g": 32,
+    "sugar_g": 5,
+    "protein_g": 34,
+    "weight_watchers": 14,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Big Mac with Butter",
+    "calories": 560,
+    "sodium_mg": 940,
+    "carb_g": 46,
+    "sugar_g": 9,
+    "protein_g": 25,
+    "weight_watchers": 16,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Homestyle Burger",
+    "calories": 430,
+    "sodium_mg": 660,
+    "carb_g": 37,
+    "sugar_g": 7,
+    "protein_g": 26,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Cheeseburger Bacon",
+    "calories": 360,
+    "sodium_mg": 920,
+    "carb_g": 33,
+    "sugar_g": 7,
+    "protein_g": 26,
+    "weight_watchers": 10,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Triple Bacon Cheeseburger",
+    "calories": 590,
+    "sodium_mg": 1420,
+    "carb_g": 36,
+    "sugar_g": 8,
+    "protein_g": 38,
+    "weight_watchers": 16,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Hamburger New York",
+    "calories": 250,
+    "sodium_mg": 470,
+    "carb_g": 31,
+    "sugar_g": 6,
+    "protein_g": 13,
+    "weight_watchers": 8,
+    "category": "Burgers"
+  },
+  {
+    "menu": "cheeseburger New York",
+    "calories": 300,
+    "sodium_mg": 680,
+    "carb_g": 33,
+    "sugar_g": 7,
+    "protein_g": 15,
+    "weight_watchers": 9,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Triple Cheeseburger New York",
+    "calories": 520,
+    "sodium_mg": 1170,
+    "carb_g": 35,
+    "sugar_g": 7,
+    "protein_g": 32,
+    "weight_watchers": 14,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter Pounder Deluxe New York",
+    "calories": 630,
+    "sodium_mg": 1200,
+    "carb_g": 43,
+    "sugar_g": 11,
+    "protein_g": 31,
+    "weight_watchers": 18,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter Pounder New York",
+    "calories": 420,
+    "sodium_mg": 720,
+    "carb_g": 39,
+    "sugar_g": 9,
+    "protein_g": 26,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Green Chili Double Cheeseburger New York",
+    "calories": 390,
+    "sodium_mg": 760,
+    "carb_g": 33,
+    "sugar_g": 7,
+    "protein_g": 23,
+    "weight_watchers": 11,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Cheeseburger New York",
+    "calories": 430,
+    "sodium_mg": 1050,
+    "carb_g": 34,
+    "sugar_g": 7,
+    "protein_g": 25,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Cheeseburger Bacon New York",
+    "calories": 360,
+    "sodium_mg": 920,
+    "carb_g": 33,
+    "sugar_g": 7,
+    "protein_g": 20,
+    "weight_watchers": 10,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Double Cheeseburger New York",
+    "calories": 500,
+    "sodium_mg": 1290,
+    "carb_g": 35,
+    "sugar_g": 8,
+    "protein_g": 30,
+    "weight_watchers": 14,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Triple Bacon Cheeseburger New York",
+    "calories": 590,
+    "sodium_mg": 1410,
+    "carb_g": 36,
+    "sugar_g": 8,
+    "protein_g": 38,
+    "weight_watchers": 16,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon McDouble New York",
+    "calories": 450,
+    "sodium_mg": 1080,
+    "carb_g": 34,
+    "sugar_g": 7,
+    "protein_g": 28,
+    "weight_watchers": 12,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Quarter Pounder With Cheese New York",
+    "calories": 520,
+    "sodium_mg": 1130,
+    "carb_g": 42,
+    "sugar_g": 10,
+    "protein_g": 31,
+    "weight_watchers": 15,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Quarter Pounder With Cheese New York",
+    "calories": 750,
+    "sodium_mg": 1350,
+    "carb_g": 42,
+    "sugar_g": 10,
+    "protein_g": 51,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Signature Sriracha Burger on Artisan Roll",
+    "calories": 170,
+    "sodium_mg": 390,
+    "carb_g": 11,
+    "sugar_g": 1,
+    "protein_g": 6,
+    "weight_watchers": 5,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Double Lone Star Stack Burger",
+    "calories": 880,
+    "sodium_mg": 1550,
+    "carb_g": 56,
+    "sugar_g": 16,
+    "protein_g": 58,
+    "weight_watchers": 24,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Lone Star Stack Burger",
+    "calories": 720,
+    "sodium_mg": 1710,
+    "carb_g": 56,
+    "sugar_g": 16,
+    "protein_g": 43,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Quarter Pounder With Cheese",
+    "calories": 630,
+    "sodium_mg": 1470,
+    "carb_g": 40,
+    "sugar_g": 10,
+    "protein_g": 39,
+    "weight_watchers": 17,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Quarter Pounder With Cheese (Classic)",
+    "calories": 640,
+    "sodium_mg": 1480,
+    "carb_g": 44,
+    "sugar_g": 11,
+    "protein_g": 39,
+    "weight_watchers": 18,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Spain’s Grand McExtreme Bacon",
+    "calories": 750,
+    "sodium_mg": 1310,
+    "carb_g": 38,
+    "sugar_g": 8,
+    "protein_g": 43,
+    "weight_watchers": 20,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Spain’s Double Grand McExtreme Bacon",
+    "calories": 970,
+    "sodium_mg": 1520,
+    "carb_g": 38,
+    "sugar_g": 8,
+    "protein_g": 63,
+    "weight_watchers": 25,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Bacon Big Mac",
+    "calories": 630,
+    "sodium_mg": 1300,
+    "carb_g": 47,
+    "sugar_g": 9,
+    "protein_g": 33,
+    "weight_watchers": 18,
+    "category": "Burgers"
+  },
+  {
+    "menu": "Cheddar Bacon Onion Grilled Chciken Sandwich",
+    "calories": 360,
+    "sodium_mg": 1600,
+    "carb_g": 6,
+    "sugar_g": 2,
+    "protein_g": 44,
+    "weight_watchers": 7,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Grilled Chicken Bacon Clubhouse Sandwich",
+    "calories": 280,
+    "sodium_mg": 1290,
+    "carb_g": 4,
+    "sugar_g": 2,
+    "protein_g": 39,
+    "weight_watchers": 5,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Double Filet-O-Fish",
+    "calories": 540,
+    "sodium_mg": 790,
+    "carb_g": 47,
+    "sugar_g": 5,
+    "protein_g": 28,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich",
+    "calories": 780,
+    "sodium_mg": 1550,
+    "carb_g": 68,
+    "sugar_g": 12,
+    "protein_g": 40,
+    "weight_watchers": 22,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "McChicken",
+    "calories": 410,
+    "sodium_mg": 590,
+    "carb_g": 39,
+    "sugar_g": 5,
+    "protein_g": 15,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buffalo Ranch McChicken",
+    "calories": 360,
+    "sodium_mg": 800,
+    "carb_g": 39,
+    "sugar_g": 5,
+    "protein_g": 15,
+    "weight_watchers": 11,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Bacon Buffalo Ranch McChicken",
+    "calories": 430,
+    "sodium_mg": 1040,
+    "carb_g": 40,
+    "sugar_g": 6,
+    "protein_g": 20,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Bacon Cheddar McChicken",
+    "calories": 520,
+    "sodium_mg": 1030,
+    "carb_g": 41,
+    "sugar_g": 6,
+    "protein_g": 23,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Southern Style Buttermilk Crispy Chicken Sandwich",
+    "calories": 470,
+    "sodium_mg": 950,
+    "carb_g": 48,
+    "sugar_g": 5,
+    "protein_g": 17,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "McRib",
+    "calories": 480,
+    "sodium_mg": 890,
+    "carb_g": 45,
+    "sugar_g": 12,
+    "protein_g": 24,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Hot 'n Spicy McChicken",
+    "calories": 420,
+    "sodium_mg": 590,
+    "carb_g": 39,
+    "sugar_g": 5,
+    "protein_g": 14,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Bacon Cheddar Hot 'n Spicy McChicken",
+    "calories": 530,
+    "sodium_mg": 1040,
+    "carb_g": 41,
+    "sugar_g": 6,
+    "protein_g": 22,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (10 piece)",
+    "calories": 440,
+    "sodium_mg": 840,
+    "carb_g": 26,
+    "sugar_g": 0,
+    "protein_g": 24,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Buttermilk Crispy)",
+    "calories": 380,
+    "sodium_mg": 830,
+    "carb_g": 34,
+    "sugar_g": 2,
+    "protein_g": 16,
+    "weight_watchers": 11,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (20 piece)",
+    "calories": 890,
+    "sodium_mg": 1680,
+    "carb_g": 53,
+    "sugar_g": 0,
+    "protein_g": 49,
+    "weight_watchers": 23,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (6 piece)",
+    "calories": 270,
+    "sodium_mg": 510,
+    "carb_g": 16,
+    "sugar_g": 0,
+    "protein_g": 15,
+    "weight_watchers": 7,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (40 piece)",
+    "calories": 1770,
+    "sodium_mg": 3370,
+    "carb_g": 105,
+    "sugar_g": 1,
+    "protein_g": 98,
+    "weight_watchers": 45,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Bacon Ranch Salad with Buttermilk Crispy Chicken",
+    "calories": 480,
+    "sodium_mg": 1120,
+    "carb_g": 27,
+    "sugar_g": 3,
+    "protein_g": 13,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Grilled)",
+    "calories": 300,
+    "sodium_mg": 890,
+    "carb_g": 25,
+    "sugar_g": 2,
+    "protein_g": 21,
+    "weight_watchers": 8,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Bacon Ranch Salad with Grilled Chicken",
+    "calories": 480,
+    "sodium_mg": 1120,
+    "carb_g": 27,
+    "sugar_g": 3,
+    "protein_g": 33,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Southwest Salad with Buttermilk Crispy Chicken",
+    "calories": 520,
+    "sodium_mg": 960,
+    "carb_g": 46,
+    "sugar_g": 9,
+    "protein_g": 28,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Premium Southwest Salad with Grilled Chicken",
+    "calories": 350,
+    "sodium_mg": 1070,
+    "carb_g": 27,
+    "sugar_g": 9,
+    "protein_g": 37,
+    "weight_watchers": 9,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (4 piece)",
+    "calories": 180,
+    "sodium_mg": 340,
+    "carb_g": 11,
+    "sugar_g": 0,
+    "protein_g": 10,
+    "weight_watchers": 5,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Artisan Grilled Chicken Sandwich",
+    "calories": 380,
+    "sodium_mg": 1120,
+    "carb_g": 44,
+    "sugar_g": 11,
+    "protein_g": 36,
+    "weight_watchers": 10,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Sandwich",
+    "calories": 620,
+    "sodium_mg": 1030,
+    "carb_g": 63,
+    "sugar_g": 11,
+    "protein_g": 28,
+    "weight_watchers": 18,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Veggie McWrap",
+    "calories": 480,
+    "sodium_mg": 860,
+    "carb_g": 62,
+    "sugar_g": 13,
+    "protein_g": 15,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Chicken McNuggets (50 piece)",
+    "calories": 2210,
+    "sodium_mg": 4210,
+    "carb_g": 132,
+    "sugar_g": 1,
+    "protein_g": 122,
+    "weight_watchers": 56,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Lobster Roll",
+    "calories": 310,
+    "sodium_mg": 630,
+    "carb_g": 34,
+    "sugar_g": 3,
+    "protein_g": 24,
+    "weight_watchers": 8,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "McChicken Deluxe",
+    "calories": 490,
+    "sodium_mg": 830,
+    "carb_g": 47,
+    "sugar_g": 7,
+    "protein_g": 18,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Old Bay Double Dilet-O-Fish Sandwich",
+    "calories": 540,
+    "sodium_mg": 770,
+    "carb_g": 49,
+    "sugar_g": 5,
+    "protein_g": 29,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Old Bay Filet-O-Fish Sandwich",
+    "calories": 420,
+    "sodium_mg": 650,
+    "carb_g": 40,
+    "sugar_g": 5,
+    "protein_g": 18,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Jalapeno McChicken",
+    "calories": 430,
+    "sodium_mg": 1030,
+    "carb_g": 43,
+    "sugar_g": 6,
+    "protein_g": 18,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Hot 'n Spicy McChicken Deluxe",
+    "calories": 500,
+    "sodium_mg": 840,
+    "carb_g": 47,
+    "sugar_g": 7,
+    "protein_g": 18,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "McChicken Scratch Biscuit",
+    "calories": 450,
+    "sodium_mg": 1080,
+    "carb_g": 49,
+    "sugar_g": 3,
+    "protein_g": 15,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "McGriddles Buttermilk Crispy Chicken",
+    "calories": 540,
+    "sodium_mg": 1320,
+    "carb_g": 61,
+    "sugar_g": 14,
+    "protein_g": 24,
+    "weight_watchers": 16,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Southern Style Chicken McGriddles",
+    "calories": 410,
+    "sodium_mg": 1160,
+    "carb_g": 51,
+    "sugar_g": 16,
+    "protein_g": 16,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Southern Style Chicken Biscuit Pressure Fried",
+    "calories": 440,
+    "sodium_mg": 1140,
+    "carb_g": 46,
+    "sugar_g": 4,
+    "protein_g": 15,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Cripsy Chicken Biscuit",
+    "calories": 570,
+    "sodium_mg": 1380,
+    "carb_g": 55,
+    "sugar_g": 2,
+    "protein_g": 24,
+    "weight_watchers": 16,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Southern Style Chicken Scratch Biscuit Pressure Fried",
+    "calories": 460,
+    "sodium_mg": 1160,
+    "carb_g": 49,
+    "sugar_g": 4,
+    "protein_g": 15,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Hot N Spicy McChicken Scratch Biscuit",
+    "calories": 460,
+    "sodium_mg": 1090,
+    "carb_g": 49,
+    "sugar_g": 3,
+    "protein_g": 14,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Tenders 2 pc",
+    "calories": 250,
+    "sodium_mg": 700,
+    "carb_g": 13,
+    "sugar_g": 0,
+    "protein_g": 20,
+    "weight_watchers": 6,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Tenders 4 pc",
+    "calories": 500,
+    "sodium_mg": 1390,
+    "carb_g": 25,
+    "sugar_g": 1,
+    "protein_g": 39,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Tenders 10 pc",
+    "calories": 1250,
+    "sodium_mg": 3480,
+    "carb_g": 63,
+    "sugar_g": 2,
+    "protein_g": 98,
+    "weight_watchers": 29,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Signature Sriracha Buttermilk Crispy Chicken on Artisan Roll",
+    "calories": 470,
+    "sodium_mg": 850,
+    "carb_g": 30,
+    "sugar_g": 1,
+    "protein_g": 25,
+    "weight_watchers": 13,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Signature Sriracha Artisan Grilled Chicken on Artisan Roll",
+    "calories": 230,
+    "sodium_mg": 690,
+    "carb_g": 10,
+    "sugar_g": 1,
+    "protein_g": 30,
+    "weight_watchers": 5,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Tenders 6 pc",
+    "calories": 750,
+    "sodium_mg": 2090,
+    "carb_g": 38,
+    "sugar_g": 1,
+    "protein_g": 59,
+    "weight_watchers": 18,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Tenders (20 piece)",
+    "calories": 2500,
+    "sodium_mg": 6950,
+    "carb_g": 126,
+    "sugar_g": 3,
+    "protein_g": 195,
+    "weight_watchers": 58,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chciken Tenders Pressure Fried (4 piece)",
+    "calories": 490,
+    "sodium_mg": 1420,
+    "carb_g": 21,
+    "sugar_g": 1,
+    "protein_g": 37,
+    "weight_watchers": 12,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Tenders Pressure Fried (10 piece)",
+    "calories": 1230,
+    "sodium_mg": 3540,
+    "carb_g": 51,
+    "sugar_g": 1,
+    "protein_g": 91,
+    "weight_watchers": 29,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Tenders Pressure Fried (2 piece)",
+    "calories": 250,
+    "sodium_mg": 710,
+    "carb_g": 10,
+    "sugar_g": 0,
+    "protein_g": 18,
+    "weight_watchers": 6,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Tenders Pressure Fried (6 piece)",
+    "calories": 740,
+    "sodium_mg": 2130,
+    "carb_g": 31,
+    "sugar_g": 1,
+    "protein_g": 55,
+    "weight_watchers": 18,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Buttermilk Crispy Chicken Tenders Pressure Fried (20 piece)",
+    "calories": 2380,
+    "sodium_mg": 7130,
+    "carb_g": 112,
+    "sugar_g": 1,
+    "protein_g": 210,
+    "weight_watchers": 53,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Ranch Snack Wrap Buttermilk Chicken Tender",
+    "calories": 360,
+    "sodium_mg": 870,
+    "carb_g": 31,
+    "sugar_g": 2,
+    "protein_g": 16,
+    "weight_watchers": 10,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Ultimate Chicken Sandwich Flash Finish",
+    "calories": 530,
+    "sodium_mg": 1390,
+    "carb_g": 61,
+    "sugar_g": 15,
+    "protein_g": 31,
+    "weight_watchers": 15,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Ultimate Chicken Tenders (4 piece)",
+    "calories": 420,
+    "sodium_mg": 1240,
+    "carb_g": 22,
+    "sugar_g": 2,
+    "protein_g": 38,
+    "weight_watchers": 10,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Tomato Mozzarella Grilled Chicken Sandwich",
+    "calories": 530,
+    "sodium_mg": 1380,
+    "carb_g": 48,
+    "sugar_g": 16,
+    "protein_g": 42,
+    "weight_watchers": 14,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Tomato Mozzarella Crispy Chicken Sandwich",
+    "calories": 690,
+    "sodium_mg": 1270,
+    "carb_g": 67,
+    "sugar_g": 16,
+    "protein_g": 33,
+    "weight_watchers": 20,
+    "category": "Chicken and Sandwiches"
+  },
+  {
+    "menu": "Fruit 'n Yogurt Parfait",
+    "calories": 210,
+    "sodium_mg": 75,
+    "carb_g": 40,
+    "sugar_g": 28,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Steak & Egg Burrito",
+    "calories": 350,
+    "sodium_mg": 950,
+    "carb_g": 38,
+    "sugar_g": 3,
+    "protein_g": 16,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Steak, Egg & Cheese Bagel",
+    "calories": 640,
+    "sodium_mg": 1440,
+    "carb_g": 54,
+    "sugar_g": 7,
+    "protein_g": 34,
+    "weight_watchers": 18,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage McMuffin with Egg",
+    "calories": 480,
+    "sodium_mg": 830,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 21,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Hotcakes and Sausage",
+    "calories": 780,
+    "sodium_mg": 880,
+    "carb_g": 103,
+    "sugar_g": 45,
+    "protein_g": 16,
+    "weight_watchers": 28,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Southern Style Chicken Biscuit",
+    "calories": 440,
+    "sodium_mg": 1220,
+    "carb_g": 45,
+    "sugar_g": 4,
+    "protein_g": 16,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Burrito",
+    "calories": 300,
+    "sodium_mg": 780,
+    "carb_g": 26,
+    "sugar_g": 2,
+    "protein_g": 13,
+    "weight_watchers": 9,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Fruit & Maple Oatmeal",
+    "calories": 310,
+    "sodium_mg": 140,
+    "carb_g": 62,
+    "sugar_g": 33,
+    "protein_g": 6,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Egg McMuffin",
+    "calories": 300,
+    "sodium_mg": 760,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 17,
+    "weight_watchers": 8,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Biscuit",
+    "calories": 450,
+    "sodium_mg": 1300,
+    "carb_g": 40,
+    "sugar_g": 3,
+    "protein_g": 18,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Biscuit",
+    "calories": 460,
+    "sodium_mg": 1050,
+    "carb_g": 36,
+    "sugar_g": 3,
+    "protein_g": 11,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Biscuit with Egg",
+    "calories": 530,
+    "sodium_mg": 1140,
+    "carb_g": 38,
+    "sugar_g": 3,
+    "protein_g": 17,
+    "weight_watchers": 15,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese McGriddles",
+    "calories": 420,
+    "sodium_mg": 1240,
+    "carb_g": 45,
+    "sugar_g": 15,
+    "protein_g": 18,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage McGriddles",
+    "calories": 430,
+    "sodium_mg": 990,
+    "carb_g": 42,
+    "sugar_g": 15,
+    "protein_g": 11,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage, Egg & Cheese McGriddles",
+    "calories": 550,
+    "sodium_mg": 1290,
+    "carb_g": 45,
+    "sugar_g": 15,
+    "protein_g": 20,
+    "weight_watchers": 17,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Bagel with Egg Whites",
+    "calories": 510,
+    "sodium_mg": 1240,
+    "carb_g": 53,
+    "sugar_g": 7,
+    "protein_g": 25,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast",
+    "calories": 750,
+    "sodium_mg": 1490,
+    "carb_g": 53,
+    "sugar_g": 3,
+    "protein_g": 25,
+    "weight_watchers": 21,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast with Hotcakes",
+    "calories": 1340,
+    "sodium_mg": 2090,
+    "carb_g": 155,
+    "sugar_g": 48,
+    "protein_g": 35,
+    "weight_watchers": 44,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Cinnamon Melts",
+    "calories": 460,
+    "sodium_mg": 370,
+    "carb_g": 66,
+    "sugar_g": 32,
+    "protein_g": 6,
+    "weight_watchers": 18,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Hotcakes",
+    "calories": 590,
+    "sodium_mg": 600,
+    "carb_g": 102,
+    "sugar_g": 45,
+    "protein_g": 9,
+    "weight_watchers": 23,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Egg White Delight",
+    "calories": 260,
+    "sodium_mg": 780,
+    "carb_g": 29,
+    "sugar_g": 3,
+    "protein_g": 16,
+    "weight_watchers": 7,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Hash Browns",
+    "calories": 150,
+    "sodium_mg": 320,
+    "carb_g": 16,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 5,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Scratch Biscuit",
+    "calories": 480,
+    "sodium_mg": 1310,
+    "carb_g": 43,
+    "sugar_g": 4,
+    "protein_g": 19,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Scratch Biscuit",
+    "calories": 490,
+    "sodium_mg": 1070,
+    "carb_g": 39,
+    "sugar_g": 3,
+    "protein_g": 12,
+    "weight_watchers": 15,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Scratch Biscuit with Egg",
+    "calories": 50,
+    "sodium_mg": 1160,
+    "carb_g": 41,
+    "sugar_g": 4,
+    "protein_g": 18,
+    "weight_watchers": 1,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Southern Style Chicken Scratch Biscuit",
+    "calories": 460,
+    "sodium_mg": 1240,
+    "carb_g": 48,
+    "sugar_g": 5,
+    "protein_g": 16,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage McMuffin with Egg Whites",
+    "calories": 460,
+    "sodium_mg": 770,
+    "carb_g": 29,
+    "sugar_g": 2,
+    "protein_g": 22,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese McGriddles with Egg Whites",
+    "calories": 380,
+    "sodium_mg": 1230,
+    "carb_g": 44,
+    "sugar_g": 15,
+    "protein_g": 18,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Biscuit with Egg Whites",
+    "calories": 410,
+    "sodium_mg": 1290,
+    "carb_g": 39,
+    "sugar_g": 3,
+    "protein_g": 18,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast with Egg Whites",
+    "calories": 670,
+    "sodium_mg": 1540,
+    "carb_g": 52,
+    "sugar_g": 3,
+    "protein_g": 24,
+    "weight_watchers": 19,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Fruit & Maple Oatmeal without Brown Sugar",
+    "calories": 260,
+    "sodium_mg": 115,
+    "carb_g": 49,
+    "sugar_g": 18,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Biscuit with Egg Whites",
+    "calories": 490,
+    "sodium_mg": 1140,
+    "carb_g": 36,
+    "sugar_g": 3,
+    "protein_g": 17,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage, Egg & Cheese McGriddles with Egg Whites",
+    "calories": 510,
+    "sodium_mg": 1270,
+    "carb_g": 44,
+    "sugar_g": 15,
+    "protein_g": 19,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Bagel",
+    "calories": 550,
+    "sodium_mg": 1270,
+    "carb_g": 54,
+    "sugar_g": 7,
+    "protein_g": 26,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Steak, Egg & Cheese McMuffin",
+    "calories": 440,
+    "sodium_mg": 960,
+    "carb_g": 31,
+    "sugar_g": 3,
+    "protein_g": 28,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage McMuffin",
+    "calories": 400,
+    "sodium_mg": 760,
+    "carb_g": 290,
+    "sugar_g": 3,
+    "protein_g": 14,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Biscuit and Sausage Gravy",
+    "calories": 440,
+    "sodium_mg": 1210,
+    "carb_g": 43,
+    "sugar_g": 3,
+    "protein_g": 9,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Chorizo Burrito",
+    "calories": 310,
+    "sodium_mg": 820,
+    "carb_g": 28,
+    "sugar_g": 23,
+    "protein_g": 16,
+    "weight_watchers": 11,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Chicken McGriddles",
+    "calories": 390,
+    "sodium_mg": 1000,
+    "carb_g": 51,
+    "sugar_g": 14,
+    "protein_g": 14,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Egg and Cheese Bagel",
+    "calories": 480,
+    "sodium_mg": 1030,
+    "carb_g": 53,
+    "sugar_g": 7,
+    "protein_g": 20,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Blueberry Muffin Main Street Gourmet",
+    "calories": 400,
+    "sodium_mg": 340,
+    "carb_g": 60,
+    "sugar_g": 34,
+    "protein_g": 7,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast 2 Bacon Hotcakes Scrambled Egg and Biscuit",
+    "calories": 1290,
+    "sodium_mg": 2300,
+    "carb_g": 156,
+    "sugar_g": 48,
+    "protein_g": 39,
+    "weight_watchers": 42,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon and White Cheddar Cheese McMuffin",
+    "calories": 350,
+    "sodium_mg": 770,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 20,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Steak Egg and Cheese McGriddles",
+    "calories": 510,
+    "sodium_mg": 1410,
+    "carb_g": 46,
+    "sugar_g": 16,
+    "protein_g": 27,
+    "weight_watchers": 15,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Apple Chinnamon Muffin",
+    "calories": 300,
+    "sodium_mg": 520,
+    "carb_g": 61,
+    "sugar_g": 30,
+    "protein_g": 7,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Sausage Egg and Cheese Bagel",
+    "calories": 680,
+    "sodium_mg": 1320,
+    "carb_g": 53,
+    "sugar_g": 7,
+    "protein_g": 27,
+    "weight_watchers": 19,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast Sausage Scrambled with Hotcakes and Muffin",
+    "calories": 1240,
+    "sodium_mg": 1600,
+    "carb_g": 146,
+    "sugar_g": 47,
+    "protein_g": 35,
+    "weight_watchers": 41,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Double Sausage McMuffin with Egg and Cheese",
+    "calories": 670,
+    "sodium_mg": 1100,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 28,
+    "weight_watchers": 19,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Cranberry Orange Muffin",
+    "calories": 380,
+    "sodium_mg": 430,
+    "carb_g": 70,
+    "sugar_g": 35,
+    "protein_g": 6,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Spam Eggs and Rice",
+    "calories": 480,
+    "sodium_mg": 780,
+    "carb_g": 36,
+    "sugar_g": 1,
+    "protein_g": 24,
+    "weight_watchers": 13,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bagel With Cream Cheese",
+    "calories": 310,
+    "sodium_mg": 570,
+    "carb_g": 49,
+    "sugar_g": 6,
+    "protein_g": 10,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Blueberry Biscuit",
+    "calories": 230,
+    "sodium_mg": 470,
+    "carb_g": 36,
+    "sugar_g": 11,
+    "protein_g": 3,
+    "weight_watchers": 9,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Biscuit Sausage Egg and Cheese",
+    "calories": 580,
+    "sodium_mg": 1340,
+    "carb_g": 39,
+    "sugar_g": 3,
+    "protein_g": 20,
+    "weight_watchers": 17,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast Sausage and English Muffin",
+    "calories": 640,
+    "sodium_mg": 990,
+    "carb_g": 44,
+    "sugar_g": 2,
+    "protein_g": 26,
+    "weight_watchers": 18,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "McChicken Biscuit",
+    "calories": 430,
+    "sodium_mg": 1060,
+    "carb_g": 45,
+    "sugar_g": 2,
+    "protein_g": 14,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Biscuit Sausage Gravy Platter",
+    "calories": 890,
+    "sodium_mg": 2410,
+    "carb_g": 87,
+    "sugar_g": 6,
+    "protein_g": 19,
+    "weight_watchers": 27,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Cinnamon Sweet Cheese Pastry",
+    "calories": 150,
+    "sodium_mg": 160,
+    "carb_g": 16,
+    "sugar_g": 7,
+    "protein_g": 3,
+    "weight_watchers": 6,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Raspberry Pastry",
+    "calories": 110,
+    "sodium_mg": 105,
+    "carb_g": 14,
+    "sugar_g": 4,
+    "protein_g": 2,
+    "weight_watchers": 4,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bacon Biscuit",
+    "calories": 340,
+    "sodium_mg": 1010,
+    "carb_g": 36,
+    "sugar_g": 3,
+    "protein_g": 10,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Bagel Plain",
+    "calories": 250,
+    "sodium_mg": 480,
+    "carb_g": 48,
+    "sugar_g": 5,
+    "protein_g": 9,
+    "weight_watchers": 8,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Country Ham Biscuit",
+    "calories": 340,
+    "sodium_mg": 1600,
+    "carb_g": 36,
+    "sugar_g": 2,
+    "protein_g": 15,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast Steak Hotcakes Scrambled with Biscuit",
+    "calories": 1290,
+    "sodium_mg": 2190,
+    "carb_g": 155,
+    "sugar_g": 47,
+    "protein_g": 40,
+    "weight_watchers": 42,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Berry Bran Muffin",
+    "calories": 410,
+    "sodium_mg": 480,
+    "carb_g": 62,
+    "sugar_g": 28,
+    "protein_g": 7,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Grits",
+    "calories": 140,
+    "sodium_mg": 75,
+    "carb_g": 19,
+    "sugar_g": 0,
+    "protein_g": 2,
+    "weight_watchers": 5,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Local Deluxe Breakfast",
+    "calories": 900,
+    "sodium_mg": 1340,
+    "carb_g": 82,
+    "sugar_g": 2,
+    "protein_g": 38,
+    "weight_watchers": 24,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Double Chocolate Muffin",
+    "calories": 450,
+    "sodium_mg": 600,
+    "carb_g": 74,
+    "sugar_g": 42,
+    "protein_g": 8,
+    "weight_watchers": 18,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Blueberry Muffin",
+    "calories": 450,
+    "sodium_mg": 360,
+    "carb_g": 67,
+    "sugar_g": 32,
+    "protein_g": 7,
+    "weight_watchers": 17,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Cinnamon Coffee Cake",
+    "calories": 160,
+    "sodium_mg": 125,
+    "carb_g": 22,
+    "sugar_g": 13,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast Bacon Scrambled and Biscuit",
+    "calories": 690,
+    "sodium_mg": 1690,
+    "carb_g": 54,
+    "sugar_g": 3,
+    "protein_g": 30,
+    "weight_watchers": 19,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Biscuit Sausage and Cheese",
+    "calories": 510,
+    "sodium_mg": 1250,
+    "carb_g": 38,
+    "sugar_g": 3,
+    "protein_g": 14,
+    "weight_watchers": 15,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Spam Side Order",
+    "calories": 190,
+    "sodium_mg": 660,
+    "carb_g": 1,
+    "sugar_g": 1,
+    "protein_g": 8,
+    "weight_watchers": 6,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Portuguese Sausage Eggs and Rice",
+    "calories": 520,
+    "sodium_mg": 690,
+    "carb_g": 37,
+    "sugar_g": 2,
+    "protein_g": 26,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Fruit and Maple Oatmeal with Maple Sugar Packet",
+    "calories": 270,
+    "sodium_mg": 115,
+    "carb_g": 53,
+    "sugar_g": 22,
+    "protein_g": 7,
+    "weight_watchers": 11,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Egg and Chorizo Breakfast Bowl",
+    "calories": 460,
+    "sodium_mg": 1060,
+    "carb_g": 23,
+    "sugar_g": 2,
+    "protein_g": 27,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Hot N Spicy McChicken Biscuit",
+    "calories": 430,
+    "sodium_mg": 1070,
+    "carb_g": 46,
+    "sugar_g": 2,
+    "protein_g": 14,
+    "weight_watchers": 12,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Big Breakfast Steak Scrambled with Biscuit",
+    "calories": 720,
+    "sodium_mg": 1620,
+    "carb_g": 54,
+    "sugar_g": 3,
+    "protein_g": 32,
+    "weight_watchers": 20,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "McGriddles Spam",
+    "calories": 450,
+    "sodium_mg": 1320,
+    "carb_g": 45,
+    "sugar_g": 15,
+    "protein_g": 17,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Green Chile Bacon Burrito",
+    "calories": 690,
+    "sodium_mg": 1640,
+    "carb_g": 66,
+    "sugar_g": 5,
+    "protein_g": 29,
+    "weight_watchers": 19,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Green Chile Sausage",
+    "calories": 820,
+    "sodium_mg": 1680,
+    "carb_g": 66,
+    "sugar_g": 5,
+    "protein_g": 30,
+    "weight_watchers": 23,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Scratch Biscuit and Gravy",
+    "calories": 470,
+    "sodium_mg": 1290,
+    "carb_g": 47,
+    "sugar_g": 4,
+    "protein_g": 10,
+    "weight_watchers": 14,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Biscuit Scratch Sausage and Cheese",
+    "calories": 540,
+    "sodium_mg": 1270,
+    "carb_g": 41,
+    "sugar_g": 4,
+    "protein_g": 14,
+    "weight_watchers": 16,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Chocolatine Pastry",
+    "calories": 160,
+    "sodium_mg": 160,
+    "carb_g": 19,
+    "sugar_g": 6,
+    "protein_g": 3,
+    "weight_watchers": 6,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Lemon Poppy Seed Muffin Topper",
+    "calories": 150,
+    "sodium_mg": 120,
+    "carb_g": 22,
+    "sugar_g": 13,
+    "protein_g": 2,
+    "weight_watchers": 6,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Chocolate Coffee Cake",
+    "calories": 170,
+    "sodium_mg": 180,
+    "carb_g": 21,
+    "sugar_g": 13,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Blueberry Muffin Topper",
+    "calories": 160,
+    "sodium_mg": 150,
+    "carb_g": 22,
+    "sugar_g": 12,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Double Chocolate Muffin Topper",
+    "calories": 170,
+    "sodium_mg": 140,
+    "carb_g": 23,
+    "sugar_g": 14,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Carrot Muffin",
+    "calories": 440,
+    "sodium_mg": 370,
+    "carb_g": 67,
+    "sugar_g": 35,
+    "protein_g": 6,
+    "weight_watchers": 18,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Mini Butter Croissant",
+    "calories": 140,
+    "sodium_mg": 180,
+    "carb_g": 16,
+    "sugar_g": 2,
+    "protein_g": 3,
+    "weight_watchers": 5,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Turkey Sausage and Tomatillo Scramble Bowl",
+    "calories": 330,
+    "sodium_mg": 700,
+    "carb_g": 6,
+    "sugar_g": 1,
+    "protein_g": 29,
+    "weight_watchers": 8,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Cinnamon Sugar Donut Sticks 1/2 Dozen (6 piece)",
+    "calories": 280,
+    "sodium_mg": 260,
+    "carb_g": 34,
+    "sugar_g": 9,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "McGriddles French Toast",
+    "calories": 650,
+    "sodium_mg": 1280,
+    "carb_g": 50,
+    "sugar_g": 24,
+    "protein_g": 31,
+    "weight_watchers": 20,
+    "category": "Breakfast"
+  },
+  {
+    "menu": "Side Salad",
+    "calories": 15,
+    "sodium_mg": 15,
+    "carb_g": 3,
+    "sugar_g": 1,
+    "protein_g": 1,
+    "weight_watchers": 1,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Bacon Ranch Salad (without chicken)",
+    "calories": 180,
+    "sodium_mg": 500,
+    "carb_g": 7,
+    "sugar_g": 3,
+    "protein_g": 14,
+    "weight_watchers": 5,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Southwest Salad (without chicken)",
+    "calories": 160,
+    "sodium_mg": 200,
+    "carb_g": 19,
+    "sugar_g": 4,
+    "protein_g": 8,
+    "weight_watchers": 5,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Bacon Ranch Salad with Buttermilk Crispy Chicken",
+    "calories": 480,
+    "sodium_mg": 1120,
+    "carb_g": 27,
+    "sugar_g": 3,
+    "protein_g": 33,
+    "weight_watchers": 12,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Bacon Ranch Salad Grilled Chicken",
+    "calories": 320,
+    "sodium_mg": 1240,
+    "carb_g": 8,
+    "sugar_g": 3,
+    "protein_g": 42,
+    "weight_watchers": 7,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Southwest Salad with Buttermilk Crispy Chicken",
+    "calories": 520,
+    "sodium_mg": 960,
+    "carb_g": 46,
+    "sugar_g": 9,
+    "protein_g": 28,
+    "weight_watchers": 15,
+    "category": "Salads"
+  },
+  {
+    "menu": "Premium Southwest Salad with Grilled Chicken",
+    "calories": 350,
+    "sodium_mg": 1070,
+    "carb_g": 27,
+    "sugar_g": 9,
+    "protein_g": 37,
+    "weight_watchers": 9,
+    "category": "Salads"
+  },
+  {
+    "menu": "Broccoli Cheese Soup",
+    "calories": 190,
+    "sodium_mg": 1340,
+    "carb_g": 14,
+    "sugar_g": 3,
+    "protein_g": 6,
+    "weight_watchers": 6,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Chicken Noodle Soup",
+    "calories": 110,
+    "sodium_mg": 830,
+    "carb_g": 15,
+    "sugar_g": 1,
+    "protein_g": 10,
+    "weight_watchers": 3,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Fruit 'n Yogurt Parfait",
+    "calories": 210,
+    "sodium_mg": 75,
+    "carb_g": 40,
+    "sugar_g": 28,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Small French Fires",
+    "calories": 230,
+    "sodium_mg": 160,
+    "carb_g": 29,
+    "sugar_g": 0,
+    "protein_g": 3,
+    "weight_watchers": 7,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Fruit 'n Yogurt Parfait with Chobani",
+    "calories": 120,
+    "sodium_mg": 50,
+    "carb_g": 21,
+    "sugar_g": 15,
+    "protein_g": 8,
+    "weight_watchers": 5,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Apple Slices",
+    "calories": 15,
+    "sodium_mg": 0,
+    "carb_g": 4,
+    "sugar_g": 3,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Side Salad",
+    "calories": 15,
+    "sodium_mg": 15,
+    "carb_g": 3,
+    "sugar_g": 1,
+    "protein_g": 1,
+    "weight_watchers": 1,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Large French Fries",
+    "calories": 510,
+    "sodium_mg": 350,
+    "carb_g": 66,
+    "sugar_g": 0,
+    "protein_g": 7,
+    "weight_watchers": 15,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Kids Fries",
+    "calories": 110,
+    "sodium_mg": 80,
+    "carb_g": 15,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 4,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Buttermilk Crispy)",
+    "calories": 380,
+    "sodium_mg": 830,
+    "carb_g": 34,
+    "sugar_g": 2,
+    "protein_g": 16,
+    "weight_watchers": 11,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Ranch Snack Wrap (Grilled)",
+    "calories": 300,
+    "sodium_mg": 890,
+    "carb_g": 25,
+    "sugar_g": 2,
+    "protein_g": 21,
+    "weight_watchers": 8,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Mac Snack Wrap",
+    "calories": 340,
+    "sodium_mg": 660,
+    "carb_g": 26,
+    "sugar_g": 2,
+    "protein_g": 15,
+    "weight_watchers": 10,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Go-GURT Strawberry Flavored Low Fat Yogurt Tube",
+    "calories": 45,
+    "sodium_mg": 30,
+    "carb_g": 7,
+    "sugar_g": 5,
+    "protein_g": 2,
+    "weight_watchers": 2,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Mozzarella Sticks (3 piece)",
+    "calories": 190,
+    "sodium_mg": 460,
+    "carb_g": 18,
+    "sugar_g": 1,
+    "protein_g": 8,
+    "weight_watchers": 6,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Basket of Fries",
+    "calories": 670,
+    "sodium_mg": 460,
+    "carb_g": 87,
+    "sugar_g": 1,
+    "protein_g": 8,
+    "weight_watchers": 20,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Pineapple Side",
+    "calories": 60,
+    "sodium_mg": 0,
+    "carb_g": 15,
+    "sugar_g": 11,
+    "protein_g": 1,
+    "weight_watchers": 4,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Popcorn (large)",
+    "calories": 500,
+    "sodium_mg": 1250,
+    "carb_g": 45,
+    "sugar_g": 0,
+    "protein_g": 6,
+    "weight_watchers": 15,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Medium French Fries",
+    "calories": 340,
+    "sodium_mg": 230,
+    "carb_g": 44,
+    "sugar_g": 0,
+    "protein_g": 4,
+    "weight_watchers": 10,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Portuguese Sausage Side Order",
+    "calories": 220,
+    "sodium_mg": 570,
+    "carb_g": 2,
+    "sugar_g": 1,
+    "protein_g": 10,
+    "weight_watchers": 6,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Saimin",
+    "calories": 240,
+    "sodium_mg": 610,
+    "carb_g": 45,
+    "sugar_g": 2,
+    "protein_g": 10,
+    "weight_watchers": 7,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Popcorn (small)",
+    "calories": 230,
+    "sodium_mg": 580,
+    "carb_g": 21,
+    "sugar_g": 0,
+    "protein_g": 3,
+    "weight_watchers": 7,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "McCheddar Potato Bites (8 piece)",
+    "calories": 270,
+    "sodium_mg": 710,
+    "carb_g": 31,
+    "sugar_g": 2,
+    "protein_g": 6,
+    "weight_watchers": 8,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Gourmet Twist Hot Pretzel with Butter Salt",
+    "calories": 450,
+    "sodium_mg": 960,
+    "carb_g": 85,
+    "sugar_g": 3,
+    "protein_g": 12,
+    "weight_watchers": 13,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Plain Gourmet Pretzel Twist",
+    "calories": 440,
+    "sodium_mg": 460,
+    "carb_g": 85,
+    "sugar_g": 3,
+    "protein_g": 12,
+    "weight_watchers": 13,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Gourmet Twist Hot Pretzel with Butter",
+    "calories": 450,
+    "sodium_mg": 460,
+    "carb_g": 85,
+    "sugar_g": 3,
+    "protein_g": 12,
+    "weight_watchers": 13,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Gilroy Garlic Fries (Large)",
+    "calories": 550,
+    "sodium_mg": 530,
+    "carb_g": 67,
+    "sugar_g": 0,
+    "protein_g": 10,
+    "weight_watchers": 16,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Fruit 'N Yogurt Parfait (Large)",
+    "calories": 300,
+    "sodium_mg": 95,
+    "carb_g": 58,
+    "sugar_g": 45,
+    "protein_g": 8,
+    "weight_watchers": 14,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Cheese Curds",
+    "calories": 440,
+    "sodium_mg": 970,
+    "carb_g": 18,
+    "sugar_g": 1,
+    "protein_g": 24,
+    "weight_watchers": 12,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Made Fruit Punch Slushie (Large)",
+    "calories": 300,
+    "sodium_mg": 25,
+    "carb_g": 80,
+    "sugar_g": 78,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maide Fruit Punch Slushie (Medium)",
+    "calories": 210,
+    "sodium_mg": 20,
+    "carb_g": 58,
+    "sugar_g": 56,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Cinnamon Sugar Donut Sticks 1/2 Dozen (6 piece)",
+    "calories": 280,
+    "sodium_mg": 260,
+    "carb_g": 34,
+    "sugar_g": 9,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Cinnamon Sugar Donut Sticks Dozen (12 piece)",
+    "calories": 560,
+    "sodium_mg": 520,
+    "carb_g": 68,
+    "sugar_g": 18,
+    "protein_g": 12,
+    "weight_watchers": 19,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "French Fires (Large) Compostable Packaging",
+    "calories": 470,
+    "sodium_mg": 330,
+    "carb_g": 61,
+    "sugar_g": 0,
+    "protein_g": 6,
+    "weight_watchers": 14,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "French Fires (Medium) Compostable Packaging",
+    "calories": 380,
+    "sodium_mg": 260,
+    "carb_g": 49,
+    "sugar_g": 0,
+    "protein_g": 5,
+    "weight_watchers": 12,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Hot Caramel Sundae Compostable Packaging",
+    "calories": 340,
+    "sodium_mg": 140,
+    "carb_g": 54,
+    "sugar_g": 38,
+    "protein_g": 7,
+    "weight_watchers": 15,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Strawberry Sundae Compostable Packaging",
+    "calories": 270,
+    "sodium_mg": 75,
+    "carb_g": 43,
+    "sugar_g": 38,
+    "protein_g": 6,
+    "weight_watchers": 13,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Large)",
+    "calories": 340,
+    "sodium_mg": 25,
+    "carb_g": 92,
+    "sugar_g": 89,
+    "protein_g": 0,
+    "weight_watchers": 22,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Small)",
+    "calories": 190,
+    "sodium_mg": 15,
+    "carb_g": 51,
+    "sugar_g": 50,
+    "protein_g": 0,
+    "weight_watchers": 12,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Medium)",
+    "calories": 240,
+    "sodium_mg": 20,
+    "carb_g": 66,
+    "sugar_g": 64,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Cheesy Bacon Fries",
+    "calories": 560,
+    "sodium_mg": 1270,
+    "carb_g": 53,
+    "sugar_g": 5,
+    "protein_g": 15,
+    "weight_watchers": 17,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Swet Peach Slushie (Medium)",
+    "calories": 230,
+    "sodium_mg": 20,
+    "carb_g": 62,
+    "sugar_g": 60,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Swet Peach Slushie (Small)",
+    "calories": 180,
+    "sodium_mg": 15,
+    "carb_g": 48,
+    "sugar_g": 47,
+    "protein_g": 0,
+    "weight_watchers": 12,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Minute Maid Swet Peach Slushie (Large)",
+    "calories": 320,
+    "sodium_mg": 30,
+    "carb_g": 87,
+    "sugar_g": 84,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Chocolate Marshmellow Sauce",
+    "calories": 80,
+    "sodium_mg": 60,
+    "carb_g": 16,
+    "sugar_g": 14,
+    "protein_g": 1,
+    "weight_watchers": 5,
+    "category": "Snacks & Sides"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Large)",
+    "calories": 0,
+    "sodium_mg": 75,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maide Lemonade (Extra Small)",
+    "calories": 30,
+    "sodium_mg": 15,
+    "carb_g": 9,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Chocolate Shake (Small)",
+    "calories": 530,
+    "sodium_mg": 260,
+    "carb_g": 87,
+    "sugar_g": 74,
+    "protein_g": 12,
+    "weight_watchers": 24,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vanilla Shake (Small)",
+    "calories": 490,
+    "sodium_mg": 230,
+    "carb_g": 79,
+    "sugar_g": 59,
+    "protein_g": 11,
+    "weight_watchers": 21,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Strawberry Shake (Small)",
+    "calories": 500,
+    "sodium_mg": 190,
+    "carb_g": 80,
+    "sugar_g": 71,
+    "protein_g": 12,
+    "weight_watchers": 23,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Egg Nog Shake (Small)",
+    "calories": 450,
+    "sodium_mg": 160,
+    "carb_g": 74,
+    "sugar_g": 63,
+    "protein_g": 10,
+    "weight_watchers": 21,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hot Chocolate (Small)",
+    "calories": 430,
+    "sodium_mg": 210,
+    "carb_g": 56,
+    "sugar_g": 52,
+    "protein_g": 14,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 30,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Medium)",
+    "calories": 0,
+    "sodium_mg": 55,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Small)",
+    "calories": 0,
+    "sodium_mg": 40,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Coffee (Large)",
+    "calories": 260,
+    "sodium_mg": 90,
+    "carb_g": 45,
+    "sugar_g": 42,
+    "protein_g": 3,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Coffee (Medium)",
+    "calories": 180,
+    "sodium_mg": 65,
+    "carb_g": 30,
+    "sugar_g": 28,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fat Free Chocolate Milk Jug",
+    "calories": 130,
+    "sodium_mg": 135,
+    "carb_g": 23,
+    "sugar_g": 22,
+    "protein_g": 9,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dasani Water",
+    "calories": 0,
+    "sodium_mg": 0,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "1% Low Fat Milk Jug",
+    "calories": 100,
+    "sodium_mg": 125,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 8,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Small)",
+    "calories": 150,
+    "sodium_mg": 40,
+    "carb_g": 39,
+    "sugar_g": 39,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Small)",
+    "calories": 140,
+    "sodium_mg": 50,
+    "carb_g": 38,
+    "sugar_g": 37,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Small)",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Small)",
+    "calories": 140,
+    "sodium_mg": 70,
+    "carb_g": 35,
+    "sugar_g": 35,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Tea (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Small)",
+    "calories": 90,
+    "sodium_mg": 15,
+    "carb_g": 21,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Small)",
+    "calories": 25,
+    "sodium_mg": 25,
+    "carb_g": 6,
+    "sugar_g": 6,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Medium)",
+    "calories": 110,
+    "sodium_mg": 20,
+    "carb_g": 28,
+    "sugar_g": 28,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Extra Small)",
+    "calories": 110,
+    "sodium_mg": 35,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Large)",
+    "calories": 290,
+    "sodium_mg": 85,
+    "carb_g": 80,
+    "sugar_g": 80,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Medium)",
+    "calories": 220,
+    "sodium_mg": 55,
+    "carb_g": 59,
+    "sugar_g": 59,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Large)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Medium)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Large)",
+    "calories": 0,
+    "sodium_mg": 45,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Medium)",
+    "calories": 0,
+    "sodium_mg": 35,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Extra Small)",
+    "calories": 100,
+    "sodium_mg": 35,
+    "carb_g": 27,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Large)",
+    "calories": 280,
+    "sodium_mg": 90,
+    "carb_g": 75,
+    "sugar_g": 73,
+    "protein_g": 0,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Medium)",
+    "calories": 200,
+    "sodium_mg": 65,
+    "carb_g": 54,
+    "sugar_g": 53,
+    "protein_g": 0,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Tea (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Tea (Large)",
+    "calories": 5,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 1,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Tea (Medium)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Orange Juice (Large)",
+    "calories": 280,
+    "sodium_mg": 5,
+    "carb_g": 65,
+    "sugar_g": 58,
+    "protein_g": 4,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Extra Small)",
+    "calories": 20,
+    "sodium_mg": 20,
+    "carb_g": 5,
+    "sugar_g": 5,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Large)",
+    "calories": 45,
+    "sodium_mg": 50,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Medium)",
+    "calories": 35,
+    "sodium_mg": 35,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Extra Small)",
+    "calories": 90,
+    "sodium_mg": 50,
+    "carb_g": 27,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Large)",
+    "calories": 230,
+    "sodium_mg": 130,
+    "carb_g": 69,
+    "sugar_g": 69,
+    "protein_g": 0,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Medium)",
+    "calories": 170,
+    "sodium_mg": 95,
+    "carb_g": 51,
+    "sugar_g": 51,
+    "protein_g": 0,
+    "weight_watchers": 12,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Extra Large)",
+    "calories": 60,
+    "sodium_mg": 10,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Large)",
+    "calories": 160,
+    "sodium_mg": 25,
+    "carb_g": 38,
+    "sugar_g": 38,
+    "protein_g": 1,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Small)",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 17,
+    "sugar_g": 17,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Large)",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 23,
+    "sugar_g": 23,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Classic Lemonade (Small)",
+    "calories": 100,
+    "sodium_mg": 10,
+    "carb_g": 25,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Classic Lemonade (Medium)",
+    "calories": 130,
+    "sodium_mg": 15,
+    "carb_g": 32,
+    "sugar_g": 28,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Classic Lemonade (Large)",
+    "calories": 170,
+    "sodium_mg": 15,
+    "carb_g": 43,
+    "sugar_g": 37,
+    "protein_g": 1,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Strawberry Lemonade (Small)",
+    "calories": 120,
+    "sodium_mg": 10,
+    "carb_g": 33,
+    "sugar_g": 28,
+    "protein_g": 1,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Strawberry Lemonade (Medium)",
+    "calories": 160,
+    "sodium_mg": 15,
+    "carb_g": 43,
+    "sugar_g": 37,
+    "protein_g": 1,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Strawberry Lemonade (Large)",
+    "calories": 220,
+    "sodium_mg": 20,
+    "carb_g": 57,
+    "sugar_g": 50,
+    "protein_g": 1,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Medium) No Ice",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 23,
+    "sugar_g": 23,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Blue Raspberry ICEE",
+    "calories": 130,
+    "sodium_mg": 60,
+    "carb_g": 34,
+    "sugar_g": 34,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Large)",
+    "calories": 310,
+    "sodium_mg": 95,
+    "carb_g": 84,
+    "sugar_g": 83,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Beverages"
+  },
+  {
+    "menu": "DO NOT USE Fanta Orange (Large) No Ice",
+    "calories": 410,
+    "sodium_mg": 90,
+    "carb_g": 112,
+    "sugar_g": 110,
+    "protein_g": 0,
+    "weight_watchers": 26,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Medium) No Ice",
+    "calories": 70,
+    "sodium_mg": 20,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 125,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Extra Small) No Ice",
+    "calories": 160,
+    "sodium_mg": 45,
+    "carb_g": 44,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Extra Small)",
+    "calories": 110,
+    "sodium_mg": 35,
+    "carb_g": 31,
+    "sugar_g": 30,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 50,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Large) No Ice",
+    "calories": 120,
+    "sodium_mg": 25,
+    "carb_g": 33,
+    "sugar_g": 33,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Large)",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 25,
+    "sugar_g": 25,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Small) No Ice",
+    "calories": 230,
+    "sodium_mg": 70,
+    "carb_g": 60,
+    "sugar_g": 59,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Small)",
+    "calories": 50,
+    "sodium_mg": 10,
+    "carb_g": 14,
+    "sugar_g": 14,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Large)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Large) No Ice",
+    "calories": 100,
+    "sodium_mg": 25,
+    "carb_g": 28,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Large) No Ice",
+    "calories": 370,
+    "sodium_mg": 170,
+    "carb_g": 97,
+    "sugar_g": 95,
+    "protein_g": 0,
+    "weight_watchers": 23,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Small)",
+    "calories": 40,
+    "sodium_mg": 25,
+    "carb_g": 12,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 30,
+    "carb_g": 16,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Orange Juice (Small)",
+    "calories": 150,
+    "sodium_mg": 0,
+    "carb_g": 36,
+    "sugar_g": 32,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 18,
+    "sugar_g": 18,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Small)",
+    "calories": 50,
+    "sodium_mg": 10,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Large) No Ice",
+    "calories": 120,
+    "sodium_mg": 25,
+    "carb_g": 33,
+    "sugar_g": 33,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Large)",
+    "calories": 100,
+    "sodium_mg": 20,
+    "carb_g": 25,
+    "sugar_g": 25,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Small)",
+    "calories": 50,
+    "sodium_mg": 10,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Small) No Ice",
+    "calories": 230,
+    "sodium_mg": 70,
+    "carb_g": 59,
+    "sugar_g": 58,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 25,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 40,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Large)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Medium)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Small) No Ice",
+    "calories": 35,
+    "sodium_mg": 15,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Small)",
+    "calories": 25,
+    "sodium_mg": 10,
+    "carb_g": 7,
+    "sugar_g": 7,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Extra Small) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 65,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Small) No Ice",
+    "calories": 120,
+    "sodium_mg": 70,
+    "carb_g": 57,
+    "sugar_g": 56,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Small)",
+    "calories": 160,
+    "sodium_mg": 15,
+    "carb_g": 43,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 100,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 20,
+    "carb_g": 21,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 35,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Small) No Ice",
+    "calories": 50,
+    "sodium_mg": 15,
+    "carb_g": 15,
+    "sugar_g": 14,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Medium) No Ice",
+    "calories": 280,
+    "sodium_mg": 90,
+    "carb_g": 75,
+    "sugar_g": 73,
+    "protein_g": 0,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Medium)",
+    "calories": 230,
+    "sodium_mg": 20,
+    "carb_g": 62,
+    "sugar_g": 62,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 55,
+    "carb_g": 29,
+    "sugar_g": 28,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Large)",
+    "calories": 80,
+    "sodium_mg": 45,
+    "carb_g": 22,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Small)",
+    "calories": 160,
+    "sodium_mg": 50,
+    "carb_g": 43,
+    "sugar_g": 42,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Small) No Ice",
+    "calories": 220,
+    "sodium_mg": 65,
+    "carb_g": 59,
+    "sugar_g": 58,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Extra Small) No Ice",
+    "calories": 170,
+    "sodium_mg": 55,
+    "carb_g": 45,
+    "sugar_g": 44,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Medium) No Ice",
+    "calories": 260,
+    "sodium_mg": 120,
+    "carb_g": 68,
+    "sugar_g": 67,
+    "protein_g": 0,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Blue Raspberry ICEE (Medium)",
+    "calories": 170,
+    "sodium_mg": 80,
+    "carb_g": 44,
+    "sugar_g": 44,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Orange Juice (Medium)",
+    "calories": 200,
+    "sodium_mg": 0,
+    "carb_g": 45,
+    "sugar_g": 41,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Medium)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Medium) No Ice",
+    "calories": 45,
+    "sodium_mg": 45,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Grape (Extra Small) No Ice",
+    "calories": 170,
+    "sodium_mg": 55,
+    "carb_g": 44,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coke ICEE (Medium)",
+    "calories": 170,
+    "sodium_mg": 70,
+    "carb_g": 47,
+    "sugar_g": 47,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 25,
+    "carb_g": 30,
+    "sugar_g": 30,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Extra Small)",
+    "calories": 20,
+    "sodium_mg": 10,
+    "carb_g": 5,
+    "sugar_g": 5,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Extra Small) No Ice",
+    "calories": 25,
+    "sodium_mg": 10,
+    "carb_g": 7,
+    "sugar_g": 7,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Wild Cherry ICEE (Small)",
+    "calories": 130,
+    "sodium_mg": 60,
+    "carb_g": 34,
+    "sugar_g": 34,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Medium) No Ice",
+    "calories": 70,
+    "sodium_mg": 40,
+    "carb_g": 20,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Medium)",
+    "calories": 60,
+    "sodium_mg": 30,
+    "carb_g": 17,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Iced Tea (Gallon)",
+    "calories": 40,
+    "sodium_mg": 75,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 5,
+    "weight_watchers": 1,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Large) No Ice",
+    "calories": 400,
+    "sodium_mg": 125,
+    "carb_g": 108,
+    "sugar_g": 104,
+    "protein_g": 0,
+    "weight_watchers": 25,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Large)",
+    "calories": 320,
+    "sodium_mg": 30,
+    "carb_g": 85,
+    "sugar_g": 85,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Beverages"
+  },
+  {
+    "menu": "1% Low Fat Milk Jug California",
+    "calories": 130,
+    "sodium_mg": 160,
+    "carb_g": 16,
+    "sugar_g": 15,
+    "protein_g": 11,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Extra Small) No Ice",
+    "calories": 25,
+    "sodium_mg": 25,
+    "carb_g": 6,
+    "sugar_g": 6,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Extra Small) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 25,
+    "carb_g": 33,
+    "sugar_g": 33,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Large)",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 25,
+    "sugar_g": 25,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Small)",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 17,
+    "sugar_g": 17,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 18,
+    "sugar_g": 18,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Small)",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 20,
+    "carb_g": 22,
+    "sugar_g": 22,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 18,
+    "sugar_g": 18,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Fruit Punch (Extra Small) No Ice",
+    "calories": 160,
+    "sodium_mg": 50,
+    "carb_g": 43,
+    "sugar_g": 42,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Strawberry Punch (Extra Small)",
+    "calories": 120,
+    "sodium_mg": 10,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Extra Small) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 50,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Medium) No Ice",
+    "calories": 300,
+    "sodium_mg": 95,
+    "carb_g": 78,
+    "sugar_g": 77,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coke ICEE (Small)",
+    "calories": 130,
+    "sodium_mg": 55,
+    "carb_g": 35,
+    "sugar_g": 35,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Fruit Punch (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 20,
+    "carb_g": 23,
+    "sugar_g": 23,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Medium)",
+    "calories": 180,
+    "sodium_mg": 80,
+    "carb_g": 45,
+    "sugar_g": 45,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Large) No Ice",
+    "calories": 60,
+    "sodium_mg": 65,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite Zero (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Large) No Ice",
+    "calories": 430,
+    "sodium_mg": 135,
+    "carb_g": 112,
+    "sugar_g": 110,
+    "protein_g": 0,
+    "weight_watchers": 27,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta Strawberry (Large)",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 26,
+    "sugar_g": 26,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Medium)",
+    "calories": 70,
+    "sodium_mg": 15,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Medium) No Ice",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 23,
+    "sugar_g": 23,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Wild Cherry ICEE (Medium)",
+    "calories": 180,
+    "sodium_mg": 80,
+    "carb_g": 45,
+    "sugar_g": 45,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Large)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 1,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Dr Pepper (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Medium) No Ice",
+    "calories": 290,
+    "sodium_mg": 80,
+    "carb_g": 77,
+    "sugar_g": 76,
+    "protein_g": 0,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Medium)",
+    "calories": 230,
+    "sodium_mg": 70,
+    "carb_g": 61,
+    "sugar_g": 60,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Extra Small) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Medium)",
+    "calories": 35,
+    "sodium_mg": 15,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Medium) No Ice",
+    "calories": 45,
+    "sodium_mg": 20,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "POWERADE Mountain Berry Blast (Small) No Ice",
+    "calories": 35,
+    "sodium_mg": 35,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Extra Small) No Ice",
+    "calories": 150,
+    "sodium_mg": 70,
+    "carb_g": 39,
+    "sugar_g": 38,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 55,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Red Flash (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 20,
+    "carb_g": 21,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Dr Pepper (Extra Small) No Ice",
+    "calories": 40,
+    "sodium_mg": 10,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola Zero Sugar (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 70,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coca-Cola (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Large)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Light Lemonade (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Medium)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Caffeine Free Diet Coke (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Large) No Ice",
+    "calories": 60,
+    "sodium_mg": 25,
+    "carb_g": 17,
+    "sugar_g": 17,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "FUZE Raspberry Tea (Large)",
+    "calories": 50,
+    "sodium_mg": 20,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sprite (Small) No Ice",
+    "calories": 200,
+    "sodium_mg": 90,
+    "carb_g": 51,
+    "sugar_g": 51,
+    "protein_g": 0,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Large) No Ice",
+    "calories": 120,
+    "sodium_mg": 25,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mello Yello (Large)",
+    "calories": 90,
+    "sodium_mg": 20,
+    "carb_g": 24,
+    "sugar_g": 24,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 15,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Root Beer (Extra Small) No Ice",
+    "calories": 50,
+    "sodium_mg": 10,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Orange Juice (Value)",
+    "calories": 110,
+    "sodium_mg": 0,
+    "carb_g": 27,
+    "sugar_g": 24,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Coke (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Coke ICEE (Large)",
+    "calories": 240,
+    "sodium_mg": 100,
+    "carb_g": 67,
+    "sugar_g": 67,
+    "protein_g": 0,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Wild Cherry ICEE (Large)",
+    "calories": 250,
+    "sodium_mg": 115,
+    "carb_g": 64,
+    "sugar_g": 64,
+    "protein_g": 0,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Blue Raspberry ICEE (Large)",
+    "calories": 240,
+    "sodium_mg": 115,
+    "carb_g": 63,
+    "sugar_g": 63,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Medium)",
+    "calories": 60,
+    "sodium_mg": 20,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Medium) No Ice",
+    "calories": 70,
+    "sodium_mg": 25,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Extra Small) No Ice",
+    "calories": 40,
+    "sodium_mg": 15,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Extra Small)",
+    "calories": 30,
+    "sodium_mg": 10,
+    "carb_g": 8,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Small)",
+    "calories": 40,
+    "sodium_mg": 15,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Small) No Ice",
+    "calories": 50,
+    "sodium_mg": 20,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Large)",
+    "calories": 80,
+    "sodium_mg": 30,
+    "carb_g": 21,
+    "sugar_g": 21,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vernor’s Ginger Ale (Large) No Ice",
+    "calories": 100,
+    "sodium_mg": 35,
+    "carb_g": 28,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Blue Raspberry (Medium)",
+    "calories": 130,
+    "sodium_mg": 60,
+    "carb_g": 34,
+    "sugar_g": 34,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Blue Raspberry (Small)",
+    "calories": 90,
+    "sodium_mg": 45,
+    "carb_g": 25,
+    "sugar_g": 25,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Blue Raspberry (Large)",
+    "calories": 170,
+    "sodium_mg": 85,
+    "carb_g": 46,
+    "sugar_g": 46,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hot Tea (Large)",
+    "calories": 5,
+    "sodium_mg": 15,
+    "carb_g": 2,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hot Tea (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Extra Small)",
+    "calories": 80,
+    "sodium_mg": 10,
+    "carb_g": 20,
+    "sugar_g": 20,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Extra Small) No Ice",
+    "calories": 110,
+    "sodium_mg": 10,
+    "carb_g": 28,
+    "sugar_g": 28,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Small)",
+    "calories": 110,
+    "sodium_mg": 15,
+    "carb_g": 27,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Large)",
+    "calories": 200,
+    "sodium_mg": 30,
+    "carb_g": 50,
+    "sugar_g": 50,
+    "protein_g": 1,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Medium)",
+    "calories": 150,
+    "sodium_mg": 20,
+    "carb_g": 36,
+    "sugar_g": 36,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Small) No Ice",
+    "calories": 170,
+    "sodium_mg": 15,
+    "carb_g": 42,
+    "sugar_g": 42,
+    "protein_g": 1,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Medium) No Ice",
+    "calories": 200,
+    "sodium_mg": 20,
+    "carb_g": 49,
+    "sugar_g": 49,
+    "protein_g": 1,
+    "weight_watchers": 12,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Gallon)",
+    "calories": 2110,
+    "sodium_mg": 140,
+    "carb_g": 521,
+    "sugar_g": 521,
+    "protein_g": 4,
+    "weight_watchers": 127,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Medium)",
+    "calories": 230,
+    "sodium_mg": 60,
+    "carb_g": 59,
+    "sugar_g": 59,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Extra Small) No Ice",
+    "calories": 160,
+    "sodium_mg": 40,
+    "carb_g": 42,
+    "sugar_g": 42,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Extra Small)",
+    "calories": 120,
+    "sodium_mg": 30,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Medium) No Ice",
+    "calories": 280,
+    "sodium_mg": 70,
+    "carb_g": 73,
+    "sugar_g": 73,
+    "protein_g": 0,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Small) No Ice",
+    "calories": 210,
+    "sodium_mg": 55,
+    "carb_g": 56,
+    "sugar_g": 56,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Small)",
+    "calories": 160,
+    "sodium_mg": 40,
+    "carb_g": 42,
+    "sugar_g": 42,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Large) No Ice",
+    "calories": 400,
+    "sodium_mg": 105,
+    "carb_g": 105,
+    "sugar_g": 105,
+    "protein_g": 0,
+    "weight_watchers": 25,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Cherry Coca-Cola (Large)",
+    "calories": 310,
+    "sodium_mg": 80,
+    "carb_g": 80,
+    "sugar_g": 80,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Large)",
+    "calories": 290,
+    "sodium_mg": 45,
+    "carb_g": 79,
+    "sugar_g": 79,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Large) No Ice",
+    "calories": 350,
+    "sodium_mg": 50,
+    "carb_g": 94,
+    "sugar_g": 94,
+    "protein_g": 0,
+    "weight_watchers": 22,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Extra Small)",
+    "calories": 120,
+    "sodium_mg": 20,
+    "carb_g": 32,
+    "sugar_g": 32,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Small)",
+    "calories": 170,
+    "sodium_mg": 25,
+    "carb_g": 45,
+    "sugar_g": 45,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Small) No Ice",
+    "calories": 210,
+    "sodium_mg": 30,
+    "carb_g": 57,
+    "sugar_g": 57,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Medium)",
+    "calories": 210,
+    "sodium_mg": 35,
+    "carb_g": 58,
+    "sugar_g": 58,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mr. Pibb Xtra (Medium) No Ice",
+    "calories": 250,
+    "sodium_mg": 35,
+    "carb_g": 67,
+    "sugar_g": 67,
+    "protein_g": 0,
+    "weight_watchers": 16,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Wild Cherry (Small)",
+    "calories": 90,
+    "sodium_mg": 45,
+    "carb_g": 24,
+    "sugar_g": 24,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Wild Cherry (Medium)",
+    "calories": 130,
+    "sodium_mg": 60,
+    "carb_g": 34,
+    "sugar_g": 34,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Frozen Fanta Wild Cherry (Large)",
+    "calories": 170,
+    "sodium_mg": 80,
+    "carb_g": 45,
+    "sugar_g": 45,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Extra Small)",
+    "calories": 30,
+    "sodium_mg": 10,
+    "carb_g": 8,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Extra Small)",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Extra Small)",
+    "calories": 30,
+    "sodium_mg": 10,
+    "carb_g": 8,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Large) No Ice",
+    "calories": 0,
+    "sodium_mg": 40,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Medium)",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 15,
+    "carb_g": 21,
+    "sugar_g": 20,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Small)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Large) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 30,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Small)",
+    "calories": 40,
+    "sodium_mg": 10,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Medium)",
+    "calories": 0,
+    "sodium_mg": 80,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 10,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Pepsi (Extra Small) No Ice",
+    "calories": 150,
+    "sodium_mg": 30,
+    "carb_g": 41,
+    "sugar_g": 41,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Medium)",
+    "calories": 60,
+    "sodium_mg": 15,
+    "carb_g": 16,
+    "sugar_g": 16,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 15,
+    "carb_g": 20,
+    "sugar_g": 20,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 25,
+    "carb_g": 29,
+    "sugar_g": 29,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Large)",
+    "calories": 80,
+    "sodium_mg": 20,
+    "carb_g": 22,
+    "sugar_g": 22,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Small)",
+    "calories": 40,
+    "sodium_mg": 10,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 10,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mist Twist (Extra Small) No Ice",
+    "calories": 45,
+    "sodium_mg": 10,
+    "carb_g": 11,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Large) No Ice",
+    "calories": 110,
+    "sodium_mg": 110,
+    "carb_g": 28,
+    "sugar_g": 28,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Medium) No Ice",
+    "calories": 270,
+    "sodium_mg": 270,
+    "carb_g": 70,
+    "sugar_g": 70,
+    "protein_g": 0,
+    "weight_watchers": 17,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Medium)",
+    "calories": 220,
+    "sodium_mg": 220,
+    "carb_g": 56,
+    "sugar_g": 56,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Large)",
+    "calories": 300,
+    "sodium_mg": 300,
+    "carb_g": 77,
+    "sugar_g": 77,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Small)",
+    "calories": 150,
+    "sodium_mg": 150,
+    "carb_g": 39,
+    "sugar_g": 39,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Small) No Ice",
+    "calories": 60,
+    "sodium_mg": 60,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Extra Small) No Ice",
+    "calories": 150,
+    "sodium_mg": 10,
+    "carb_g": 37,
+    "sugar_g": 37,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 15,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Small) No Ice",
+    "calories": 230,
+    "sodium_mg": 15,
+    "carb_g": 56,
+    "sugar_g": 56,
+    "protein_g": 1,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Southern Style Sweet Tea (Medium) No Ice",
+    "calories": 270,
+    "sodium_mg": 20,
+    "carb_g": 66,
+    "sugar_g": 66,
+    "protein_g": 1,
+    "weight_watchers": 17,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Tea (Medium) No Ice",
+    "calories": 0,
+    "sodium_mg": 25,
+    "carb_g": 0,
+    "sugar_g": 1,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Sweet Tea (Large) No Ice",
+    "calories": 560,
+    "sodium_mg": 35,
+    "carb_g": 141,
+    "sugar_g": 141,
+    "protein_g": 0,
+    "weight_watchers": 34,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Vitamin Water XXX Zero (Extra Small) No Ice",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Lemonade (Extra Small) No Ice",
+    "calories": 40,
+    "sodium_mg": 25,
+    "carb_g": 12,
+    "sugar_g": 11,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Medium)",
+    "calories": 60,
+    "sodium_mg": 25,
+    "carb_g": 17,
+    "sugar_g": 17,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Medium) No Ice",
+    "calories": 80,
+    "sodium_mg": 25,
+    "carb_g": 22,
+    "sugar_g": 22,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Large) No Ice",
+    "calories": 120,
+    "sodium_mg": 35,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Large)",
+    "calories": 90,
+    "sodium_mg": 30,
+    "carb_g": 24,
+    "sugar_g": 24,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Extra Small)",
+    "calories": 110,
+    "sodium_mg": 40,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Extra Small) No Ice",
+    "calories": 160,
+    "sodium_mg": 50,
+    "carb_g": 44,
+    "sugar_g": 44,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Small)",
+    "calories": 45,
+    "sodium_mg": 15,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mountain Dew (Small) No Ice",
+    "calories": 220,
+    "sodium_mg": 70,
+    "carb_g": 59,
+    "sugar_g": 58,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Medium)",
+    "calories": 240,
+    "sodium_mg": 75,
+    "carb_g": 64,
+    "sugar_g": 63,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Medium) No Ice",
+    "calories": 300,
+    "sodium_mg": 95,
+    "carb_g": 79,
+    "sugar_g": 78,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Diet Pepsi (Large)",
+    "calories": 0,
+    "sodium_mg": 35,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Extra Small) No Ice",
+    "calories": 150,
+    "sodium_mg": 160,
+    "carb_g": 40,
+    "sugar_g": 40,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Tropicana Pink Lemonade (Extra Small)",
+    "calories": 30,
+    "sodium_mg": 30,
+    "carb_g": 8,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 2,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Large)",
+    "calories": 320,
+    "sodium_mg": 105,
+    "carb_g": 86,
+    "sugar_g": 85,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Large) No Ice",
+    "calories": 420,
+    "sodium_mg": 135,
+    "carb_g": 113,
+    "sugar_g": 111,
+    "protein_g": 0,
+    "weight_watchers": 27,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Extra Small)",
+    "calories": 120,
+    "sodium_mg": 40,
+    "carb_g": 32,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Extra Small) No Ice",
+    "calories": 170,
+    "sodium_mg": 55,
+    "carb_g": 45,
+    "sugar_g": 44,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Small)",
+    "calories": 160,
+    "sodium_mg": 50,
+    "carb_g": 44,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hawaiian Punch Fruit Juicy Red (Small) No Ice",
+    "calories": 230,
+    "sodium_mg": 70,
+    "carb_g": 60,
+    "sugar_g": 59,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Medium) No Ice",
+    "calories": 290,
+    "sodium_mg": 120,
+    "carb_g": 76,
+    "sugar_g": 76,
+    "protein_g": 0,
+    "weight_watchers": 18,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Medium)",
+    "calories": 70,
+    "sodium_mg": 25,
+    "carb_g": 19,
+    "sugar_g": 19,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Small)",
+    "calories": 50,
+    "sodium_mg": 15,
+    "carb_g": 13,
+    "sugar_g": 13,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Small) No Ice",
+    "calories": 220,
+    "sodium_mg": 90,
+    "carb_g": 58,
+    "sugar_g": 58,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Large)",
+    "calories": 90,
+    "sodium_mg": 35,
+    "carb_g": 25,
+    "sugar_g": 25,
+    "protein_g": 0,
+    "weight_watchers": 6,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Large) No Ice",
+    "calories": 420,
+    "sodium_mg": 170,
+    "carb_g": 109,
+    "sugar_g": 108,
+    "protein_g": 0,
+    "weight_watchers": 26,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Extra Small)",
+    "calories": 35,
+    "sodium_mg": 15,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Barq’s Caffeine Free Root Beer (Extra Small)",
+    "calories": 170,
+    "sodium_mg": 70,
+    "carb_g": 44,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "DO NOT USE Fanta Orange (Small) No Ice",
+    "calories": 220,
+    "sodium_mg": 55,
+    "carb_g": 58,
+    "sugar_g": 57,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "DO NOT USE Fanta Orange (Extra Small) No Ice",
+    "calories": 170,
+    "sodium_mg": 40,
+    "carb_g": 44,
+    "sugar_g": 43,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Fruit Punch Slushie (Large)",
+    "calories": 300,
+    "sodium_mg": 25,
+    "carb_g": 80,
+    "sugar_g": 78,
+    "protein_g": 0,
+    "weight_watchers": 19,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Fruit Punch Slushie (Medium)",
+    "calories": 210,
+    "sodium_mg": 20,
+    "carb_g": 58,
+    "sugar_g": 56,
+    "protein_g": 0,
+    "weight_watchers": 14,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Fruit Punch Slushie (Small)",
+    "calories": 170,
+    "sodium_mg": 15,
+    "carb_g": 45,
+    "sugar_g": 44,
+    "protein_g": 0,
+    "weight_watchers": 11,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Hot Tea (Medium)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Fanta® Orange (Small)",
+    "calories": 150,
+    "sodium_mg": 40,
+    "carb_g": 39,
+    "sugar_g": 38,
+    "protein_g": 0,
+    "weight_watchers": 10,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Large)",
+    "calories": 260,
+    "sodium_mg": 150,
+    "carb_g": 69,
+    "sugar_g": 70,
+    "protein_g": 0,
+    "weight_watchers": 17,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Large) No Ice",
+    "calories": 100,
+    "sodium_mg": 50,
+    "carb_g": 26,
+    "sugar_g": 26,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Small)",
+    "calories": 130,
+    "sodium_mg": 40,
+    "carb_g": 36,
+    "sugar_g": 35,
+    "protein_g": 0,
+    "weight_watchers": 9,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Small) No Ice",
+    "calories": 50,
+    "sodium_mg": 25,
+    "carb_g": 14,
+    "sugar_g": 14,
+    "protein_g": 0,
+    "weight_watchers": 4,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Extra Small)",
+    "calories": 100,
+    "sodium_mg": 60,
+    "carb_g": 27,
+    "sugar_g": 27,
+    "protein_g": 0,
+    "weight_watchers": 7,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Extra Small) No Ice",
+    "calories": 40,
+    "sodium_mg": 20,
+    "carb_g": 10,
+    "sugar_g": 10,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Medium)",
+    "calories": 190,
+    "sodium_mg": 110,
+    "carb_g": 51,
+    "sugar_g": 52,
+    "protein_g": 0,
+    "weight_watchers": 13,
+    "category": "Beverages"
+  },
+  {
+    "menu": "MIX by Sprite™ Tropic Berry (Medium) No Ice",
+    "calories": 70,
+    "sodium_mg": 35,
+    "carb_g": 18,
+    "sugar_g": 18,
+    "protein_g": 0,
+    "weight_watchers": 5,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Honest Kids Appley Ever After (Box 6 fl oz Drink Box)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 9,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Large)",
+    "calories": 340,
+    "sodium_mg": 25,
+    "carb_g": 92,
+    "sugar_g": 89,
+    "protein_g": 0,
+    "weight_watchers": 22,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Small)",
+    "calories": 190,
+    "sodium_mg": 15,
+    "carb_g": 51,
+    "sugar_g": 50,
+    "protein_g": 0,
+    "weight_watchers": 12,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Blue Raspberry Slushie (Medium)",
+    "calories": 240,
+    "sodium_mg": 20,
+    "carb_g": 66,
+    "sugar_g": 64,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Orange Crush (Large) No Ice",
+    "calories": 120,
+    "sodium_mg": 35,
+    "carb_g": 31,
+    "sugar_g": 31,
+    "protein_g": 0,
+    "weight_watchers": 8,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Sweet Peach Slushie (Medium)",
+    "calories": 230,
+    "sodium_mg": 20,
+    "carb_g": 62,
+    "sugar_g": 60,
+    "protein_g": 0,
+    "weight_watchers": 15,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Sweet Peach Slushie (Small)",
+    "calories": 180,
+    "sodium_mg": 15,
+    "carb_g": 48,
+    "sugar_g": 47,
+    "protein_g": 0,
+    "weight_watchers": 12,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Minute Maid Sweet Peach Slushie (Large)",
+    "calories": 320,
+    "sodium_mg": 30,
+    "carb_g": 87,
+    "sugar_g": 84,
+    "protein_g": 0,
+    "weight_watchers": 20,
+    "category": "Beverages"
+  },
+  {
+    "menu": "Mocha (Small)",
+    "calories": 340,
+    "sodium_mg": 140,
+    "carb_g": 49,
+    "sugar_g": 45,
+    "protein_g": 9,
+    "weight_watchers": 15,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Coffee (Small)",
+    "calories": 0,
+    "sodium_mg": 20,
+    "carb_g": 1,
+    "sugar_g": 0,
+    "protein_g": 2,
+    "weight_watchers": 0,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Latte (Small)",
+    "calories": 90,
+    "sodium_mg": 65,
+    "carb_g": 7,
+    "sugar_g": 7,
+    "protein_g": 4,
+    "weight_watchers": 4,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Coffee (Small)",
+    "calories": 140,
+    "sodium_mg": 50,
+    "carb_g": 24,
+    "sugar_g": 22,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mocha Caramel (Small)",
+    "calories": 310,
+    "sodium_mg": 230,
+    "carb_g": 44,
+    "sugar_g": 40,
+    "protein_g": 9,
+    "weight_watchers": 14,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Frappe Mocha (Small)",
+    "calories": 420,
+    "sodium_mg": 120,
+    "carb_g": 60,
+    "sugar_g": 54,
+    "protein_g": 7,
+    "weight_watchers": 19,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Frappe Caramel (Small)",
+    "calories": 420,
+    "sodium_mg": 125,
+    "carb_g": 60,
+    "sugar_g": 55,
+    "protein_g": 7,
+    "weight_watchers": 19,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Strawberry Banana (Small)",
+    "calories": 190,
+    "sodium_mg": 40,
+    "carb_g": 44,
+    "sugar_g": 39,
+    "protein_g": 2,
+    "weight_watchers": 11,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mango Pineapple Smoothie (Small)",
+    "calories": 200,
+    "sodium_mg": 35,
+    "carb_g": 45,
+    "sugar_g": 42,
+    "protein_g": 2,
+    "weight_watchers": 11,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Hot Chocolate (Small)",
+    "calories": 430,
+    "sodium_mg": 210,
+    "carb_g": 56,
+    "sugar_g": 52,
+    "protein_g": 14,
+    "weight_watchers": 18,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Caramel Cappuccino (Small)",
+    "calories": 210,
+    "sodium_mg": 300,
+    "carb_g": 35,
+    "sugar_g": 32,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Vanilla Cappuccino (Small)",
+    "calories": 190,
+    "sodium_mg": 70,
+    "carb_g": 30,
+    "sugar_g": 29,
+    "protein_g": 6,
+    "weight_watchers": 9,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Caramel Latte (Small)",
+    "calories": 180,
+    "sodium_mg": 250,
+    "carb_g": 28,
+    "sugar_g": 26,
+    "protein_g": 6,
+    "weight_watchers": 9,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced French Vanilla Latte (Small)",
+    "calories": 190,
+    "sodium_mg": 85,
+    "carb_g": 28,
+    "sugar_g": 26,
+    "protein_g": 7,
+    "weight_watchers": 9,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte (Small)",
+    "calories": 160,
+    "sodium_mg": 115,
+    "carb_g": 13,
+    "sugar_g": 12,
+    "protein_g": 8,
+    "weight_watchers": 6,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Mocha (Small)",
+    "calories": 290,
+    "sodium_mg": 120,
+    "carb_g": 40,
+    "sugar_g": 36,
+    "protein_g": 7,
+    "weight_watchers": 13,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Caramel Mocha (Small)",
+    "calories": 280,
+    "sodium_mg": 180,
+    "carb_g": 37,
+    "sugar_g": 32,
+    "protein_g": 7,
+    "weight_watchers": 12,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Cappuccino (Small)",
+    "calories": 120,
+    "sodium_mg": 80,
+    "carb_g": 9,
+    "sugar_g": 9,
+    "protein_g": 6,
+    "weight_watchers": 5,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mocha Caramel (Medium)",
+    "calories": 380,
+    "sodium_mg": 280,
+    "carb_g": 54,
+    "sugar_g": 49,
+    "protein_g": 11,
+    "weight_watchers": 17,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mocha Caramel (Large)",
+    "calories": 460,
+    "sodium_mg": 350,
+    "carb_g": 64,
+    "sugar_g": 59,
+    "protein_g": 14,
+    "weight_watchers": 20,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Hot Chocolate (Medium)",
+    "calories": 450,
+    "sodium_mg": 210,
+    "carb_g": 63,
+    "sugar_g": 58,
+    "protein_g": 14,
+    "weight_watchers": 20,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Strawberry Banana Smoothie (Large)",
+    "calories": 330,
+    "sodium_mg": 70,
+    "carb_g": 76,
+    "sugar_g": 68,
+    "protein_g": 4,
+    "weight_watchers": 18,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Coffee Caramel (Small)",
+    "calories": 140,
+    "sodium_mg": 220,
+    "carb_g": 23,
+    "sugar_g": 20,
+    "protein_g": 3,
+    "weight_watchers": 7,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Coffee French Vanilla (Small)",
+    "calories": 120,
+    "sodium_mg": 50,
+    "carb_g": 19,
+    "sugar_g": 17,
+    "protein_g": 2,
+    "weight_watchers": 6,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Coffee (Large)",
+    "calories": 260,
+    "sodium_mg": 90,
+    "carb_g": 45,
+    "sugar_g": 42,
+    "protein_g": 3,
+    "weight_watchers": 13,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Coffee (Medium)",
+    "calories": 180,
+    "sodium_mg": 65,
+    "carb_g": 30,
+    "sugar_g": 28,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Hot Chocolate (Large)",
+    "calories": 560,
+    "sodium_mg": 260,
+    "carb_g": 76,
+    "sugar_g": 71,
+    "protein_g": 17,
+    "weight_watchers": 24,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Mocha (Large)",
+    "calories": 400,
+    "sodium_mg": 140,
+    "carb_g": 64,
+    "sugar_g": 58,
+    "protein_g": 8,
+    "weight_watchers": 19,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Mocha (Medium)",
+    "calories": 350,
+    "sodium_mg": 150,
+    "carb_g": 50,
+    "sugar_g": 46,
+    "protein_g": 9,
+    "weight_watchers": 16,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mocha (Medium)",
+    "calories": 410,
+    "sodium_mg": 180,
+    "carb_g": 60,
+    "sugar_g": 55,
+    "protein_g": 12,
+    "weight_watchers": 18,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Mocha (Large)",
+    "calories": 500,
+    "sodium_mg": 220,
+    "carb_g": 72,
+    "sugar_g": 66,
+    "protein_g": 15,
+    "weight_watchers": 22,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte (Medium)",
+    "calories": 190,
+    "sodium_mg": 135,
+    "carb_g": 15,
+    "sugar_g": 15,
+    "protein_g": 10,
+    "weight_watchers": 7,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte Caramel (Small)",
+    "calories": 250,
+    "sodium_mg": 330,
+    "carb_g": 38,
+    "sugar_g": 35,
+    "protein_g": 8,
+    "weight_watchers": 12,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte French Vanilla (Small)",
+    "calories": 230,
+    "sodium_mg": 100,
+    "carb_g": 33,
+    "sugar_g": 32,
+    "protein_g": 8,
+    "weight_watchers": 11,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Peppermint Mocha (Medium)",
+    "calories": 350,
+    "sodium_mg": 150,
+    "carb_g": 49,
+    "sugar_g": 42,
+    "protein_g": 9,
+    "weight_watchers": 15,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Peppermint Mocha (Large)",
+    "calories": 470,
+    "sodium_mg": 190,
+    "carb_g": 69,
+    "sugar_g": 57,
+    "protein_g": 14,
+    "weight_watchers": 20,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Espresso Americano Coffe (Small)",
+    "calories": 0,
+    "sodium_mg": 10,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte Iced (Medium)",
+    "calories": 150,
+    "sodium_mg": 105,
+    "carb_g": 12,
+    "sugar_g": 11,
+    "protein_g": 8,
+    "weight_watchers": 6,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Caramel Macchiato (Small)",
+    "calories": 260,
+    "sodium_mg": 340,
+    "carb_g": 41,
+    "sugar_g": 37,
+    "protein_g": 8,
+    "weight_watchers": 12,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Caramel Macchiato (Large)",
+    "calories": 400,
+    "sodium_mg": 510,
+    "carb_g": 61,
+    "sugar_g": 56,
+    "protein_g": 13,
+    "weight_watchers": 18,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Caramel Macchiato (Medium)",
+    "calories": 250,
+    "sodium_mg": 330,
+    "carb_g": 40,
+    "sugar_g": 36,
+    "protein_g": 8,
+    "weight_watchers": 12,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Caramel Macchiato (Medium)",
+    "calories": 320,
+    "sodium_mg": 420,
+    "carb_g": 50,
+    "sugar_g": 45,
+    "protein_g": 10,
+    "weight_watchers": 15,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Latte Iced (Large)",
+    "calories": 120,
+    "sodium_mg": 90,
+    "carb_g": 10,
+    "sugar_g": 9,
+    "protein_g": 6,
+    "weight_watchers": 5,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Caramel Macchiato (Large)",
+    "calories": 370,
+    "sodium_mg": 490,
+    "carb_g": 58,
+    "sugar_g": 53,
+    "protein_g": 11,
+    "weight_watchers": 17,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Iced Caramel Macchiato (Small)",
+    "calories": 210,
+    "sodium_mg": 260,
+    "carb_g": 32,
+    "sugar_g": 29,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Cold Brew Coffee (S)",
+    "calories": 10,
+    "sodium_mg": 10,
+    "carb_g": 2,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 1,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Marble Cold Brew Coffee (S)",
+    "calories": 90,
+    "sodium_mg": 75,
+    "carb_g": 16,
+    "sugar_g": 13,
+    "protein_g": 2,
+    "weight_watchers": 5,
+    "category": "McCafé"
+  },
+  {
+    "menu": "Baked Hot Apple Pie",
+    "calories": 240,
+    "sodium_mg": 95,
+    "carb_g": 35,
+    "sugar_g": 16,
+    "protein_g": 2,
+    "weight_watchers": 10,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Chip Cookie",
+    "calories": 160,
+    "sodium_mg": 90,
+    "carb_g": 22,
+    "sugar_g": 14,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Oatmeal Raisin Cookie",
+    "calories": 140,
+    "sodium_mg": 125,
+    "carb_g": 22,
+    "sugar_g": 11,
+    "protein_g": 2,
+    "weight_watchers": 6,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Shake (Medium)",
+    "calories": 630,
+    "sodium_mg": 310,
+    "carb_g": 104,
+    "sugar_g": 89,
+    "protein_g": 14,
+    "weight_watchers": 29,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Shake (Lage)",
+    "calories": 840,
+    "sodium_mg": 420,
+    "carb_g": 142,
+    "sugar_g": 122,
+    "protein_g": 19,
+    "weight_watchers": 39,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Cone",
+    "calories": 200,
+    "sodium_mg": 80,
+    "carb_g": 32,
+    "sugar_g": 24,
+    "protein_g": 5,
+    "weight_watchers": 9,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Kiddie Cone",
+    "calories": 45,
+    "sodium_mg": 20,
+    "carb_g": 8,
+    "sugar_g": 6,
+    "protein_g": 1,
+    "weight_watchers": 2,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Hot Fudge Sundae",
+    "calories": 380,
+    "sodium_mg": 180,
+    "carb_g": 53,
+    "sugar_g": 47,
+    "protein_g": 10,
+    "weight_watchers": 17,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Hot Caramel Sundae",
+    "calories": 380,
+    "sodium_mg": 160,
+    "carb_g": 61,
+    "sugar_g": 44,
+    "protein_g": 9,
+    "weight_watchers": 16,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Sundae",
+    "calories": 320,
+    "sodium_mg": 95,
+    "carb_g": 50,
+    "sugar_g": 45,
+    "protein_g": 8,
+    "weight_watchers": 15,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with M&M’S Chocolate Candies",
+    "calories": 630,
+    "sodium_mg": 200,
+    "carb_g": 96,
+    "sugar_g": 86,
+    "protein_g": 13,
+    "weight_watchers": 29,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Oreo Cookies",
+    "calories": 510,
+    "sodium_mg": 260,
+    "carb_g": 80,
+    "sugar_g": 63,
+    "protein_g": 12,
+    "weight_watchers": 22,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Shake (Small)",
+    "calories": 530,
+    "sodium_mg": 260,
+    "carb_g": 87,
+    "sugar_g": 74,
+    "protein_g": 12,
+    "weight_watchers": 24,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Shake (Small)",
+    "calories": 490,
+    "sodium_mg": 230,
+    "carb_g": 79,
+    "sugar_g": 59,
+    "protein_g": 11,
+    "weight_watchers": 21,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Shake (Small)",
+    "calories": 500,
+    "sodium_mg": 190,
+    "carb_g": 80,
+    "sugar_g": 71,
+    "protein_g": 12,
+    "weight_watchers": 23,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Egg Nog Shake (Small)",
+    "calories": 450,
+    "sodium_mg": 160,
+    "carb_g": 74,
+    "sugar_g": 63,
+    "protein_g": 10,
+    "weight_watchers": 21,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry & Crème",
+    "calories": 290,
+    "sodium_mg": 160,
+    "carb_g": 34,
+    "sugar_g": 13,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Sugar Cookie",
+    "calories": 150,
+    "sodium_mg": 115,
+    "carb_g": 21,
+    "sugar_g": 11,
+    "protein_g": 2,
+    "weight_watchers": 6,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Shamrock Shake (Small)",
+    "calories": 460,
+    "sodium_mg": 150,
+    "carb_g": 74,
+    "sugar_g": 63,
+    "protein_g": 10,
+    "weight_watchers": 21,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with M&M’S Chocolate Candies (Snack Size)",
+    "calories": 420,
+    "sodium_mg": 130,
+    "carb_g": 64,
+    "sugar_g": 58,
+    "protein_g": 9,
+    "weight_watchers": 19,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Oreo Cookies (Snack Size)",
+    "calories": 340,
+    "sodium_mg": 170,
+    "carb_g": 53,
+    "sugar_g": 42,
+    "protein_g": 8,
+    "weight_watchers": 15,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Shake (Medium)",
+    "calories": 590,
+    "sodium_mg": 230,
+    "carb_g": 95,
+    "sugar_g": 84,
+    "protein_g": 14,
+    "weight_watchers": 27,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Shake (Large)",
+    "calories": 800,
+    "sodium_mg": 310,
+    "carb_g": 130,
+    "sugar_g": 115,
+    "protein_g": 19,
+    "weight_watchers": 37,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Shake (Medium)",
+    "calories": 590,
+    "sodium_mg": 270,
+    "carb_g": 96,
+    "sugar_g": 72,
+    "protein_g": 13,
+    "weight_watchers": 26,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Shake (Large)",
+    "calories": 800,
+    "sodium_mg": 370,
+    "carb_g": 131,
+    "sugar_g": 99,
+    "protein_g": 18,
+    "weight_watchers": 35,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Egg Nog Shake (Medium)",
+    "calories": 560,
+    "sodium_mg": 200,
+    "carb_g": 91,
+    "sugar_g": 78,
+    "protein_g": 12,
+    "weight_watchers": 26,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Egg Nog Shake (Large)",
+    "calories": 800,
+    "sodium_mg": 290,
+    "carb_g": 132,
+    "sugar_g": 114,
+    "protein_g": 19,
+    "weight_watchers": 37,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Shamrock Shake (Large)",
+    "calories": 560,
+    "sodium_mg": 190,
+    "carb_g": 91,
+    "sugar_g": 78,
+    "protein_g": 12,
+    "weight_watchers": 26,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Reese’s Peanut Butter Cup",
+    "calories": 610,
+    "sodium_mg": 320,
+    "carb_g": 84,
+    "sugar_g": 76,
+    "protein_g": 16,
+    "weight_watchers": 27,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Sweet Potato and Creme Pie",
+    "calories": 290,
+    "sodium_mg": 170,
+    "carb_g": 32,
+    "sugar_g": 13,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Pumpkin and Creme Pie",
+    "calories": 280,
+    "sodium_mg": 170,
+    "carb_g": 31,
+    "sugar_g": 13,
+    "protein_g": 3,
+    "weight_watchers": 10,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Twix",
+    "calories": 640,
+    "sodium_mg": 460,
+    "carb_g": 107,
+    "sugar_g": 89,
+    "protein_g": 13,
+    "weight_watchers": 29,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Twix (Snack Size)",
+    "calories": 460,
+    "sodium_mg": 380,
+    "carb_g": 80,
+    "sugar_g": 67,
+    "protein_g": 13,
+    "weight_watchers": 21,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Twist Cone",
+    "calories": 160,
+    "sodium_mg": 80,
+    "carb_g": 26,
+    "sugar_g": 18,
+    "protein_g": 4,
+    "weight_watchers": 7,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Mint Chocolate Chip Ice Cream (1 scoop)",
+    "calories": 330,
+    "sodium_mg": 90,
+    "carb_g": 34,
+    "sugar_g": 21,
+    "protein_g": 5,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Fried Coconut (Haupia) Pie",
+    "calories": 270,
+    "sodium_mg": 220,
+    "carb_g": 29,
+    "sugar_g": 7,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Ice Cream (1 scoop)",
+    "calories": 260,
+    "sodium_mg": 80,
+    "carb_g": 30,
+    "sugar_g": 19,
+    "protein_g": 5,
+    "weight_watchers": 10,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Cone (Large)",
+    "calories": 320,
+    "sodium_mg": 200,
+    "carb_g": 52,
+    "sugar_g": 38,
+    "protein_g": 8,
+    "weight_watchers": 14,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Peaches and Creme Pie",
+    "calories": 300,
+    "sodium_mg": 150,
+    "carb_g": 36,
+    "sugar_g": 14,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Plain Sundae",
+    "calories": 210,
+    "sodium_mg": 85,
+    "carb_g": 32,
+    "sugar_g": 28,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Waffle Cone Sundae With Fudge Topping",
+    "calories": 430,
+    "sodium_mg": 210,
+    "carb_g": 73,
+    "sugar_g": 51,
+    "protein_g": 9,
+    "weight_watchers": 19,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Udderly Chocolate Ice Cream (1 scoop)",
+    "calories": 320,
+    "sodium_mg": 115,
+    "carb_g": 37,
+    "sugar_g": 26,
+    "protein_g": 5,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Orange Sherbert (1 scoop)",
+    "calories": 190,
+    "sodium_mg": 35,
+    "carb_g": 42,
+    "sugar_g": 23,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Bean Ice Cream (1 scoop)",
+    "calories": 290,
+    "sodium_mg": 100,
+    "carb_g": 30,
+    "sugar_g": 17,
+    "protein_g": 5,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Fried Taro Pie",
+    "calories": 240,
+    "sodium_mg": 120,
+    "carb_g": 34,
+    "sugar_g": 11,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Marionberry Pie Ice Cream (1 scoop)",
+    "calories": 300,
+    "sodium_mg": 75,
+    "carb_g": 33,
+    "sugar_g": 30,
+    "protein_g": 5,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Cone",
+    "calories": 170,
+    "sodium_mg": 105,
+    "carb_g": 29,
+    "sugar_g": 19,
+    "protein_g": 4,
+    "weight_watchers": 8,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Caramel Butter Pecan Ice Cream (1 scoop)",
+    "calories": 330,
+    "sodium_mg": 125,
+    "carb_g": 34,
+    "sugar_g": 23,
+    "protein_g": 5,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Guava and Creme Pie",
+    "calories": 310,
+    "sodium_mg": 150,
+    "carb_g": 38,
+    "sugar_g": 15,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Vanilla Cone (Large)",
+    "calories": 300,
+    "sodium_mg": 125,
+    "carb_g": 48,
+    "sugar_g": 39,
+    "protein_g": 8,
+    "weight_watchers": 14,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Twist Cone (Large)",
+    "calories": 300,
+    "sodium_mg": 160,
+    "carb_g": 48,
+    "sugar_g": 37,
+    "protein_g": 8,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Coffee Almond Fudge Ice Cream (1 scoop)",
+    "calories": 160,
+    "sodium_mg": 105,
+    "carb_g": 32,
+    "sugar_g": 22,
+    "protein_g": 5,
+    "weight_watchers": 8,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Oregon Strawberry Ice Cream (1 scoop no cone)",
+    "calories": 280,
+    "sodium_mg": 90,
+    "carb_g": 37,
+    "sugar_g": 18,
+    "protein_g": 5,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Turtle Brownie Sundae",
+    "calories": 620,
+    "sodium_mg": 300,
+    "carb_g": 93,
+    "sugar_g": 70,
+    "protein_g": 10,
+    "weight_watchers": 27,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Peanut Butter Ice Cream (1 scoop)",
+    "calories": 340,
+    "sodium_mg": 140,
+    "carb_g": 35,
+    "sugar_g": 18,
+    "protein_g": 6,
+    "weight_watchers": 12,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "McFlurry with Kit Kat (Regular)",
+    "calories": 580,
+    "sodium_mg": 190,
+    "carb_g": 85,
+    "sugar_g": 73,
+    "protein_g": 13,
+    "weight_watchers": 26,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Shortcake Sundae",
+    "calories": 390,
+    "sodium_mg": 180,
+    "carb_g": 65,
+    "sugar_g": 54,
+    "protein_g": 7,
+    "weight_watchers": 18,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Birthday Cake Dipped Cone",
+    "calories": 170,
+    "sodium_mg": 70,
+    "carb_g": 27,
+    "sugar_g": 20,
+    "protein_g": 5,
+    "weight_watchers": 8,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Bacon Bits",
+    "calories": 70,
+    "sodium_mg": 320,
+    "carb_g": 1,
+    "sugar_g": 1,
+    "protein_g": 7,
+    "weight_watchers": 2,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Cookie Dough Ice Cream (1 scoop)",
+    "calories": 330,
+    "sodium_mg": 125,
+    "carb_g": 40,
+    "sugar_g": 29,
+    "protein_g": 5,
+    "weight_watchers": 14,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Cherry and Creme Pie",
+    "calories": 290,
+    "sodium_mg": 160,
+    "carb_g": 35,
+    "sugar_g": 14,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Caramel Sundae Waffle Cone",
+    "calories": 420,
+    "sodium_mg": 190,
+    "carb_g": 78,
+    "sugar_g": 50,
+    "protein_g": 8,
+    "weight_watchers": 19,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Hot Fudge Sundae Compostable Packaging",
+    "calories": 330,
+    "sodium_mg": 160,
+    "carb_g": 46,
+    "sugar_g": 40,
+    "protein_g": 8,
+    "weight_watchers": 15,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Cinnamon Coffee Cake Muffin",
+    "calories": 450,
+    "sodium_mg": 380,
+    "carb_g": 67,
+    "sugar_g": 39,
+    "protein_g": 4,
+    "weight_watchers": 19,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Tuxedo Coffee Cake",
+    "calories": 0,
+    "sodium_mg": 0,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Fried Guava Pie",
+    "calories": 210,
+    "sodium_mg": 140,
+    "carb_g": 35,
+    "sugar_g": 16,
+    "protein_g": 2,
+    "weight_watchers": 9,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Mixed Berry and Lemon Creme Pie",
+    "calories": 290,
+    "sodium_mg": 170,
+    "carb_g": 35,
+    "sugar_g": 13,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Chocolate Dipped Twist Ice Cream Cone",
+    "calories": 300,
+    "sodium_mg": 110,
+    "carb_g": 41,
+    "sugar_g": 31,
+    "protein_g": 6,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Baked Cherry and Creme Pie",
+    "calories": 290,
+    "sodium_mg": 160,
+    "carb_g": 35,
+    "sugar_g": 14,
+    "protein_g": 3,
+    "weight_watchers": 11,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Oreo McFlurry Sandwich",
+    "calories": 670,
+    "sodium_mg": 350,
+    "carb_g": 98,
+    "sugar_g": 71,
+    "protein_g": 12,
+    "weight_watchers": 28,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "M&M McFlurry Sandwich",
+    "calories": 750,
+    "sodium_mg": 320,
+    "carb_g": 110,
+    "sugar_g": 87,
+    "protein_g": 13,
+    "weight_watchers": 33,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Hot Caramel Sundae Compostable Packaging",
+    "calories": 340,
+    "sodium_mg": 140,
+    "carb_g": 54,
+    "sugar_g": 38,
+    "protein_g": 7,
+    "weight_watchers": 15,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Strawberry Sundae Compostable Packaging",
+    "calories": 270,
+    "sodium_mg": 75,
+    "carb_g": 43,
+    "sugar_g": 38,
+    "protein_g": 6,
+    "weight_watchers": 13,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Netherland’s McFlurry Stroopwfel (Snack Size)",
+    "calories": 480,
+    "sodium_mg": 230,
+    "carb_g": 81,
+    "sugar_g": 57,
+    "protein_g": 9,
+    "weight_watchers": 21,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Netherland’s McFlurry Stroopwafel (Regular)",
+    "calories": 650,
+    "sodium_mg": 310,
+    "carb_g": 108,
+    "sugar_g": 78,
+    "protein_g": 13,
+    "weight_watchers": 28,
+    "category": "Dessert & Shakes"
+  },
+  {
+    "menu": "Fruit 'n Yogurt Parfait",
+    "calories": 210,
+    "sodium_mg": 75,
+    "carb_g": 40,
+    "sugar_g": 28,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage McMuffin with Egg",
+    "calories": 480,
+    "sodium_mg": 830,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 21,
+    "weight_watchers": 13,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Hotcakes and Sausage",
+    "calories": 780,
+    "sodium_mg": 880,
+    "carb_g": 103,
+    "sugar_g": 45,
+    "protein_g": 16,
+    "weight_watchers": 28,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage Burrito",
+    "calories": 300,
+    "sodium_mg": 780,
+    "carb_g": 26,
+    "sugar_g": 2,
+    "protein_g": 13,
+    "weight_watchers": 9,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Egg McMuffin",
+    "calories": 300,
+    "sodium_mg": 760,
+    "carb_g": 30,
+    "sugar_g": 3,
+    "protein_g": 17,
+    "weight_watchers": 8,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese Biscuit",
+    "calories": 450,
+    "sodium_mg": 1300,
+    "carb_g": 40,
+    "sugar_g": 3,
+    "protein_g": 18,
+    "weight_watchers": 13,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage Biscuit",
+    "calories": 460,
+    "sodium_mg": 1050,
+    "carb_g": 36,
+    "sugar_g": 3,
+    "protein_g": 11,
+    "weight_watchers": 14,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage Biscuit with Egg",
+    "calories": 530,
+    "sodium_mg": 1140,
+    "carb_g": 38,
+    "sugar_g": 3,
+    "protein_g": 17,
+    "weight_watchers": 15,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Bacon, Egg & Cheese McGriddles",
+    "calories": 420,
+    "sodium_mg": 1240,
+    "carb_g": 45,
+    "sugar_g": 15,
+    "protein_g": 18,
+    "weight_watchers": 13,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage McGriddles",
+    "calories": 430,
+    "sodium_mg": 990,
+    "carb_g": 42,
+    "sugar_g": 15,
+    "protein_g": 11,
+    "weight_watchers": 14,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage, Egg & Cheese McGriddles",
+    "calories": 550,
+    "sodium_mg": 1290,
+    "carb_g": 45,
+    "sugar_g": 15,
+    "protein_g": 20,
+    "weight_watchers": 17,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Hotcakes",
+    "calories": 590,
+    "sodium_mg": 600,
+    "carb_g": 102,
+    "sugar_g": 45,
+    "protein_g": 9,
+    "weight_watchers": 23,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Hash Browns",
+    "calories": 150,
+    "sodium_mg": 320,
+    "carb_g": 16,
+    "sugar_g": 0,
+    "protein_g": 1,
+    "weight_watchers": 5,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Sausage McMuffin",
+    "calories": 400,
+    "sodium_mg": 760,
+    "carb_g": 29,
+    "sugar_g": 3,
+    "protein_g": 14,
+    "weight_watchers": 12,
+    "category": "All Day Breakfast"
+  },
+  {
+    "menu": "Hamburger",
+    "calories": 250,
+    "sodium_mg": 480,
+    "carb_g": 31,
+    "sugar_g": 6,
+    "protein_g": 13,
+    "weight_watchers": 8,
+    "category": "Happy Meal – Protein"
+  },
+  {
+    "menu": "Chicken McNuggets (6 piece)",
+    "calories": 270,
+    "sodium_mg": 510,
+    "carb_g": 16,
+    "sugar_g": 0,
+    "protein_g": 15,
+    "weight_watchers": 7,
+    "category": "Happy Meal – Protein"
+  },
+  {
+    "menu": "Chicken McNuggets (4 piece)",
+    "calories": 180,
+    "sodium_mg": 340,
+    "carb_g": 11,
+    "sugar_g": 0,
+    "protein_g": 10,
+    "weight_watchers": 5,
+    "category": "Happy Meal – Protein"
+  },
+  {
+    "menu": "Apple Sides",
+    "calories": 15,
+    "sodium_mg": 0,
+    "carb_g": 4,
+    "sugar_g": 3,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Happy Meal – Side"
+  },
+  {
+    "menu": "Go-GURT Strawberry Flavored Low Fat Yogurt Tube",
+    "calories": 45,
+    "sodium_mg": 30,
+    "carb_g": 7,
+    "sugar_g": 5,
+    "protein_g": 2,
+    "weight_watchers": 2,
+    "category": "Happy Meal – Side"
+  },
+  {
+    "menu": "Dasani Water",
+    "calories": 0,
+    "sodium_mg": 0,
+    "carb_g": 0,
+    "sugar_g": 0,
+    "protein_g": 0,
+    "weight_watchers": 0,
+    "category": "Happy Meal – Drinks"
+  },
+  {
+    "menu": "1% Low Fat Milk Jug",
+    "calories": 100,
+    "sodium_mg": 125,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 8,
+    "weight_watchers": 4,
+    "category": "Happy Meal – Drinks"
+  },
+  {
+    "menu": "Honest Kids Appley Ever After (Box 6 fl oz Drink Box)",
+    "calories": 35,
+    "sodium_mg": 10,
+    "carb_g": 9,
+    "sugar_g": 8,
+    "protein_g": 0,
+    "weight_watchers": 3,
+    "category": "Happy Meal – Drinks"
+  },
+  {
+    "menu": "Chicken McNuggets (6 piece)",
+    "calories": 270,
+    "sodium_mg": 510,
+    "carb_g": 16,
+    "sugar_g": 0,
+    "protein_g": 15,
+    "weight_watchers": 7,
+    "category": "Mighty Kids Meal – Protein"
+  },
+  {
+    "menu": "Fat Free Chocolate Milk Jug",
+    "calories": 130,
+    "sodium_mg": 135,
+    "carb_g": 23,
+    "sugar_g": 22,
+    "protein_g": 9,
+    "weight_watchers": 6,
+    "category": "Mighty Kids Meal – Sides"
+  },
+  {
+    "menu": "1% Low Fat Milk Jug",
+    "calories": 100,
+    "sodium_mg": 125,
+    "carb_g": 12,
+    "sugar_g": 12,
+    "protein_g": 8,
+    "weight_watchers": 4,
+    "category": "Mighty Kids Meal – Sides"
+  },
+  {
+    "menu": "Apple Slices",
+    "calories": 15,
+    "sodium_mg": 0,
+    "carb_g": 4,
+    "sugar_g": 3,
+    "protein_g": 0,
+    "weight_watchers": 1,
+    "category": "Mighty Kids Meal – Sides"
+  },
+  {
+    "menu": "Go-GURT Strawberry Flavored Low Fat Yogurt Tube",
+    "calories": 45,
+    "sodium_mg": 30,
+    "carb_g": 7,
+    "sugar_g": 5,
+    "protein_g": 2,
+    "weight_watchers": 2,
+    "category": "Mighty Kids Meal – Sides"
+  },
+  {
+    "menu": "Baked Hot Apple Pie",
+    "calories": 240,
+    "sodium_mg": 95,
+    "carb_g": 35,
+    "sugar_g": 16,
+    "protein_g": 2,
+    "weight_watchers": 10,
+    "category": "McCafé® Bakery"
+  },
+  {
+    "menu": "Chocolate Chip Cookie",
+    "calories": 160,
+    "sodium_mg": 90,
+    "carb_g": 22,
+    "sugar_g": 14,
+    "protein_g": 2,
+    "weight_watchers": 7,
+    "category": "McCafé® Bakery"
+  },
+  {
+    "menu": "Oatmeal Raisin Cookie",
+    "calories": 140,
+    "sodium_mg": 125,
+    "carb_g": 22,
+    "sugar_g": 11,
+    "protein_g": 2,
+    "weight_watchers": 6,
+    "category": "McCafé® Bakery"
+  },
+  {
+    "menu": "Cinnamon Sugar Donut Stick 1/2 Dozen (6 Piece)",
+    "calories": 280,
+    "sodium_mg": 260,
+    "carb_g": 34,
+    "sugar_g": 9,
+    "protein_g": 6,
+    "weight_watchers": 10,
+    "category": "McCafé® Bakery"
+  }
+]
